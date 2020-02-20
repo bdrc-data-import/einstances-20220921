@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13307> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13307 {
+    bda:IE3JT13307  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13307 ;
+        adm:gitPath         "32/IE3JT13307.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13307 ;
+        adm:logEntry        bda:LG3CCF30FD0FDF8662 , bda:LG9C3E2F587D77ED68 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG3CCF30FD0FDF8662
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:13:53.01Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LG9C3E2F587D77ED68
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:56:53.412Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13307  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13307 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13307 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13307  a       :EtextInstance ;
+        skos:prefLabel      "bcom ldan rig pa'i ral gri'i gsung skor/"@bo-x-ewts ;
+        :catalogInfo        "the collection works of bcom lden rig ral"@en ;
+        :hasTitle           bdr:TT4817A1EE91403999 ;
+        :instanceOf         bdr:WA3JT13307 ;
+        :isRoot             true .
+    
+    bdr:TT4817A1EE91403999
+        a                   :Title ;
+        rdfs:label          "bcom ldan rig pa'i ral gri'i gsung skor/"@bo-x-ewts .
+}

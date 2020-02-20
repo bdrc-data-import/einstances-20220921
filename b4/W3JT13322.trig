@@ -1,0 +1,46 @@
+@base          <bdg:W3JT13322> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:W3JT13322 {
+    bda:W3JT13322  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13322 ;
+        adm:contentProvider  bda:CP002 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "b4/W3JT13322.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:W3JT13322 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:ER6F666AEC2D43FD52
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13322_001_0002 ;
+        :seqNum             2 .
+    
+    bdr:ER952A1B74E2093D4E
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13322_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:VL847C5ADFE3A1B77B
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER6F666AEC2D43FD52 , bdr:ER952A1B74E2093D4E ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:W3JT13322 .
+    
+    bdr:W3JT13322  a        :EtextInstance ;
+        :instanceHasVolume  bdr:VL847C5ADFE3A1B77B ;
+        :instanceOf         bdr:WA3JT13322 ;
+        :isRoot             true .
+}

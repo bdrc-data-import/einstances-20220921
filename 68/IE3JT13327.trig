@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13327> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13327 {
+    bda:IE3JT13327  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13327 ;
+        adm:gitPath         "68/IE3JT13327.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13327 ;
+        adm:logEntry        bda:LG2AFCA6C1D2F60DFA , bda:LGE87C74F107528DBA ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG2AFCA6C1D2F60DFA
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:56.63Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGE87C74F107528DBA
+        a                   adm:LogEntry ;
+        adm:logDate         "2017-11-02T17:38:24.575Z"^^xsd:dateTime ;
+        adm:logMessage      "changed access to restrictedInChina"@en ;
+        adm:logWho          bdr:U00006 .
+    
+    bda:W3JT13327  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13327 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13327 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13327  a       :EtextInstance ;
+        skos:prefLabel      "zhabs brtan gsol 'debs sogs chos tshan 'ga'"@bo-x-ewts ;
+        :hasTitle           bdr:TTADF311EF15F96415 ;
+        :instanceOf         bdr:WA3JT13327 ;
+        :isRoot             true .
+    
+    bdr:TTADF311EF15F96415
+        a                   :Title ;
+        rdfs:label          "zhabs brtan gsol 'debs sogs chos tshan 'ga'"@bo-x-ewts .
+}

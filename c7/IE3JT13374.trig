@@ -1,0 +1,46 @@
+@base          <bdg:IE3JT13374> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13374 {
+    bda:IE3JT13374  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13374 ;
+        adm:facetIndex      3 ;
+        adm:gitPath         "c7/IE3JT13374.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13374 ;
+        adm:logEntry        bda:LGA1075094F76280DE ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGA1075094F76280DE
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:58:08.709Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13374  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13374 ;
+        adm:replaceWith     bdr:IE3JT13374 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13374  a       :EtextInstance ;
+        skos:prefLabel      "sdom gsum nyer mkho'i bum bzang /"@bo-x-ewts ;
+        :hasTitle           bdr:TT937F222E32EC8AD6 ;
+        :instanceOf         bdr:WA3JT13374 ;
+        :isRoot             true .
+    
+    bdr:TT937F222E32EC8AD6
+        a                   :TitlePageTitle ;
+        rdfs:label          "sdom gsum rnam par bstan pa nyer mkho'i bum bzang /"@bo-x-ewts .
+}

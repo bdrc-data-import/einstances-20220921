@@ -1,0 +1,56 @@
+@base          <bdg:W3JT13364> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:W3JT13364 {
+    bda:W3JT13364  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13364 ;
+        adm:contentProvider  bda:CP005 ;
+        adm:facetIndex      6 ;
+        adm:gitPath         "3d/W3JT13364.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:W3JT13364 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:ER0BBD6D3178A87B3F
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0004 ;
+        :seqNum             4 .
+    
+    bdr:ER6D05C683262887AC
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0003 ;
+        :seqNum             3 .
+    
+    bdr:ER93B4B28F203E31C3
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0002 ;
+        :seqNum             2 .
+    
+    bdr:ERD7AE4FEC95D7A864
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:VLFF2E7A7CBACF2266
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER0BBD6D3178A87B3F , bdr:ER6D05C683262887AC , bdr:ER93B4B28F203E31C3 , bdr:ERD7AE4FEC95D7A864 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:W3JT13364 .
+    
+    bdr:W3JT13364  a        :EtextInstance ;
+        :instanceHasVolume  bdr:VLFF2E7A7CBACF2266 ;
+        :instanceOf         bdr:WA3JT13364 ;
+        :isRoot             true .
+}

@@ -1,0 +1,52 @@
+@base          <bdg:IE3JT13348> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13348 {
+    bda:IE3JT13348  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13348 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "21/IE3JT13348.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13348 ;
+        adm:logEntry        bda:LG55BAC955AB756061 , bda:LGFBBC1B845817C741 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG55BAC955AB756061
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-13T09:52:51.772Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGFBBC1B845817C741
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-10T12:34:29.629Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13348  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13348 ;
+        adm:replaceWith     bdr:IE3JT13348 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13348  a       :EtextInstance ;
+        skos:prefLabel      "'jig rten mgon po'i gsung skor/"@bo-x-ewts ;
+        :catalogInfo        "the collected works of kham gsum chos kyi rgyal po thub dbang ratna sri (skyob pa 'jig rten gsum mgon)"@en ;
+        :hasTitle           bdr:TTF489074D9EA490D4 ;
+        :instanceOf         bdr:WA3JT13348 ;
+        :isRoot             true .
+    
+    bdr:TTF489074D9EA490D4
+        a                   :TitlePageTitle ;
+        rdfs:label          "'bri gung skyob pa 'jig rten mgon po'i gsung skor/"@bo-x-ewts .
+}

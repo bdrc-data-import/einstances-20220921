@@ -1,0 +1,55 @@
+@base          <bdg:IE3JT13315> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13315 {
+    bda:IE3JT13315  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13315 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "55/IE3JT13315.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13315 ;
+        adm:logEntry        bda:LG43CEC657E5A737DE ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG43CEC657E5A737DE
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:16.829Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13315  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13315 ;
+        adm:replaceWith     bdr:IE3JT13315 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:CR2B8E1FAF0BD0D6B1
+        a                   :AgentAsCreator ;
+        :agent              bdr:P889 ;
+        :role               bdr:R0ER0019 .
+    
+    bdr:IE3JT13315  a       :EtextInstance ;
+        skos:prefLabel      "phyag rgya chen po ma rig mun sel/"@bo-x-ewts ;
+        :creator            bdr:CR2B8E1FAF0BD0D6B1 ;
+        :hasTitle           bdr:TTB915116C73E41A38 ;
+        :isRoot             true ;
+        :workIsAbout        bdr:T199 .
+    
+    bdr:MW3JT13315  :instanceOf  bdr:WA3CN9074 .
+    
+    bdr:TTB915116C73E41A38
+        a                   :Title ;
+        rdfs:label          "phyag rgya chen po ma rig mun sel/"@bo-x-ewts .
+}

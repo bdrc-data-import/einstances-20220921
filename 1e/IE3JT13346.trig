@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13346> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13346 {
+    bda:IE3JT13346  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13346 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "1e/IE3JT13346.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13346 ;
+        adm:logEntry        bda:LGC25E4598A896D88E , bda:LGDAF171CDF550CB3F ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGC25E4598A896D88E
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:15:54.507Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGDAF171CDF550CB3F
+        a                   adm:LogEntry ;
+        adm:logDate         "2016-01-20T15:27:40.75Z"^^xsd:dateTime ;
+        adm:logMessage      "fixed"@en ;
+        adm:logWho          bdr:U00017 .
+    
+    bda:W3JT13346  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13346 ;
+        adm:replaceWith     bdr:IE3JT13346 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13346  a       :EtextInstance ;
+        skos:prefLabel      "chos tshan sna tshogs/"@bo-x-ewts ;
+        :hasTitle           bdr:TT9D73036D2B27BC73 ;
+        :instanceOf         bdr:WA3JT13346 ;
+        :isRoot             true .
+    
+    bdr:TT9D73036D2B27BC73
+        a                   :Title ;
+        rdfs:label          "chos tshan sna tshogs/"@bo-x-ewts .
+}

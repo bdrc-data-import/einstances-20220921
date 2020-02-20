@@ -1,0 +1,66 @@
+@base          <bdg:IE3JT13308> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13308 {
+    bda:IE3JT13308  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13308 ;
+        adm:facetIndex      6 ;
+        adm:gitPath         "47/IE3JT13308.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13308 ;
+        adm:logEntry        bda:LGCA7BE7998E44696E , bda:LGF0741316C1E84DDB ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGCA7BE7998E44696E
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:56:53.547Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGF0741316C1E84DDB
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:13:55.867Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13308  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13308 ;
+        adm:replaceWith     bdr:IE3JT13308 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:CR969145CD4267A857
+        a                   :AgentAsCreator ;
+        :agent              bdr:P60 ;
+        :role               bdr:R0ER0019 .
+    
+    bdr:IE3JT13308  a       :EtextInstance ;
+        skos:prefLabel      "gsung 'bum/ gzhon nu blo gros/"@bo-x-ewts ;
+        :catalogInfo        "the collected works of red mda' ba gzhon nu blo gros"@en ;
+        :creator            bdr:CR969145CD4267A857 ;
+        :hasTitle           bdr:TT3F9CB1C0825E7F96 , bdr:TTA21C34E4D0B21032 ;
+        :isRoot             true ;
+        :workGenre          bdr:T208 ;
+        :workIsAbout        bdr:T617 .
+    
+    bdr:MW3JT13308  :instanceOf  bdr:WA23629 .
+    
+    bdr:TT3F9CB1C0825E7F96
+        a                   :TitlePageTitle ;
+        rdfs:label          "red mda' ba gzhon nu blo gros kyi gsung 'bum/"@bo-x-ewts .
+    
+    bdr:TTA21C34E4D0B21032
+        a                   :Title ;
+        rdfs:label          "gsung 'bum/ gzhon nu blo gros/"@bo-x-ewts .
+}

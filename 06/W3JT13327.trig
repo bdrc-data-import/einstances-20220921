@@ -1,0 +1,107 @@
+@base          <bdg:W3JT13327> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:W3JT13327 {
+    bda:W3JT13327  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13327 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      15 ;
+        adm:gitPath         "06/W3JT13327.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:W3JT13327 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:ER0DBD3EEA99536C5C
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_004_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER1E5FC18915429F0A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_001_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER43CFC61F52E25133
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_002_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER4D0659C471D0E2F4
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_003_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER69BB606C1F67E902
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_006_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER83C6B247E8C9EC1B
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_007_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERA06515F4C6EB7356
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_005_0000 ;
+        :seqNum             1 .
+    
+    bdr:VL05CF7640E56647E4
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER69BB606C1F67E902 ;
+        :volumeNumber       6 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:VL0925D70F773E6766
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER0DBD3EEA99536C5C ;
+        :volumeNumber       4 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:VL5C0A496FD1F4F5E4
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER1E5FC18915429F0A ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:VL842A7485B7468CFF
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER83C6B247E8C9EC1B ;
+        :volumeNumber       7 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:VL84391BBC3E91355D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER4D0659C471D0E2F4 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:VLD3E67E76151F4839
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER43CFC61F52E25133 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:VLED04CECE8DEF5244
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERA06515F4C6EB7356 ;
+        :volumeNumber       5 ;
+        :volumeOf           bdr:W3JT13327 .
+    
+    bdr:W3JT13327  a        :EtextInstance ;
+        :instanceHasVolume  bdr:VL05CF7640E56647E4 , bdr:VL0925D70F773E6766 , bdr:VL5C0A496FD1F4F5E4 , bdr:VL842A7485B7468CFF , bdr:VL84391BBC3E91355D , bdr:VLD3E67E76151F4839 , bdr:VLED04CECE8DEF5244 ;
+        :instanceOf         bdr:WA3JT13327 ;
+        :isRoot             true .
+}

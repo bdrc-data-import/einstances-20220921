@@ -1,0 +1,46 @@
+@base          <bdg:IE3JT13377> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13377 {
+    bda:IE3JT13377  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13377 ;
+        adm:facetIndex      3 ;
+        adm:gitPath         "60/IE3JT13377.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13377 ;
+        adm:logEntry        bda:LG4FA6D0217DA10A78 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG4FA6D0217DA10A78
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:58:18.577Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13377  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13377 ;
+        adm:replaceWith     bdr:IE3JT13377 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13377  a       :EtextInstance ;
+        skos:prefLabel      "ma yi drin lan bshags mdo dang /_sdom pa nyer lnga pa/_blang dor bzhi bcu zhe gnyis bcas/"@bo-x-ewts ;
+        :hasTitle           bdr:TTBEA7289AE94F57CC ;
+        :instanceOf         bdr:WA3JT13377 ;
+        :isRoot             true .
+    
+    bdr:TTBEA7289AE94F57CC
+        a                   :Title ;
+        rdfs:label          "ma yi drin lan bshags mdo dang /_sdom pa nyer lnga pa/_blang dor bzhi bcu zhe gnyis bcas/"@bo-x-ewts .
+}

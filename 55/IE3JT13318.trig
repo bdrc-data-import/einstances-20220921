@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13318> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13318 {
+    bda:IE3JT13318  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13318 ;
+        adm:gitPath         "55/IE3JT13318.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13318 ;
+        adm:logEntry        bda:LGC5635C2BC4A0C2C6 , bda:LGD509B51839459D1F ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGC5635C2BC4A0C2C6
+        a                   adm:LogEntry ;
+        adm:logDate         "2016-09-07T10:56:44.203Z"^^xsd:dateTime ;
+        adm:logMessage      "eidted title & added T#s"@en ;
+        adm:logWho          bdr:U00007 .
+    
+    bda:LGD509B51839459D1F
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:26.316Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13318  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13318 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13318 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13318  a       :EtextInstance ;
+        skos:prefLabel      "karma pa chen po bco lnga pa'i gsung las spar du bzhugs pa'i glegs bam rnams kyi dkar chag"@bo-x-ewts ;
+        :hasTitle           bdr:TT307D6981CAF8B00B ;
+        :instanceOf         bdr:WA3JT13318 ;
+        :isRoot             true .
+    
+    bdr:TT307D6981CAF8B00B
+        a                   :TitlePageTitle ;
+        rdfs:label          "'jig rten dbang phyug dpal karma pa chen po bco lnga pa'i gsung gi gsang ba bsam gyis mi khyab pa las ngo mtshar spar du bzhugs pa'i glegs bam rnams kyi dkar chag chos tshul rnam par 'byed pa'i zla snang /"@bo-x-ewts .
+}

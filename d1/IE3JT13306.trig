@@ -1,0 +1,66 @@
+@base          <bdg:IE3JT13306> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13306 {
+    bda:IE3JT13306  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13306 ;
+        adm:facetIndex      6 ;
+        adm:gitPath         "d1/IE3JT13306.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13306 ;
+        adm:logEntry        bda:LG4B979DCBF2190779 , bda:LGF06EE63E75803BEF ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG4B979DCBF2190779
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:13:49.981Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGF06EE63E75803BEF
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:56:53.324Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13306  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13306 ;
+        adm:replaceWith     bdr:IE3JT13306 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:CR0CF09E6751874BA6
+        a                   :AgentAsCreator ;
+        :agent              bdr:P805 ;
+        :role               bdr:R0ER0019 .
+    
+    bdr:IE3JT13306  a       :EtextInstance ;
+        skos:prefLabel      "gsung 'bum/ kun dga' blo gros/"@bo-x-ewts ;
+        :catalogInfo        "the collected works of sa skya pa kun dga' blo gros"@en ;
+        :creator            bdr:CR0CF09E6751874BA6 ;
+        :hasTitle           bdr:TTCE545910F0C2EC80 , bdr:TTFFE5D8E23A7D9672 ;
+        :isRoot             true ;
+        :workGenre          bdr:T208 ;
+        :workIsAbout        bdr:T617 .
+    
+    bdr:MW3JT13306  :instanceOf  bdr:WA1KG1880 .
+    
+    bdr:TTCE545910F0C2EC80
+        a                   :TitlePageTitle ;
+        rdfs:label          "ngag dbang kun dga' blo gros kyi gsung 'bum/"@bo-x-ewts .
+    
+    bdr:TTFFE5D8E23A7D9672
+        a                   :Title ;
+        rdfs:label          "gsung 'bum/ kun dga' blo gros/"@bo-x-ewts .
+}

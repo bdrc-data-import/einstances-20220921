@@ -1,0 +1,56 @@
+@base          <bdg:IE3JT13351> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13351 {
+    bda:IE3JT13351  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13351 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "88/IE3JT13351.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13351 ;
+        adm:logEntry        bda:LG2F07935036DB0F15 , bda:LG8B4E964F837EB257 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG2F07935036DB0F15
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-10-15T17:57:00.715Z"^^xsd:dateTime ;
+        adm:logMessage      "updated catalog info"@en ;
+        adm:logWho          bdr:U00006 .
+    
+    bda:LG8B4E964F837EB257
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:57:00.367Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13351  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13351 ;
+        adm:replaceWith     bdr:IE3JT13351 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13351  a       :EtextInstance ;
+        skos:prefLabel      "sngon byon sa skya pa'i mkhas pa rnams kyi gzhung 'grel skor/"@bo-x-ewts ;
+        :catalogInfo        "Collection of commentaries by early Sakya scholars on philosophical Buddhist scriptures."@en ;
+        :hasTitle           bdr:TTA8015A1574091925 ;
+        :isRoot             true ;
+        :workGenre          bdr:T10MS11187 ;
+        :workIsAbout        bdr:T617 .
+    
+    bdr:MW3JT13351  :instanceOf  bdr:WA1KG11947 .
+    
+    bdr:TTA8015A1574091925
+        a                   :Title ;
+        rdfs:label          "sngon byon sa skya pa'i mkhas pa rnams kyi gzhung 'grel skor/"@bo-x-ewts .
+}

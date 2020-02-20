@@ -1,0 +1,47 @@
+@base          <bdg:IE3JT13320> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13320 {
+    bda:IE3JT13320  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13320 ;
+        adm:facetIndex      3 ;
+        adm:gitPath         "87/IE3JT13320.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13320 ;
+        adm:logEntry        bda:LG7B7E03C306734F3C ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG7B7E03C306734F3C
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:32.125Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13320  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13320 ;
+        adm:replaceWith     bdr:IE3JT13320 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13320  a       :EtextInstance ;
+        skos:prefLabel      "phyag chen sngon 'gro'i skor/"@bo-x-ewts ;
+        :hasTitle           bdr:TTB2E067606546709A ;
+        :instanceOf         bdr:WA3JT13320 ;
+        :isRoot             true .
+    
+    bdr:TTB2E067606546709A
+        a                   :TitlePageTitle ;
+        rdfs:label          "phyag rgya chen po'i sngon 'gro'i skor/"@bo-x-ewts .
+}

@@ -1,0 +1,52 @@
+@base          <bdg:IE3JT13337> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13337 {
+    bda:IE3JT13337  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13337 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "06/IE3JT13337.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13337 ;
+        adm:logEntry        bda:LGE969A4C980FB85DC ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGE969A4C980FB85DC
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:15:28.803Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13337  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13337 ;
+        adm:replaceWith     bdr:IE3JT13337 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13337  a       :EtextInstance ;
+        skos:prefLabel      "gto 'bum/"@bo-x-ewts ;
+        :hasTitle           bdr:TT97FE33AF02B94D36 ;
+        :instanceOf         bdr:WA3JT13337 ;
+        :isRoot             true ;
+        :note               bdr:NTDE3A65D9663B5776 .
+    
+    bdr:NTDE3A65D9663B5776
+        a                   :Note ;
+        :noteText           "a collection of various gto and mdos rituals"@en .
+    
+    bdr:TT97FE33AF02B94D36
+        a                   :Title ;
+        rdfs:label          "gto 'bum/"@bo-x-ewts .
+}

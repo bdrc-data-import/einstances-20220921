@@ -1,0 +1,42 @@
+@base          <bdg:IE1PD105777> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE1PD105777 {
+    bda:IE1PD105777  a      adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE1PD105777 ;
+        adm:contentProvider  bda:CP009 ;
+        adm:facetIndex      3 ;
+        adm:gitPath         "47/IE1PD105777.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE1PD105777 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:ER5FDDFCC9D09976FE
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT1PD105777_I1PD105779_0000 ;
+        :seqNum             1 .
+    
+    bdr:IE1PD105777  a      :EtextInstance ;
+        :instanceHasVolume  bdr:VLA1F8421AEB829787 ;
+        :instanceOf         bdr:WA1PD105777 ;
+        :instanceReproductionOf  bdr:W1PD105777 ;
+        :isRoot             true .
+    
+    bdr:VLA1F8421AEB829787
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER5FDDFCC9D09976FE ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE1PD105777 .
+}

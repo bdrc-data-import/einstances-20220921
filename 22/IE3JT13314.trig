@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13314> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13314 {
+    bda:IE3JT13314  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13314 ;
+        adm:gitPath         "22/IE3JT13314.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13314 ;
+        adm:logEntry        bda:LG1519573C59AE3297 , bda:LGF280ABC6F2F4A6AF ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG1519573C59AE3297
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:13.734Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGF280ABC6F2F4A6AF
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T14:49:57.116Z"^^xsd:dateTime ;
+        adm:logMessage      "ming thung"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13314  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13314 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13314 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13314  a       :EtextInstance ;
+        skos:prefLabel      "phyag rgya chen po lhan cig skyes sbyor gyi khrid zin bris/"@bo-x-ewts ;
+        :hasTitle           bdr:TT455ACBC978C62EE7 ;
+        :instanceOf         bdr:WA3JT13314 ;
+        :isRoot             true .
+    
+    bdr:TT455ACBC978C62EE7
+        a                   :TitlePageTitle ;
+        rdfs:label          "phyag rgya chen po lhan cig skyes sbyor gyi khrid zin bris snying po gsal ba'i sgron me bdud rtsi'i nying khu chos sku mdzub tshugs su ngo sprod pa/"@bo-x-ewts .
+}

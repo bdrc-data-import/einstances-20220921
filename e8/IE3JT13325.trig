@@ -1,0 +1,66 @@
+@base          <bdg:IE3JT13325> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13325 {
+    bda:IE3JT13325  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13325 ;
+        adm:gitPath         "e8/IE3JT13325.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13325 ;
+        adm:logEntry        bda:LG15E47FDA60607D0F ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG15E47FDA60607D0F
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:49.843Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13325  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13325 ;
+        adm:facetIndex      6 ;
+        adm:replaceWith     bdr:IE3JT13325 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:CR5CE2A8276974F44A
+        a                   :AgentAsCreator ;
+        :agent              bdr:P1844 ;
+        :role               bdr:R0ER0019 .
+    
+    bdr:IE3JT13325  a       :EtextInstance ;
+        skos:prefLabel      "gsung thor bu/_bsod nams rin chen/"@bo-x-ewts ;
+        :catalogInfo        "Miscellany writings of the Dagpo Kagyu master Gampopa Sonam Rinchen"@en ;
+        :creator            bdr:CR5CE2A8276974F44A ;
+        :hasTitle           bdr:TT373A5A7A7DEAB11E , bdr:TT994F3B31EA8C9A6D ;
+        :isRoot             true ;
+        :note               bdr:NTA2BEB6CB4A9DC80F ;
+        :workGenre          bdr:T413 ;
+        :workIsAbout        bdr:T1187 .
+    
+    bdr:MW3JT13325  :instanceOf  bdr:WA23346 .
+    
+    bdr:NTA2BEB6CB4A9DC80F
+        a                   :Note ;
+        :noteText           "1) phyag rgya chen po'i man ngag thog babs dang mgur 'bum rnams/\n2) phyag rgya chen po gsal byed kyi man ngag /\n3) phyag rgya chen po bsam gyis mi khyab pa'i sgom rim/\n4) snying po don gyi gdams pa phyag rgya chen po'i 'bum tig\n5) phyag rgya chen po'i rtsa ba la ngo sprad pa zhes kyang bya/ snang ba lam 'khyer gyi rtogs pa cig chog ces kyang bya/ phyag rgya chen po gnyug ma mi 'gyur zhes kyang bya/\n6) snying po'i ngo sprod don dam gter mdzod/\n7) rnam rtog don dam gyi ngo sprod/\n8) sgrub pa snying gi ngo sprod/\n9) mdo sngags kyi sgom don bsdus pa/\n10) sems kyi mtshan nyid gab pa mngon du phyung ba/"@bo-x-ewts .
+    
+    bdr:TT373A5A7A7DEAB11E
+        a                   :TitlePageTitle ;
+        rdfs:label          "sgam po pa bsod nams rin chen gyi gsung thor bu/"@bo-x-ewts .
+    
+    bdr:TT994F3B31EA8C9A6D
+        a                   :Title ;
+        rdfs:label          "gsung thor bu/_bsod nams rin chen/"@bo-x-ewts .
+}

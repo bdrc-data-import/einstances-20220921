@@ -1,0 +1,66 @@
+@base          <bdg:W3JT13368> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:W3JT13368 {
+    bda:W3JT13368  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13368 ;
+        adm:contentProvider  bda:CP006 ;
+        adm:facetIndex      8 ;
+        adm:gitPath         "5a/W3JT13368.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:W3JT13368 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:ER3F65280068DFFFFB
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0004 ;
+        :seqNum             4 .
+    
+    bdr:ER4B0517F397EA1B9B
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0003 ;
+        :seqNum             3 .
+    
+    bdr:ER8FB728C875D09769
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:ERD344270AD28CDA9E
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0006 ;
+        :seqNum             6 .
+    
+    bdr:ERE801A891305DD969
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0002 ;
+        :seqNum             2 .
+    
+    bdr:ERFBEA2D2F49F04F0B
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0005 ;
+        :seqNum             5 .
+    
+    bdr:VL63E5B58DC174BF30
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER3F65280068DFFFFB , bdr:ER4B0517F397EA1B9B , bdr:ER8FB728C875D09769 , bdr:ERD344270AD28CDA9E , bdr:ERE801A891305DD969 , bdr:ERFBEA2D2F49F04F0B ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:W3JT13368 .
+    
+    bdr:W3JT13368  a        :EtextInstance ;
+        :instanceHasVolume  bdr:VL63E5B58DC174BF30 ;
+        :instanceOf         bdr:WA3JT13368 ;
+        :isRoot             true .
+}

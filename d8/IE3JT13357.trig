@@ -1,0 +1,52 @@
+@base          <bdg:IE3JT13357> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13357 {
+    bda:IE3JT13357  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13357 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "d8/IE3JT13357.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13357 ;
+        adm:logEntry        bda:LGFEA3BB2C74ED86E5 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGFEA3BB2C74ED86E5
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:57:20.071Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13357  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13357 ;
+        adm:replaceWith     bdr:IE3JT13357 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13357  a       :EtextInstance ;
+        skos:prefLabel      "rgyud sde khag gcig phyogs bsgrigs/"@bo-x-ewts ;
+        :hasTitle           bdr:TT7F43F55DA29C6E78 , bdr:TTB2311F14EA7CF2E1 ;
+        :isRoot             true ;
+        :workGenre          bdr:T2129 .
+    
+    bdr:MW3JT13357  :instanceOf  bdr:WA1KG17191 .
+    
+    bdr:TT7F43F55DA29C6E78
+        a                   :TitlePageTitle ;
+        rdfs:label          "rgyud sde khag gcig phyogs gcig tu bsgrigs pa/"@bo-x-ewts .
+    
+    bdr:TTB2311F14EA7CF2E1
+        a                   :Title ;
+        rdfs:label          "rgyud sde khag gcig phyogs bsgrigs/"@bo-x-ewts .
+}

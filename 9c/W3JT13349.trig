@@ -1,0 +1,81 @@
+@base          <bdg:W3JT13349> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:W3JT13349 {
+    bda:W3JT13349  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13349 ;
+        adm:contentProvider  bda:CP002 ;
+        adm:facetIndex      11 ;
+        adm:gitPath         "9c/W3JT13349.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:W3JT13349 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:ER2FF0A7B624F647D9
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:ER44A581A082AA6156
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0005 ;
+        :seqNum             5 .
+    
+    bdr:ER7C76A945CA192E49
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0002 ;
+        :seqNum             2 .
+    
+    bdr:ER8EC1B761843A11F1
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0008 ;
+        :seqNum             8 .
+    
+    bdr:ERC50D7135D5447227
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0007 ;
+        :seqNum             7 .
+    
+    bdr:ERD0A7313127ACAC6E
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0003 ;
+        :seqNum             3 .
+    
+    bdr:ERD44D392B8E5EE0C0
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0004 ;
+        :seqNum             4 .
+    
+    bdr:ERE4430E33B96321AA
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0006 ;
+        :seqNum             6 .
+    
+    bdr:ERF5447B7A5BABB751
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0009 ;
+        :seqNum             9 .
+    
+    bdr:VL76B038F063C7D0BE
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER2FF0A7B624F647D9 , bdr:ER44A581A082AA6156 , bdr:ER7C76A945CA192E49 , bdr:ER8EC1B761843A11F1 , bdr:ERC50D7135D5447227 , bdr:ERD0A7313127ACAC6E , bdr:ERD44D392B8E5EE0C0 , bdr:ERE4430E33B96321AA , bdr:ERF5447B7A5BABB751 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:W3JT13349 .
+    
+    bdr:W3JT13349  a        :EtextInstance ;
+        :instanceHasVolume  bdr:VL76B038F063C7D0BE ;
+        :instanceOf         bdr:WA3JT13349 ;
+        :isRoot             true .
+}

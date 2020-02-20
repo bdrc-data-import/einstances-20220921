@@ -1,0 +1,73 @@
+@base          <bdg:IE4CZ42297> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE4CZ42297 {
+    bda:IE4CZ42297  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE4CZ42297 ;
+        adm:gitPath         "f5/IE4CZ42297.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE4CZ42297 ;
+        adm:logEntry        bda:LG45531527899838DA , bda:LG826B408DE4F917D2 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG45531527899838DA
+        a                   adm:LogEntry ;
+        adm:logDate         "2015-08-27T20:30:28.724Z"^^xsd:dateTime ;
+        adm:logMessage      "subject class changed from T10MS11134 to T448"@en ;
+        adm:logWho          bdr:U00019 .
+    
+    bda:LG826B408DE4F917D2
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-08-08T10:10:43.875Z"^^xsd:dateTime ;
+        adm:logMessage      "released"@en ;
+        adm:logWho          bdr:U00017 .
+    
+    bda:W4CZ42297  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W4CZ42297 ;
+        adm:facetIndex      7 ;
+        adm:replaceWith     bdr:IE4CZ42297 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:CRE35863FD995279EF
+        a                   :AgentAsCreator ;
+        :agent              bdr:P680 ;
+        :role               bdr:R0ER0019 .
+    
+    bdr:IE4CZ42297  a       :EtextInstance ;
+        skos:prefLabel      "gter chos/_rtsa gsum gling pa/"@bo-x-ewts ;
+        :catalogInfo        "Collected Treasure Revelations by Namchak Tsasum Lingpa. This eText was content is corrected and updated over 20 years by Gochen Tulku Sangngak, alias Sanngak Tenzin Rinpoche."@en ;
+        :creator            bdr:CRE35863FD995279EF ;
+        :hasTitle           bdr:TT1A02F03326C0FD4E , bdr:TT543E1F45D5A13238 ;
+        :isRoot             true ;
+        :note               bdr:NT58738E32A44500F7 ;
+        :workGenre          bdr:T448 ;
+        :workIsAbout        bdr:T1082 .
+    
+    bdr:MW4CZ42297  :instanceOf  bdr:WA1KG15423 .
+    
+    bdr:NT58738E32A44500F7
+        a                   :Note ;
+        :noteSource         bdr:MW4CZ1042 ;
+        :noteText           "tbrc also holds the actual dpe che version."@en .
+    
+    bdr:TT1A02F03326C0FD4E
+        a                   :Title ;
+        rdfs:label          "gter chos/_rtsa gsum gling pa/"@bo-x-ewts .
+    
+    bdr:TT543E1F45D5A13238
+        a                   :TitlePageTitle ;
+        rdfs:label          "o rgyan rtsa gsum gling pa'i ring lugs zab gter/"@bo-x-ewts .
+}

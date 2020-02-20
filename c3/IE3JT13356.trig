@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13356> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13356 {
+    bda:IE3JT13356  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13356 ;
+        adm:gitPath         "c3/IE3JT13356.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13356 ;
+        adm:logEntry        bda:LG880D17F531602E5F , bda:LGCDCF69558325E8D7 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG880D17F531602E5F
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:57:16.3Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGCDCF69558325E8D7
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-10-15T17:56:23.536Z"^^xsd:dateTime ;
+        adm:logMessage      "updated catalog info"@en ;
+        adm:logWho          bdr:U00006 .
+    
+    bda:W3JT13356  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13356 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13356 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13356  a       :EtextInstance ;
+        skos:prefLabel      "shangs pa bka' brgyud kyis gtsos pa'i chos skor sna tshogs/"@bo-x-ewts ;
+        :catalogInfo        "Collected teachings of the Shangpa Kagyu and others on miscellaneous topics."@en ;
+        :hasTitle           bdr:TTF52F72D11FFD094C ;
+        :instanceOf         bdr:WA3JT13356 ;
+        :isRoot             true .
+    
+    bdr:TTF52F72D11FFD094C
+        a                   :Title ;
+        rdfs:label          "shangs pa bka' brgyud kyis gtsos pa'i chos skor sna tshogs/"@bo-x-ewts .
+}

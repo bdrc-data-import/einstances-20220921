@@ -1,0 +1,59 @@
+@base          <bdg:IE3JT13301> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13301 {
+    bda:IE3JT13301  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13301 ;
+        adm:gitPath         "44/IE3JT13301.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13301 ;
+        adm:logEntry        bda:LG3F82953166C40913 , bda:LG546AA402F8B1DBDF , bda:LGC0CC980834AA0CFC ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG3F82953166C40913
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:13:34.881Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LG546AA402F8B1DBDF
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:56:52.706Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGC0CC980834AA0CFC
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-10-15T17:56:23.536Z"^^xsd:dateTime ;
+        adm:logMessage      "updated catalog info"@en ;
+        adm:logWho          bdr:U00006 .
+    
+    bda:W3JT13301  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13301 ;
+        adm:facetIndex      5 ;
+        adm:replaceWith     bdr:IE3JT13301 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13301  a       :EtextInstance ;
+        skos:prefLabel      "'dul ba'i skor/"@bo-x-ewts ;
+        :catalogInfo        "Collection of Vinaya texts."@en ;
+        :hasTitle           bdr:TT82D751A2D1579D7A ;
+        :instanceOf         bdr:WA3JT13301 ;
+        :isRoot             true .
+    
+    bdr:TT82D751A2D1579D7A
+        a                   :Title ;
+        rdfs:label          "'dul ba'i skor/"@bo-x-ewts .
+}

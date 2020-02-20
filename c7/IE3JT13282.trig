@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13282> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13282 {
+    bda:IE3JT13282  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13282 ;
+        adm:gitPath         "c7/IE3JT13282.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13282 ;
+        adm:logEntry        bda:LG2D67262F85C8BFBE , bda:LG338CCB134B29E21D ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG2D67262F85C8BFBE
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:13:24.091Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LG338CCB134B29E21D
+        a                   adm:LogEntry ;
+        adm:logDate         "2013-11-13T11:21:43.248Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13282  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13282 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13282 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13282  a       :EtextInstance ;
+        skos:prefLabel      "sdom pa gsum gyi rnam gzhag mdor bsdus pa/"@bo-x-ewts ;
+        :catalogInfo        "On the three discipline (samvara), those of the sarvastivadin and the followers of the bodhisattvayana and vajrayana"@en ;
+        :hasTitle           bdr:TTCFE57B404D1759D3 ;
+        :instanceOf         bdr:WA3JT13282 ;
+        :isRoot             true .
+    
+    bdr:TTCFE57B404D1759D3
+        a                   :Title ;
+        rdfs:label          "sdom pa gsum gyi rnam gzhag mdor bsdus pa/"@bo-x-ewts .
+}

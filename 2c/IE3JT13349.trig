@@ -1,0 +1,57 @@
+@base          <bdg:IE3JT13349> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13349 {
+    bda:IE3JT13349  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13349 ;
+        adm:gitPath         "2c/IE3JT13349.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13349 ;
+        adm:logEntry        bda:LG402376D387B9470A , bda:LGADE3C4DE7F9F0D21 , bda:LGCC874F4586A86949 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG402376D387B9470A
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-13T09:52:17.866Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGADE3C4DE7F9F0D21
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-12T15:11:47.31Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGCC874F4586A86949
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-10T15:34:25.464Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13349  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13349 ;
+        adm:facetIndex      5 ;
+        adm:replaceWith     bdr:IE3JT13349 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13349  a       :EtextInstance ;
+        skos:prefLabel      "gsung 'bum/ rin chen phun tshogs chos kyi rgyal po/"@bo-x-ewts ;
+        :catalogInfo        "the collected works (bka' 'bum) of rin chen phun tshogs chos kyi rgyal po"@en ;
+        :hasTitle           bdr:TT148625EC60DAE437 ;
+        :instanceOf         bdr:WA3JT13349 ;
+        :isRoot             true .
+    
+    bdr:TT148625EC60DAE437
+        a                   :TitlePageTitle ;
+        rdfs:label          "rin chen phun tshogs chos kyi rgyal po'i gsung 'bum/"@bo-x-ewts .
+}

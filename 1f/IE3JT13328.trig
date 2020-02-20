@@ -1,0 +1,48 @@
+@base          <bdg:IE3JT13328> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13328 {
+    bda:IE3JT13328  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13328 ;
+        adm:facetIndex      3 ;
+        adm:gitPath         "1f/IE3JT13328.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13328 ;
+        adm:logEntry        bda:LGA9CC5A4D20C402B9 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGA9CC5A4D20C402B9
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:14:59.874Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:W3JT13328  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13328 ;
+        adm:replaceWith     bdr:IE3JT13328 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13328  a       :EtextInstance ;
+        skos:prefLabel      "gsung thor bu/ o rgyan 'phrin las rdo rje/"@bo-x-ewts ;
+        :catalogInfo        "Miscellany writings of the KaM tshang Bka' brgyud master 17th Gyalwa Karmapa"@en ;
+        :hasTitle           bdr:TT8CB3201BBA01D0BD ;
+        :instanceOf         bdr:WA3JT13328 ;
+        :isRoot             true .
+    
+    bdr:TT8CB3201BBA01D0BD
+        a                   :TitlePageTitle ;
+        rdfs:label          "o rgyan 'phrin las rdo rje'i gsung thor bu/"@bo-x-ewts .
+}

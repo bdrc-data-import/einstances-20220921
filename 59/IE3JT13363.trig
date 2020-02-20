@@ -1,0 +1,53 @@
+@base          <bdg:IE3JT13363> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13363 {
+    bda:IE3JT13363  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13363 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "59/IE3JT13363.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13363 ;
+        adm:logEntry        bda:LG4B9B93866CF0BD18 , bda:LG57D2C49512BE09CA ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG4B9B93866CF0BD18
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:57:35.384Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LG57D2C49512BE09CA
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-10-15T17:57:00.715Z"^^xsd:dateTime ;
+        adm:logMessage      "updated catalog info"@en ;
+        adm:logWho          bdr:U00006 .
+    
+    bda:W3JT13363  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13363 ;
+        adm:replaceWith     bdr:IE3JT13363 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13363  a       :EtextInstance ;
+        skos:prefLabel      "dbu ma'i skor/"@bo-x-ewts ;
+        :catalogInfo        "collection of madhyamaka"@en ;
+        :hasTitle           bdr:TTD5827E14F981933A ;
+        :instanceOf         bdr:WA3JT13363 ;
+        :isRoot             true .
+    
+    bdr:TTD5827E14F981933A
+        a                   :TitlePageTitle ;
+        rdfs:label          "dbu ma'i skor phyogs bsgrigs/"@bo-x-ewts .
+}

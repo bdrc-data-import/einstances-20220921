@@ -1,0 +1,54 @@
+@base          <bdg:IE3JT13336> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13336 {
+    bda:IE3JT13336  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13336 ;
+        adm:gitPath         "21/IE3JT13336.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13336 ;
+        adm:logEntry        bda:LGDA0D78BD09836ED7 , bda:LGF52D9F1AAAF27992 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LGDA0D78BD09836ED7
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-07T12:15:23.924Z"^^xsd:dateTime ;
+        adm:logMessage      "created"@en ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGF52D9F1AAAF27992
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-11-17T15:48:31.076Z"^^xsd:dateTime ;
+        adm:logMessage      "released"@en ;
+        adm:logWho          bdr:U00017 .
+    
+    bda:W3JT13336  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13336 ;
+        adm:facetIndex      4 ;
+        adm:replaceWith     bdr:IE3JT13336 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13336  a       :EtextInstance ;
+        skos:prefLabel      "sgrol ma g.yul bzlog bltas chog tu bkod pa bden 'bras myur ston/"@bo-x-ewts ;
+        :catalogInfo        "Ritul text associated with Tara known as sgrol ma g.yul bzlog according to the Nagarjuna"@en ;
+        :hasTitle           bdr:TTFE0BFFC3BE1B088B ;
+        :instanceOf         bdr:WA3JT13336 ;
+        :isRoot             true .
+    
+    bdr:TTFE0BFFC3BE1B088B
+        a                   :TitlePageTitle ;
+        rdfs:label          "dpal mgon 'phags pa klu sgrub zhal snga nas brgyud pa'i sgrol ma g.yul bzlog bltas chog tu bkod pa bden 'bras myur ston/"@bo-x-ewts .
+}

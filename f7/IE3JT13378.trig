@@ -1,0 +1,52 @@
+@base          <bdg:IE3JT13378> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:IE3JT13378 {
+    bda:IE3JT13378  a       adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:IE3JT13378 ;
+        adm:facetIndex      4 ;
+        adm:gitPath         "f7/IE3JT13378.trig" ;
+        adm:gitRepo         bda:GR0013 ;
+        adm:graphId         bdg:IE3JT13378 ;
+        adm:logEntry        bda:LG67F5898F09375482 , bda:LGF134B67DD9205769 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bda:LG67F5898F09375482
+        a                   adm:LogEntry ;
+        adm:logDate         "2014-02-26T09:58:28.851Z"^^xsd:dateTime ;
+        adm:logWho          bdr:U00013 .
+    
+    bda:LGF134B67DD9205769
+        a                   adm:LogEntry ;
+        adm:logDate         "2015-12-07T10:53:37.238Z"^^xsd:dateTime ;
+        adm:logMessage      "changed T# as subject"@en ;
+        adm:logWho          bdr:U00007 .
+    
+    bda:W3JT13378  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13378 ;
+        adm:replaceWith     bdr:IE3JT13378 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:IE3JT13378  a       :EtextInstance ;
+        skos:prefLabel      "mngon rtogs rgyan gyi sa bcad snang byed sgron me gzhung dang bcas pa dang / sher phyin skabs brgyad kyi stong thun/ dbu ma chos dbyings bstod pa'i rnam bshad bcas/"@bo-x-ewts ;
+        :hasTitle           bdr:TT50F081249BD5635B ;
+        :instanceOf         bdr:WA3JT13378 ;
+        :isRoot             true .
+    
+    bdr:TT50F081249BD5635B
+        a                   :Title ;
+        rdfs:label          "mngon rtogs rgyan gyi sa bcad snang byed sgron me gzhung dang bcas pa dang / sher phyin skabs brgyad kyi stong thun/ dbu ma chos dbyings bstod pa'i rnam bshad bcas/"@bo-x-ewts .
+}
