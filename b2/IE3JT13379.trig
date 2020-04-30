@@ -15,32 +15,27 @@ bdg:IE3JT13379 {
     bda:IE3JT13379  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13379 ;
+        adm:contentProvider  bda:CP010 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "b2/IE3JT13379.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13379 ;
-        adm:logEntry        bda:LG65B64B9F5465CE6F ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG65B64B9F5465CE6F
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:58:33.153Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13379  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13379 ;
-        adm:facetIndex      3 ;
-        adm:replaceWith     bdr:IE3JT13379 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER7C63FC92276D703A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13379_001_0001 ;
+        :seqNum             1 .
     
     bdr:IE3JT13379  a       :EtextInstance ;
-        skos:prefLabel      "spyod 'jug gi tshig 'grel gces btus/"@bo-x-ewts ;
-        :hasTitle           bdr:TT7C63FC92276D703A ;
+        :instanceHasVolume  bdr:VL65B64B9F5465CE6F ;
         :instanceOf         bdr:WA3JT13379 ;
         :isRoot             true .
     
-    bdr:TT7C63FC92276D703A
-        a                   :TitlePageTitle ;
-        rdfs:label          "byang chub sems dpa'i spyod pa la 'jug pa'i tshig 'grel gces btus/"@bo-x-ewts .
+    bdr:VL65B64B9F5465CE6F
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER7C63FC92276D703A ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13379 .
 }

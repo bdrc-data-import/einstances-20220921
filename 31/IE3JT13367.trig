@@ -15,32 +15,37 @@ bdg:IE3JT13367 {
     bda:IE3JT13367  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13367 ;
-        adm:facetIndex      3 ;
+        adm:contentProvider  bda:CP005 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "31/IE3JT13367.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13367 ;
-        adm:logEntry        bda:LGE8470EF4165CACDC ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LGE8470EF4165CACDC
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:57:47.58Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER06278108400953B8
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13367_001_0002 ;
+        :seqNum             2 .
     
-    bda:W3JT13367  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13367 ;
-        adm:replaceWith     bdr:IE3JT13367 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER8ADA06B7C73101C2
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13367_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:ERF58182967BAF11B4
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13367_001_0003 ;
+        :seqNum             3 .
     
     bdr:IE3JT13367  a       :EtextInstance ;
-        skos:prefLabel      "sa skya bka' 'bum zhu bsdur skor nyung ngu/"@bo-x-ewts ;
-        :hasTitle           bdr:TTF58182967BAF11B4 ;
+        :instanceHasVolume  bdr:VLE8470EF4165CACDC ;
         :instanceOf         bdr:WA3JT13367 ;
         :isRoot             true .
     
-    bdr:TTF58182967BAF11B4
-        a                   :Title ;
-        rdfs:label          "sa skya bka' 'bum zhu bsdur skor nyung ngu/"@bo-x-ewts .
+    bdr:VLE8470EF4165CACDC
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER06278108400953B8 , bdr:ER8ADA06B7C73101C2 , bdr:ERF58182967BAF11B4 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13367 .
 }

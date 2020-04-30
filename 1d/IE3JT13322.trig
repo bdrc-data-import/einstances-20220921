@@ -15,50 +15,32 @@ bdg:IE3JT13322 {
     bda:IE3JT13322  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13322 ;
-        adm:facetIndex      6 ;
+        adm:contentProvider  bda:CP002 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "1d/IE3JT13322.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13322 ;
-        adm:logEntry        bda:LG7199A273C5B61D8F , bda:LG7CEA047B79EF7DCC , bda:LG9C323CA5BAB6D6DD , bda:LGE8A8E745B287CE68 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG7199A273C5B61D8F
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:14:38.488Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER9C323CA5BAB6D6DD
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13322_001_0001 ;
+        :seqNum             1 .
     
-    bda:LG7CEA047B79EF7DCC
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-13T09:51:29.32Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:LG9C323CA5BAB6D6DD
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-10T12:33:16.708Z"^^xsd:dateTime ;
-        adm:logMessage      "gsung bzo yod"@en ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:LGE8A8E745B287CE68
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-12T15:03:41.001Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13322  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13322 ;
-        adm:replaceWith     bdr:IE3JT13322 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ERE8A8E745B287CE68
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13322_001_0002 ;
+        :seqNum             2 .
     
     bdr:IE3JT13322  a       :EtextInstance ;
-        skos:prefLabel      "gsung 'bum/ bstan 'dzin chos kyi rgyal mtshan/"@bo-x-ewts ;
-        :catalogInfo        "the collected works of bstan 'dzin chos kyi rgyal mtshan"@en ;
-        :hasTitle           bdr:TTA8B45FFEC148A1FC ;
+        :instanceHasVolume  bdr:VL7199A273C5B61D8F ;
         :instanceOf         bdr:WA3JT13322 ;
         :isRoot             true .
     
-    bdr:TTA8B45FFEC148A1FC
-        a                   :TitlePageTitle ;
-        rdfs:label          "bstan 'dzin chos kyi rgyal mtshan gyi gsung 'bum/"@bo-x-ewts .
+    bdr:VL7199A273C5B61D8F
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER9C323CA5BAB6D6DD , bdr:ERE8A8E745B287CE68 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13322 .
 }

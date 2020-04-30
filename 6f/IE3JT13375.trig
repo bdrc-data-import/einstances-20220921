@@ -15,27 +15,32 @@ bdg:IE3JT13375 {
     bda:IE3JT13375  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13375 ;
+        adm:contentProvider  bda:CP010 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "6f/IE3JT13375.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13375 ;
-        adm:logEntry        bda:LG0D0A5E8B3945F08D ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG0D0A5E8B3945F08D
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:58:11.942Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER9EF579FD09AE789C
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13375_001_0002 ;
+        :seqNum             2 .
     
-    bda:W3JT13375  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13375 ;
-        adm:facetIndex      2 ;
-        adm:replaceWith     bdr:IE3JT13375 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ERDE96BEA9BA94B2E2
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13375_001_0001 ;
+        :seqNum             1 .
     
     bdr:IE3JT13375  a       :EtextInstance ;
-        skos:prefLabel      "mi pham mkhas 'jug dang de'i sdom byang /"@bo-x-ewts ;
+        :instanceHasVolume  bdr:VL0D0A5E8B3945F08D ;
         :instanceOf         bdr:WA3JT13375 ;
         :isRoot             true .
+    
+    bdr:VL0D0A5E8B3945F08D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER9EF579FD09AE789C , bdr:ERDE96BEA9BA94B2E2 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13375 .
 }

@@ -15,39 +15,93 @@ bdg:IE3JT13327 {
     bda:IE3JT13327  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13327 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      15 ;
         adm:gitPath         "68/IE3JT13327.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13327 ;
-        adm:logEntry        bda:LG2AFCA6C1D2F60DFA , bda:LGE87C74F107528DBA ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG2AFCA6C1D2F60DFA
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:14:56.63Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER22DF745DF9AF6D16
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_006_0000 ;
+        :seqNum             1 .
     
-    bda:LGE87C74F107528DBA
-        a                   adm:LogEntry ;
-        adm:logDate         "2017-11-02T17:38:24.575Z"^^xsd:dateTime ;
-        adm:logMessage      "changed access to restrictedInChina"@en ;
-        adm:logWho          bdr:U00006 .
+    bdr:ER672D722B121D384D
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_007_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13327  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13327 ;
-        adm:facetIndex      4 ;
-        adm:replaceWith     bdr:IE3JT13327 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER9375CBD247CDA14A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_002_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERBBF22AC6BD37349C
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_004_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERBEDB99C78E2B4019
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_001_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERC8A02CC876CF3EAD
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_003_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERE87C74F107528DBA
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13327_005_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13327  a       :EtextInstance ;
-        skos:prefLabel      "zhabs brtan gsol 'debs sogs chos tshan 'ga'"@bo-x-ewts ;
-        :hasTitle           bdr:TTADF311EF15F96415 ;
+        :instanceHasVolume  bdr:VL24F521A485A91458 , bdr:VL2AFCA6C1D2F60DFA , bdr:VL4482802E2292F6E6 , bdr:VLADF311EF15F96415 , bdr:VLB7C29BA913B9F23A , bdr:VLEA8D243C09249DFC , bdr:VLEC251A8F01B08D4F ;
         :instanceOf         bdr:WA3JT13327 ;
         :isRoot             true .
     
-    bdr:TTADF311EF15F96415
-        a                   :Title ;
-        rdfs:label          "zhabs brtan gsol 'debs sogs chos tshan 'ga'"@bo-x-ewts .
+    bdr:VL24F521A485A91458
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER9375CBD247CDA14A ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13327 .
+    
+    bdr:VL2AFCA6C1D2F60DFA
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERE87C74F107528DBA ;
+        :volumeNumber       5 ;
+        :volumeOf           bdr:IE3JT13327 .
+    
+    bdr:VL4482802E2292F6E6
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERBEDB99C78E2B4019 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13327 .
+    
+    bdr:VLADF311EF15F96415
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER22DF745DF9AF6D16 ;
+        :volumeNumber       6 ;
+        :volumeOf           bdr:IE3JT13327 .
+    
+    bdr:VLB7C29BA913B9F23A
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER672D722B121D384D ;
+        :volumeNumber       7 ;
+        :volumeOf           bdr:IE3JT13327 .
+    
+    bdr:VLEA8D243C09249DFC
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERBBF22AC6BD37349C ;
+        :volumeNumber       4 ;
+        :volumeOf           bdr:IE3JT13327 .
+    
+    bdr:VLEC251A8F01B08D4F
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERC8A02CC876CF3EAD ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13327 .
 }

@@ -15,32 +15,42 @@ bdg:IE3JT13364 {
     bda:IE3JT13364  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13364 ;
+        adm:contentProvider  bda:CP005 ;
+        adm:facetIndex      6 ;
         adm:gitPath         "30/IE3JT13364.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13364 ;
-        adm:logEntry        bda:LG01F78496D12FBCB7 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG01F78496D12FBCB7
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:57:38.544Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER457CD9872F4402DF
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0001 ;
+        :seqNum             1 .
     
-    bda:W3JT13364  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13364 ;
-        adm:facetIndex      3 ;
-        adm:replaceWith     bdr:IE3JT13364 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER5A7033B6C9FDCD28
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0002 ;
+        :seqNum             2 .
+    
+    bdr:ER683DC5B7DFCD782F
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0004 ;
+        :seqNum             4 .
+    
+    bdr:ERC7A25744509FC383
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13364_001_0003 ;
+        :seqNum             3 .
     
     bdr:IE3JT13364  a       :EtextInstance ;
-        skos:prefLabel      "tA ra nA tha'i rnam thar mdor bsdus/"@bo-x-ewts ;
-        :hasTitle           bdr:TT683DC5B7DFCD782F ;
+        :instanceHasVolume  bdr:VL01F78496D12FBCB7 ;
         :instanceOf         bdr:WA3JT13364 ;
         :isRoot             true .
     
-    bdr:TT683DC5B7DFCD782F
-        a                   :TitlePageTitle ;
-        rdfs:label          "jo nang rje btsun tA ra nA tha'i rnam thar mdor bsdus/"@bo-x-ewts .
+    bdr:VL01F78496D12FBCB7
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER457CD9872F4402DF , bdr:ER5A7033B6C9FDCD28 , bdr:ER683DC5B7DFCD782F , bdr:ERC7A25744509FC383 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13364 .
 }

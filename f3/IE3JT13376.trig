@@ -15,32 +15,27 @@ bdg:IE3JT13376 {
     bda:IE3JT13376  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13376 ;
+        adm:contentProvider  bda:CP010 ;
         adm:facetIndex      3 ;
         adm:gitPath         "f3/IE3JT13376.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13376 ;
-        adm:logEntry        bda:LGF0ACDA2AA9FC119E ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LGF0ACDA2AA9FC119E
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:58:14.914Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13376  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13376 ;
-        adm:replaceWith     bdr:IE3JT13376 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER535A85CE564DBA04
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13376_001_0001 ;
+        :seqNum             1 .
     
     bdr:IE3JT13376  a       :EtextInstance ;
-        skos:prefLabel      "mngon pa mdzod kyi 'grel pa dbyig gnyen zhal lung /"@bo-x-ewts ;
-        :hasTitle           bdr:TT535A85CE564DBA04 ;
+        :instanceHasVolume  bdr:VLF0ACDA2AA9FC119E ;
         :instanceOf         bdr:WA3JT13376 ;
         :isRoot             true .
     
-    bdr:TT535A85CE564DBA04
-        a                   :TitlePageTitle ;
-        rdfs:label          "dam pa'i chos mngon pa mdzod kyi 'grel pa legs par bshad pa dbyig gnyen zhal lung sa bcad dang bcas pa/"@bo-x-ewts .
+    bdr:VLF0ACDA2AA9FC119E
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER535A85CE564DBA04 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13376 .
 }

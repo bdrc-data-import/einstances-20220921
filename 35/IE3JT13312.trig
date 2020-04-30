@@ -15,43 +15,38 @@ bdg:IE3JT13312 {
     bda:IE3JT13312  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13312 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "35/IE3JT13312.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13312 ;
-        adm:logEntry        bda:LGCDD45FB2D62C8D43 , bda:LGD59E86C01442954A , bda:LGD79F33A36E05A944 , bda:LGF978496EE79F933E ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LGCDD45FB2D62C8D43
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T16:12:01.601Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ERCDD45FB2D62C8D43
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13312_002_0000 ;
+        :seqNum             1 .
     
-    bda:LGD59E86C01442954A
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:56:41.694Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00020 .
-    
-    bda:LGD79F33A36E05A944
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:39:34.533Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00012 .
-    
-    bda:LGF978496EE79F933E
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:14:07.706Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13312  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13312 ;
-        adm:facetIndex      5 ;
-        adm:replaceWith     bdr:IE3JT13312 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ERD79F33A36E05A944
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13312_001_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13312  a       :EtextInstance ;
-        skos:prefLabel      "dbu ma 'jug pa'i rtsa ba dang de'i rnam bshad/"@bo-x-ewts ;
+        :instanceHasVolume  bdr:VLD59E86C01442954A , bdr:VLF978496EE79F933E ;
         :instanceOf         bdr:WA3JT13312 ;
         :isRoot             true .
+    
+    bdr:VLD59E86C01442954A
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERCDD45FB2D62C8D43 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13312 .
+    
+    bdr:VLF978496EE79F933E
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERD79F33A36E05A944 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13312 .
 }

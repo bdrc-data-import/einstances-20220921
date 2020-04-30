@@ -15,39 +15,27 @@ bdg:IE3JT13282 {
     bda:IE3JT13282  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13282 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "c7/IE3JT13282.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13282 ;
-        adm:logEntry        bda:LG2D67262F85C8BFBE , bda:LG338CCB134B29E21D ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG2D67262F85C8BFBE
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:13:24.091Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:LG338CCB134B29E21D
-        a                   adm:LogEntry ;
-        adm:logDate         "2013-11-13T11:21:43.248Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13282  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13282 ;
-        adm:facetIndex      4 ;
-        adm:replaceWith     bdr:IE3JT13282 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER2D67262F85C8BFBE
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13282_001_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13282  a       :EtextInstance ;
-        skos:prefLabel      "sdom pa gsum gyi rnam gzhag mdor bsdus pa/"@bo-x-ewts ;
-        :catalogInfo        "On the three discipline (samvara), those of the sarvastivadin and the followers of the bodhisattvayana and vajrayana"@en ;
-        :hasTitle           bdr:TTCFE57B404D1759D3 ;
+        :instanceHasVolume  bdr:VL338CCB134B29E21D ;
         :instanceOf         bdr:WA3JT13282 ;
         :isRoot             true .
     
-    bdr:TTCFE57B404D1759D3
-        a                   :Title ;
-        rdfs:label          "sdom pa gsum gyi rnam gzhag mdor bsdus pa/"@bo-x-ewts .
+    bdr:VL338CCB134B29E21D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER2D67262F85C8BFBE ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13282 .
 }

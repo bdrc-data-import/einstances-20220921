@@ -15,39 +15,170 @@ bdg:IE3JT13307 {
     bda:IE3JT13307  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13307 ;
+        adm:contentProvider  bda:CP004 ;
+        adm:facetIndex      29 ;
         adm:gitPath         "32/IE3JT13307.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13307 ;
-        adm:logEntry        bda:LG3CCF30FD0FDF8662 , bda:LG9C3E2F587D77ED68 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG3CCF30FD0FDF8662
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:13:53.01Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER1375903DD75245E4
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_009_0000 ;
+        :seqNum             1 .
     
-    bda:LG9C3E2F587D77ED68
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:56:53.412Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER1C5AEC467F71A7FB
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_003_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13307  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13307 ;
-        adm:facetIndex      4 ;
-        adm:replaceWith     bdr:IE3JT13307 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER38EDC343653E93C7
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_014_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER3E1875C445F94F8E
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_004_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER4766815707A76732
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_008_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER50B600ED66C7D311
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_011_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER575DAD8C3CF49A7F
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_007_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER67DDFC9527F217E6
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_002_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER8DC2E46840253FFA
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_010_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER9C3E2F587D77ED68
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_005_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERBBB3F9036D4CFC6C
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_001_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERD8CB9AD06F61744D
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_006_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERDE819226D0E8308C
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_012_0000 ;
+        :seqNum             1 .
+    
+    bdr:EREBBF140CA8C8EA1D
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13307_013_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13307  a       :EtextInstance ;
-        skos:prefLabel      "bcom ldan rig pa'i ral gri'i gsung skor/"@bo-x-ewts ;
-        :catalogInfo        "the collection works of bcom lden rig ral"@en ;
-        :hasTitle           bdr:TT4817A1EE91403999 ;
+        :instanceHasVolume  bdr:VL3CCF30FD0FDF8662 , bdr:VL419F5867907A2393 , bdr:VL4817A1EE91403999 , bdr:VL4878E517960E054B , bdr:VL4B2CA7CAEBCDAB77 , bdr:VL4C6DBA90974A6409 , bdr:VL8D077D071318E4C9 , bdr:VL979A02E0AFE5D8E4 , bdr:VL9C3F01D332D4405B , bdr:VLB14A3A988E9D0887 , bdr:VLD52276F0E81C990E , bdr:VLF08F74E83DBF2B70 , bdr:VLF39158CE896072F9 , bdr:VLFC8DB0C2FCCBC110 ;
         :instanceOf         bdr:WA3JT13307 ;
         :isRoot             true .
     
-    bdr:TT4817A1EE91403999
-        a                   :Title ;
-        rdfs:label          "bcom ldan rig pa'i ral gri'i gsung skor/"@bo-x-ewts .
+    bdr:VL3CCF30FD0FDF8662
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER9C3E2F587D77ED68 ;
+        :volumeNumber       5 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL419F5867907A2393
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERD8CB9AD06F61744D ;
+        :volumeNumber       6 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL4817A1EE91403999
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER575DAD8C3CF49A7F ;
+        :volumeNumber       7 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL4878E517960E054B
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:EREBBF140CA8C8EA1D ;
+        :volumeNumber       13 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL4B2CA7CAEBCDAB77
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER38EDC343653E93C7 ;
+        :volumeNumber       14 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL4C6DBA90974A6409
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERBBB3F9036D4CFC6C ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL8D077D071318E4C9
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERDE819226D0E8308C ;
+        :volumeNumber       12 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL979A02E0AFE5D8E4
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER3E1875C445F94F8E ;
+        :volumeNumber       4 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VL9C3F01D332D4405B
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER8DC2E46840253FFA ;
+        :volumeNumber       10 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VLB14A3A988E9D0887
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER1375903DD75245E4 ;
+        :volumeNumber       9 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VLD52276F0E81C990E
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER50B600ED66C7D311 ;
+        :volumeNumber       11 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VLF08F74E83DBF2B70
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER67DDFC9527F217E6 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VLF39158CE896072F9
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER1C5AEC467F71A7FB ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13307 .
+    
+    bdr:VLFC8DB0C2FCCBC110
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER4766815707A76732 ;
+        :volumeNumber       8 ;
+        :volumeOf           bdr:IE3JT13307 .
 }

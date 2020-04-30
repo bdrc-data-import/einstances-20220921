@@ -15,43 +15,67 @@ bdg:IE3JT13349 {
     bda:IE3JT13349  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13349 ;
+        adm:contentProvider  bda:CP002 ;
+        adm:facetIndex      11 ;
         adm:gitPath         "2c/IE3JT13349.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13349 ;
-        adm:logEntry        bda:LG402376D387B9470A , bda:LGADE3C4DE7F9F0D21 , bda:LGCC874F4586A86949 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG402376D387B9470A
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-13T09:52:17.866Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER148625EC60DAE437
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0003 ;
+        :seqNum             3 .
     
-    bda:LGADE3C4DE7F9F0D21
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-12T15:11:47.31Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER20A76A57A9D2745F
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0007 ;
+        :seqNum             7 .
     
-    bda:LGCC874F4586A86949
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-10T15:34:25.464Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER2ED03EE3419F905C
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0005 ;
+        :seqNum             5 .
     
-    bda:W3JT13349  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13349 ;
-        adm:facetIndex      5 ;
-        adm:replaceWith     bdr:IE3JT13349 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER402376D387B9470A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0002 ;
+        :seqNum             2 .
+    
+    bdr:ER652629FE8DC796D3
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0006 ;
+        :seqNum             6 .
+    
+    bdr:ER9617347D6C2AD485
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0008 ;
+        :seqNum             8 .
+    
+    bdr:ERADE3C4DE7F9F0D21
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:ERCB2EB035ADD74609
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0004 ;
+        :seqNum             4 .
+    
+    bdr:ERF6C6B85F1D3DD18A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13349_001_0009 ;
+        :seqNum             9 .
     
     bdr:IE3JT13349  a       :EtextInstance ;
-        skos:prefLabel      "gsung 'bum/ rin chen phun tshogs chos kyi rgyal po/"@bo-x-ewts ;
-        :catalogInfo        "the collected works (bka' 'bum) of rin chen phun tshogs chos kyi rgyal po"@en ;
-        :hasTitle           bdr:TT148625EC60DAE437 ;
+        :instanceHasVolume  bdr:VLCC874F4586A86949 ;
         :instanceOf         bdr:WA3JT13349 ;
         :isRoot             true .
     
-    bdr:TT148625EC60DAE437
-        a                   :TitlePageTitle ;
-        rdfs:label          "rin chen phun tshogs chos kyi rgyal po'i gsung 'bum/"@bo-x-ewts .
+    bdr:VLCC874F4586A86949
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER148625EC60DAE437 , bdr:ER20A76A57A9D2745F , bdr:ER2ED03EE3419F905C , bdr:ER402376D387B9470A , bdr:ER652629FE8DC796D3 , bdr:ER9617347D6C2AD485 , bdr:ERADE3C4DE7F9F0D21 , bdr:ERCB2EB035ADD74609 , bdr:ERF6C6B85F1D3DD18A ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13349 .
 }

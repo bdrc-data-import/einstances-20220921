@@ -15,33 +15,38 @@ bdg:IE3JT13310 {
     bda:IE3JT13310  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13310 ;
-        adm:facetIndex      3 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "5a/IE3JT13310.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13310 ;
-        adm:logEntry        bda:LG158B3D9762A6F26D ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG158B3D9762A6F26D
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:14:01.742Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER0CDB680D59F8EDE3
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13310_002_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13310  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13310 ;
-        adm:replaceWith     bdr:IE3JT13310 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ERD992FFC6C7DD6209
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13310_001_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13310  a       :EtextInstance ;
-        skos:prefLabel      "shes rab kyi pha rol tu phyin pa'i lung chos mtha' dag gi bdud rtsi'i snying por gyur pa gang la ldan pa'i gzhi rje btsun mchog tu dgyes par ngal gso ba'i yongs 'du sa brtol gyi ljon pa rgyas pa/"@bo-x-ewts ;
-        :hasTitle           bdr:TT0CDB680D59F8EDE3 ;
+        :instanceHasVolume  bdr:VL158B3D9762A6F26D , bdr:VL840D39026442B46D ;
         :instanceOf         bdr:WA3JT13310 ;
         :isRoot             true .
     
-    bdr:TT0CDB680D59F8EDE3
-        a                   :Title ;
-        rdfs:label          "shes rab kyi pha rol tu phyin pa'i lung chos mtha' dag gi bdud rtsi'i snying por gyur pa gang la ldan pa'i gzhi rje btsun mchog tu dgyes par ngal gso ba'i yongs 'du sa brtol gyi ljon pa rgyas pa/"@bo-x-ewts .
+    bdr:VL158B3D9762A6F26D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER0CDB680D59F8EDE3 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13310 .
+    
+    bdr:VL840D39026442B46D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERD992FFC6C7DD6209 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13310 .
 }

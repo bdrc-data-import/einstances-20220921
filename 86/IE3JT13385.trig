@@ -15,32 +15,27 @@ bdg:IE3JT13385 {
     bda:IE3JT13385  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13385 ;
+        adm:contentProvider  bda:CP006 ;
         adm:facetIndex      3 ;
         adm:gitPath         "86/IE3JT13385.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13385 ;
-        adm:logEntry        bda:LGF88E7D82F65CE113 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LGF88E7D82F65CE113
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-03-19T11:35:40.535Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13385  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13385 ;
-        adm:replaceWith     bdr:IE3JT13385 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ERCB874CBF94A505D4
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13385_001_0001 ;
+        :seqNum             1 .
     
     bdr:IE3JT13385  a       :EtextInstance ;
-        skos:prefLabel      "'pho ba'i gdams ngag gi 'grel pa/"@bo-x-ewts ;
-        :hasTitle           bdr:TTCB874CBF94A505D4 ;
+        :instanceHasVolume  bdr:VLF88E7D82F65CE113 ;
         :instanceOf         bdr:WA3JT13385 ;
         :isRoot             true .
     
-    bdr:TTCB874CBF94A505D4
-        a                   :TitlePageTitle ;
-        rdfs:label          "myur lam 'pho ba chen po'i gdams pa ma bsgom sangs rgyas kyi don 'grel dpal ldan bla ma'i zhal lung kun tu bzang po'i thugs bcud rgyud 'dzin 'od bskur grol ba'i man ngag brjod byang du bkod pa/"@bo-x-ewts .
+    bdr:VLF88E7D82F65CE113
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERCB874CBF94A505D4 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13385 .
 }

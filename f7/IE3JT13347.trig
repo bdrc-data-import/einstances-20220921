@@ -15,39 +15,32 @@ bdg:IE3JT13347 {
     bda:IE3JT13347  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13347 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "f7/IE3JT13347.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13347 ;
-        adm:logEntry        bda:LG58C83779FF527F9F , bda:LG8DF432250A1037C1 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG58C83779FF527F9F
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-25T15:53:29.27Z"^^xsd:dateTime ;
-        adm:logMessage      "subject class changed from T2DB4532 to T2064"@en ;
-        adm:logWho          bdr:U00020 .
+    bdr:ER29D41809D7CB40BD
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13347_001_0002 ;
+        :seqNum             2 .
     
-    bda:LG8DF432250A1037C1
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:15:57.983Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
-    
-    bda:W3JT13347  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13347 ;
-        adm:facetIndex      4 ;
-        adm:replaceWith     bdr:IE3JT13347 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER58C83779FF527F9F
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13347_001_0001 ;
+        :seqNum             1 .
     
     bdr:IE3JT13347  a       :EtextInstance ;
-        skos:prefLabel      "rten la nang gzhug 'bul ba'i lag len dang / rgyal sras lag len so bdun ma/"@bo-x-ewts ;
-        :hasTitle           bdr:TT29D41809D7CB40BD ;
+        :instanceHasVolume  bdr:VL8DF432250A1037C1 ;
         :instanceOf         bdr:WA3JT13347 ;
         :isRoot             true .
     
-    bdr:TT29D41809D7CB40BD
-        a                   :TitlePageTitle ;
-        rdfs:label          "rten la nang gzhug 'bul ba'i lag len lugs srol kun gsal dri bral nor bu chu shel gyi me long dang / byang chub spyod tshul snying por dril ba rgyal sras lag len so bdun ma/"@bo-x-ewts .
+    bdr:VL8DF432250A1037C1
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER29D41809D7CB40BD , bdr:ER58C83779FF527F9F ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13347 .
 }

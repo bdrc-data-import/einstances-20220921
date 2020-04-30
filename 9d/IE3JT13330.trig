@@ -15,28 +15,71 @@ bdg:IE3JT13330 {
     bda:IE3JT13330  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13330 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      11 ;
         adm:gitPath         "9d/IE3JT13330.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13330 ;
-        adm:logEntry        bda:LG3BD22910EF0C3C1C ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG3BD22910EF0C3C1C
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:15:05.977Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER33941E5BE5E1192A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13330_003_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13330  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13330 ;
-        adm:facetIndex      2 ;
-        adm:replaceWith     bdr:IE3JT13330 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER5256068CFCAABC47
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13330_001_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERA869DA303CBB2209
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13330_002_0000 ;
+        :seqNum             1 .
+    
+    bdr:EREE3BFD5009BE33E1
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13330_004_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERFF7445DA273535F9
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13330_005_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13330  a       :EtextInstance ;
-        skos:prefLabel      "mchod rten gyi skor dang / sAts+tsha gdab chog/ 'od zer dri med kyi bzlas pa/ gtsug tor dri med kyi gzungs bcas/"@bo-x-ewts ;
+        :instanceHasVolume  bdr:VL3BD22910EF0C3C1C , bdr:VL47F5360DB59317EA , bdr:VLA38D1534218F9502 , bdr:VLB8B382FC0B5E03E9 , bdr:VLE477C35A35558974 ;
         :instanceOf         bdr:WA3JT13330 ;
         :isRoot             true .
+    
+    bdr:VL3BD22910EF0C3C1C
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERA869DA303CBB2209 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13330 .
+    
+    bdr:VL47F5360DB59317EA
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER33941E5BE5E1192A ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13330 .
+    
+    bdr:VLA38D1534218F9502
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER5256068CFCAABC47 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13330 .
+    
+    bdr:VLB8B382FC0B5E03E9
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:EREE3BFD5009BE33E1 ;
+        :volumeNumber       4 ;
+        :volumeOf           bdr:IE3JT13330 .
+    
+    bdr:VLE477C35A35558974
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERFF7445DA273535F9 ;
+        :volumeNumber       5 ;
+        :volumeOf           bdr:IE3JT13330 .
 }

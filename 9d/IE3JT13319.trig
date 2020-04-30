@@ -15,44 +15,49 @@ bdg:IE3JT13319 {
     bda:IE3JT13319  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13319 ;
-        adm:facetIndex      5 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      7 ;
         adm:gitPath         "9d/IE3JT13319.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13319 ;
-        adm:logEntry        bda:LG8FAFD1EDE78140E4 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG8FAFD1EDE78140E4
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:14:29.232Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER8FAFD1EDE78140E4
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13319_001_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13319  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13319 ;
-        adm:replaceWith     bdr:IE3JT13319 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER963E707053CF9B53
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13319_003_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERAC4B08E4185C3719
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13319_002_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13319  a       :EtextInstance ;
-        skos:prefLabel      "phyag chen rgya gzhung /"@bo-x-ewts ;
-        :hasTitle           bdr:TT923FE827F1E34E85 , bdr:TTAC4B08E4185C3719 ;
-        :isRoot             true ;
-        :note               bdr:NT00843993C0207528 ;
-        :workIsAbout        bdr:T199 .
+        :instanceHasVolume  bdr:VL00843993C0207528 , bdr:VL923FE827F1E34E85 , bdr:VLEE4D1A90600E5FFC ;
+        :instanceOf         bdr:WA1AC321 ;
+        :isRoot             true .
     
-    bdr:MW3JT13319  :instanceOf  bdr:WA1AC321 .
+    bdr:VL00843993C0207528
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER8FAFD1EDE78140E4 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13319 .
     
-    bdr:NT00843993C0207528
-        a                   :Note ;
-        :noteText           "v. 1. phyag rgya chen po'i rgya gzhung glegs bam dang po/ (oM)\nv. 2. phyag rgya chen po'i rgya gzhung glegs bam gnyis pa/ (AH)\nv. 3. phyag rgya chen po'i rgya gzhung glegs bam gsum pa/ (hUM)"@en .
+    bdr:VL923FE827F1E34E85
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERAC4B08E4185C3719 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13319 .
     
-    bdr:TT923FE827F1E34E85
-        a                   :Title ;
-        rdfs:label          "phyag chen rgya gzhung /"@bo-x-ewts .
-    
-    bdr:TTAC4B08E4185C3719
-        a                   :TitlePageTitle ;
-        rdfs:label          "phyag rgya chen po'i rgya gzhung /"@bo-x-ewts .
+    bdr:VLEE4D1A90600E5FFC
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER963E707053CF9B53 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13319 .
 }

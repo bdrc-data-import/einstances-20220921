@@ -15,33 +15,71 @@ bdg:IE3JT13343 {
     bda:IE3JT13343  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13343 ;
-        adm:facetIndex      3 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      11 ;
         adm:gitPath         "15/IE3JT13343.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13343 ;
-        adm:logEntry        bda:LG9011E7B880A34655 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG9011E7B880A34655
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:15:45.252Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER436900A12DD0D731
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_001_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13343  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13343 ;
-        adm:replaceWith     bdr:IE3JT13343 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER44279EAEE03C78BA
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_002_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER4C594EE8AA8834DC
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_004_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER82F1CE9CC3ED4A10
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_003_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERA23FAD787BEB5A42
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_005_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13343  a       :EtextInstance ;
-        skos:prefLabel      "rtsa gsum bka' srung bcas kyi gtor bsngos sogs chos tshan lnga /"@bo-x-ewts ;
-        :hasTitle           bdr:TT82F1CE9CC3ED4A10 ;
+        :instanceHasVolume  bdr:VL141792B18111917A , bdr:VL9011E7B880A34655 , bdr:VLAF6D1C1AAEECF072 , bdr:VLE8AF7C8203E7AAD8 , bdr:VLF65E0AA0E681CDF9 ;
         :instanceOf         bdr:WA3JT13343 ;
         :isRoot             true .
     
-    bdr:TT82F1CE9CC3ED4A10
-        a                   :Title ;
-        rdfs:label          "rtsa gsum bka' srung bcas kyi gtor bsngos sogs chos tshan lnga /"@bo-x-ewts .
+    bdr:VL141792B18111917A
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER436900A12DD0D731 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13343 .
+    
+    bdr:VL9011E7B880A34655
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER82F1CE9CC3ED4A10 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13343 .
+    
+    bdr:VLAF6D1C1AAEECF072
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER44279EAEE03C78BA ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13343 .
+    
+    bdr:VLE8AF7C8203E7AAD8
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER4C594EE8AA8834DC ;
+        :volumeNumber       4 ;
+        :volumeOf           bdr:IE3JT13343 .
+    
+    bdr:VLF65E0AA0E681CDF9
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERA23FAD787BEB5A42 ;
+        :volumeNumber       5 ;
+        :volumeOf           bdr:IE3JT13343 .
 }

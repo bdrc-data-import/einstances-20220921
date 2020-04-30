@@ -15,33 +15,49 @@ bdg:IE3JT13334 {
     bda:IE3JT13334  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13334 ;
+        adm:contentProvider  bda:CP001 ;
+        adm:facetIndex      7 ;
         adm:gitPath         "91/IE3JT13334.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13334 ;
-        adm:logEntry        bda:LG02F63E33FA333720 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LG02F63E33FA333720
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-07T12:15:16.315Z"^^xsd:dateTime ;
-        adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER2360C155AB878F09
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13334_003_0000 ;
+        :seqNum             1 .
     
-    bda:W3JT13334  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13334 ;
-        adm:facetIndex      3 ;
-        adm:replaceWith     bdr:IE3JT13334 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER31F8F876D091619D
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13334_001_0000 ;
+        :seqNum             1 .
+    
+    bdr:ER8701CA3D19A700F6
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13334_002_0000 ;
+        :seqNum             1 .
     
     bdr:IE3JT13334  a       :EtextInstance ;
-        skos:prefLabel      "bla ma rgyang 'bod dang phyag chen sngon 'gro'i skor/"@bo-x-ewts ;
-        :hasTitle           bdr:TT31F8F876D091619D ;
+        :instanceHasVolume  bdr:VL02F63E33FA333720 , bdr:VL21721039F3A642D9 , bdr:VL505118D794DA8BE0 ;
         :instanceOf         bdr:WA3JT13334 ;
         :isRoot             true .
     
-    bdr:TT31F8F876D091619D
-        a                   :Title ;
-        rdfs:label          "bla ma rgyang 'bod dang phyag chen sngon 'gro'i skor/"@bo-x-ewts .
+    bdr:VL02F63E33FA333720
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER31F8F876D091619D ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13334 .
+    
+    bdr:VL21721039F3A642D9
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER8701CA3D19A700F6 ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE3JT13334 .
+    
+    bdr:VL505118D794DA8BE0
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER2360C155AB878F09 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13334 .
 }

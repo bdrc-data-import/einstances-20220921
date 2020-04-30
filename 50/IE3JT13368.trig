@@ -15,38 +15,52 @@ bdg:IE3JT13368 {
     bda:IE3JT13368  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13368 ;
+        adm:contentProvider  bda:CP006 ;
+        adm:facetIndex      8 ;
         adm:gitPath         "50/IE3JT13368.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13368 ;
-        adm:logEntry        bda:LGB4EE08F60C0781A0 , bda:LGD4A6DD855BAB6616 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bda:LGB4EE08F60C0781A0
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-03-19T11:35:03.982Z"^^xsd:dateTime ;
-        adm:logMessage      "mtshan byang 'byur yod"@en ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER2186E9DEC47753C1
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0003 ;
+        :seqNum             3 .
     
-    bda:LGD4A6DD855BAB6616
-        a                   adm:LogEntry ;
-        adm:logDate         "2014-02-26T09:57:50.536Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00013 .
+    bdr:ER6C2DEBEA2052AF5E
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0004 ;
+        :seqNum             4 .
     
-    bda:W3JT13368  a        adm:AdminData ;
-        :isRoot             true ;
-        adm:adminAbout      bdr:W3JT13368 ;
-        adm:facetIndex      4 ;
-        adm:replaceWith     bdr:IE3JT13368 ;
-        adm:status          bda:StatusWithdrawn .
+    bdr:ER99B9E220F7964664
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0005 ;
+        :seqNum             5 .
+    
+    bdr:ERB13AD8EAB4A71E9A
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0001 ;
+        :seqNum             1 .
+    
+    bdr:ERB4EE08F60C0781A0
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0006 ;
+        :seqNum             6 .
+    
+    bdr:ERFBF7507C25963A09
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13368_001_0002 ;
+        :seqNum             2 .
     
     bdr:IE3JT13368  a       :EtextInstance ;
-        skos:prefLabel      "se ra mkha' 'gro'i rnam thar kha shas/"@bo-x-ewts ;
-        :hasTitle           bdr:TT6C2DEBEA2052AF5E ;
+        :instanceHasVolume  bdr:VLD4A6DD855BAB6616 ;
         :instanceOf         bdr:WA3JT13368 ;
         :isRoot             true .
     
-    bdr:TT6C2DEBEA2052AF5E
-        a                   :TitlePageTitle ;
-        rdfs:label          "se ra mkha' 'gro kun bzang bde skyong dbang mo'i rnam thar kha shas/"@bo-x-ewts .
+    bdr:VLD4A6DD855BAB6616
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER2186E9DEC47753C1 , bdr:ER6C2DEBEA2052AF5E , bdr:ER99B9E220F7964664 , bdr:ERB13AD8EAB4A71E9A , bdr:ERB4EE08F60C0781A0 , bdr:ERFBF7507C25963A09 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13368 .
 }
