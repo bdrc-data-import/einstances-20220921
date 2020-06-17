@@ -14,6 +14,7 @@
 bdg:IE1CZ2276 {
     bda:IE1CZ2276  a        adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE1CZ2276 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;
@@ -21,6 +22,7 @@ bdg:IE1CZ2276 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE1CZ2276 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusReleased .
     
     bdr:ER907C2693AD49DE49

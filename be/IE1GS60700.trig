@@ -14,6 +14,7 @@
 bdg:IE1GS60700 {
     bda:IE1GS60700  a       adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE1GS60700 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;

@@ -14,6 +14,7 @@
 bdg:IE1KG11903 {
     bda:IE1KG11903  a       adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE1KG11903 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      5 ;

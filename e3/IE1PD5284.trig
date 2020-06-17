@@ -14,6 +14,7 @@
 bdg:IE1PD5284 {
     bda:IE1PD5284  a        adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessRestrictedSealed ;
         adm:adminAbout      bdr:IE1PD5284 ;
         adm:contentProvider  bda:CP004 ;
         adm:facetIndex      139 ;

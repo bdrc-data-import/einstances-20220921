@@ -14,6 +14,7 @@
 bdg:IE3JT13326 {
     bda:IE3JT13326  a       adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13326 ;
         adm:contentProvider  bda:CP001 ;
         adm:facetIndex      55 ;

@@ -14,6 +14,7 @@
 bdg:IE30015 {
     bda:IE30015  a          adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE30015 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;

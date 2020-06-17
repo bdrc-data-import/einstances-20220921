@@ -14,6 +14,7 @@
 bdg:IE1CZ2485 {
     bda:IE1CZ2485  a        adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE1CZ2485 ;
         adm:contentProvider  bda:CP001 ;
         adm:facetIndex      3 ;

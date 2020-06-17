@@ -14,6 +14,7 @@
 bdg:IE4CZ5369 {
     bda:IE4CZ5369  a        adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE4CZ5369 ;
         adm:contentProvider  bda:CP003 ;
         adm:facetIndex      205 ;

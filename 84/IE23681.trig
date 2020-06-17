@@ -14,6 +14,7 @@
 bdg:IE23681 {
     bda:IE23681  a          adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE23681 ;
         adm:contentProvider  bda:CP004 ;
         adm:facetIndex      387 ;

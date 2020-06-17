@@ -15,6 +15,7 @@ bdg:IE00EGS1017151 {
     bda:IE00EGS1017151
         a                   adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE00EGS1017151 ;
         adm:contentProvider  bda:CP004 ;
         adm:facetIndex      1335 ;

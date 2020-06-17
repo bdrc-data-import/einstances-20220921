@@ -14,6 +14,7 @@
 bdg:IE00KG03695 {
     bda:IE00KG03695  a      adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE00KG03695 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;
@@ -21,6 +22,7 @@ bdg:IE00KG03695 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE00KG03695 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusReleased .
     
     bdr:ER8C83B7B6E2459252

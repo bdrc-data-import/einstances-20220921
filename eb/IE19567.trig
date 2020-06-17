@@ -14,6 +14,7 @@
 bdg:IE19567 {
     bda:IE19567  a          adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessRestrictedSealed ;
         adm:adminAbout      bdr:IE19567 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;
