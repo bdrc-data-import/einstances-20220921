@@ -1932,7 +1932,7 @@ bdg:IE22082 {
     bdr:IE22082  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL0B138F8C81B090F9 , bdr:VL0CC2ADC0D18DE7E2 , bdr:VL14782E206F518CB4 , bdr:VL1E415CF9C7F726F2 , bdr:VL2C00939B56B565B3 , bdr:VL598D8F8B30509DFF , bdr:VL5A8B601DEAD9E5F2 , bdr:VL7A4DAC470531063D , bdr:VL80E50E65FF8B1A22 , bdr:VL996DD029562A4878 , bdr:VL9F89DF33B1BBAA1C , bdr:VLB62E17035355204F , bdr:VLC4AA88B3E5061BFC , bdr:VLD94AD8C28FD25E92 , bdr:VLDE7A36517A1578B2 , bdr:VLFED63F20D4549AA8 ;
         :instanceOf         bdr:WA22082 ;
-        :instanceReproductionOf  bdr:W22082 ;
+        :instanceReproductionOf  bdr:MW22082 , bdr:W22082 ;
         :isRoot             true .
     
     bdr:VL0B138F8C81B090F9

@@ -32,7 +32,7 @@ bdg:IE21612 {
     bdr:IE21612  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL69D3DFA24DF622BF ;
         :instanceOf         bdr:WA21612 ;
-        :instanceReproductionOf  bdr:W21612 ;
+        :instanceReproductionOf  bdr:MW21612 , bdr:W21612 ;
         :isRoot             true .
     
     bdr:VL69D3DFA24DF622BF

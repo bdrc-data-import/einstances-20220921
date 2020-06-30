@@ -73,7 +73,7 @@ bdg:IE2CZ8049 {
     bdr:IE2CZ8049  a        :EtextInstance ;
         :instanceHasVolume  bdr:VLF2EA82CE1CEC517F ;
         :instanceOf         bdr:WA2CZ8049 ;
-        :instanceReproductionOf  bdr:W2CZ8049 ;
+        :instanceReproductionOf  bdr:MW2CZ8049 , bdr:W2CZ8049 ;
         :isRoot             true .
     
     bdr:VLF2EA82CE1CEC517F

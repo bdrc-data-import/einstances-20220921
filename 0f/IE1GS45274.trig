@@ -42,7 +42,7 @@ bdg:IE1GS45274 {
     bdr:IE1GS45274  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL2954979F6E25DEBE , bdr:VL655E5020000FD464 , bdr:VLC3FC891FE2FAD5B5 ;
         :instanceOf         bdr:WA1GS45274 ;
-        :instanceReproductionOf  bdr:W1GS45274 ;
+        :instanceReproductionOf  bdr:MW1GS45274 , bdr:W1GS45274 ;
         :isRoot             true .
     
     bdr:VL2954979F6E25DEBE

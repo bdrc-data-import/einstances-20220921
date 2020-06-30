@@ -55,7 +55,7 @@ bdg:IE00EGS1016733 {
         a                   :EtextInstance ;
         :instanceHasVolume  bdr:VLCC0D71C55C84BDA9 ;
         :instanceOf         bdr:WA00EGS1016733 ;
-        :instanceReproductionOf  bdr:W00EGS1016733 ;
+        :instanceReproductionOf  bdr:MW00EGS1016733 , bdr:W00EGS1016733 ;
         :isRoot             true .
     
     bdr:VLCC0D71C55C84BDA9

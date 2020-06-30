@@ -32,7 +32,7 @@ bdg:IE2CZ6618 {
     bdr:IE2CZ6618  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL725BE79CC0F06BBF ;
         :instanceOf         bdr:WA2CZ6618 ;
-        :instanceReproductionOf  bdr:W2CZ6618 ;
+        :instanceReproductionOf  bdr:MW2CZ6618 , bdr:W2CZ6618 ;
         :isRoot             true .
     
     bdr:VL725BE79CC0F06BBF

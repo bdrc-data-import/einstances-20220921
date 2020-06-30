@@ -92,7 +92,7 @@ bdg:IE1PD105899 {
     bdr:IE1PD105899  a      :EtextInstance ;
         :instanceHasVolume  bdr:VL009CC23BA80371F1 , bdr:VL07C443984CB9C528 , bdr:VL082E8FADA121FD4C , bdr:VL5E1518BFC847964B , bdr:VL5F12CD3C1A39A080 , bdr:VL6A59584971E744D2 , bdr:VL6DF1F763D3929819 , bdr:VL7FBC4625140AE8E6 , bdr:VL9D6D67AE0872A3CD , bdr:VLA5C2B49262E7BB9D , bdr:VLAC756D362ECAFFB6 , bdr:VLD645387D7E603668 , bdr:VLF76A7F06C72A47FA ;
         :instanceOf         bdr:WA1PD105899 ;
-        :instanceReproductionOf  bdr:W1PD105899 ;
+        :instanceReproductionOf  bdr:MW1PD105899 , bdr:W1PD105899 ;
         :isRoot             true .
     
     bdr:VL009CC23BA80371F1

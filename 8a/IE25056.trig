@@ -32,7 +32,7 @@ bdg:IE25056 {
     bdr:IE25056  a          :EtextInstance ;
         :instanceHasVolume  bdr:VLCC4C4E681FBB4641 ;
         :instanceOf         bdr:WA25056 ;
-        :instanceReproductionOf  bdr:W25056 ;
+        :instanceReproductionOf  bdr:MW25056 , bdr:W25056 ;
         :isRoot             true .
     
     bdr:VLCC4C4E681FBB4641

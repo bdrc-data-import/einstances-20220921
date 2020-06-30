@@ -1397,7 +1397,7 @@ bdg:IE21825 {
     bdr:IE21825  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL01EA81DFB4B300CA , bdr:VL4A3879398BD7CBEB , bdr:VL610FB085931B82B4 , bdr:VL6D8176C1AA073553 , bdr:VL75D3BBE2FCA77B89 , bdr:VLD3E5F22A46CDF8E5 ;
         :instanceOf         bdr:WA21825 ;
-        :instanceReproductionOf  bdr:W21825 ;
+        :instanceReproductionOf  bdr:MW21825 , bdr:W21825 ;
         :isRoot             true .
     
     bdr:VL01EA81DFB4B300CA

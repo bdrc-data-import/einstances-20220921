@@ -82,7 +82,7 @@ bdg:IE2DB4591 {
     bdr:IE2DB4591  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL068CBDCCF75F542F , bdr:VL24582299FB9B7E97 , bdr:VL3B31CF182BE3168C , bdr:VL51EEBD3EA36C0C77 , bdr:VL658CC70BF4F7696E , bdr:VL6AF42AA3BC8A0DAF , bdr:VL6F424C09F09A6C68 , bdr:VL8026CDAFD4BAAA42 , bdr:VLA8CEBB603E2F4B2F , bdr:VLBAAA9E76339C9F04 , bdr:VLFD3ED247218C5B2F ;
         :instanceOf         bdr:WA1KG15906 ;
-        :instanceReproductionOf  bdr:W2DB4591 ;
+        :instanceReproductionOf  bdr:MW2DB4591 , bdr:W2DB4591 ;
         :isRoot             true .
     
     bdr:VL068CBDCCF75F542F

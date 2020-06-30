@@ -33,7 +33,7 @@ bdg:IE1PD85356 {
     bdr:IE1PD85356  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL42D958578A62A66C ;
         :instanceOf         bdr:WA1GS60383 ;
-        :instanceReproductionOf  bdr:W1PD85356 ;
+        :instanceReproductionOf  bdr:MW1PD85356 , bdr:W1PD85356 ;
         :isRoot             true .
     
     bdr:VL42D958578A62A66C

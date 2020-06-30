@@ -32,7 +32,7 @@ bdg:IE1PD105872 {
     bdr:IE1PD105872  a      :EtextInstance ;
         :instanceHasVolume  bdr:VLA0D63AB33FE7E453 ;
         :instanceOf         bdr:WA1PD105872 ;
-        :instanceReproductionOf  bdr:W1PD105872 ;
+        :instanceReproductionOf  bdr:MW1PD105872 , bdr:W1PD105872 ;
         :isRoot             true .
     
     bdr:VLA0D63AB33FE7E453

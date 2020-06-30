@@ -37,7 +37,7 @@ bdg:IE1KG4857 {
     bdr:IE1KG4857  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL748A15E4A758793D , bdr:VLF136A498328D6FF8 ;
         :instanceOf         bdr:WA1KG4857 ;
-        :instanceReproductionOf  bdr:W1KG4857 ;
+        :instanceReproductionOf  bdr:MW1KG4857 , bdr:W1KG4857 ;
         :isRoot             true .
     
     bdr:VL748A15E4A758793D

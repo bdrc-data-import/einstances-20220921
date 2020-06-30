@@ -32,7 +32,7 @@ bdg:IE18122 {
     bdr:IE18122  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL8B9B4CA322C9E3F5 ;
         :instanceOf         bdr:WA18122 ;
-        :instanceReproductionOf  bdr:W18122 ;
+        :instanceReproductionOf  bdr:MW18122 , bdr:W18122 ;
         :isRoot             true .
     
     bdr:VL8B9B4CA322C9E3F5

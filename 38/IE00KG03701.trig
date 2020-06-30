@@ -32,7 +32,7 @@ bdg:IE00KG03701 {
     bdr:IE00KG03701  a      :EtextInstance ;
         :instanceHasVolume  bdr:VL15D490C256BDF097 ;
         :instanceOf         bdr:WA00KG03701 ;
-        :instanceReproductionOf  bdr:W00KG03701 ;
+        :instanceReproductionOf  bdr:MW00KG03701 , bdr:W00KG03701 ;
         :isRoot             true .
     
     bdr:VL15D490C256BDF097

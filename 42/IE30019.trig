@@ -37,7 +37,7 @@ bdg:IE30019 {
     bdr:IE30019  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL11F9C6FF91FC90A5 , bdr:VLEFA36221B9019703 ;
         :instanceOf         bdr:WA30019 ;
-        :instanceReproductionOf  bdr:W30019 ;
+        :instanceReproductionOf  bdr:MW30019 , bdr:W30019 ;
         :isRoot             true .
     
     bdr:VL11F9C6FF91FC90A5

@@ -47,7 +47,7 @@ bdg:IE2DB4568 {
     bdr:IE2DB4568  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL0FEAC8A3794759B4 , bdr:VL2DE6EEC450ECC521 , bdr:VL68CC2A1E39704BB3 , bdr:VLE009BC5E541A9C32 ;
         :instanceOf         bdr:WA2DB4568 ;
-        :instanceReproductionOf  bdr:W2DB4568 ;
+        :instanceReproductionOf  bdr:MW2DB4568 , bdr:W2DB4568 ;
         :isRoot             true .
     
     bdr:VL0FEAC8A3794759B4

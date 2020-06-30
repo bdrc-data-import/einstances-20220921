@@ -222,7 +222,7 @@ bdg:IE22393 {
     bdr:IE22393  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL669DB6AB10F3BCB0 ;
         :instanceOf         bdr:WA22393 ;
-        :instanceReproductionOf  bdr:W22393 ;
+        :instanceReproductionOf  bdr:MW22393 , bdr:W22393 ;
         :isRoot             true .
     
     bdr:VL669DB6AB10F3BCB0

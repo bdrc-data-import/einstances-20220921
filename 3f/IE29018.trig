@@ -32,7 +32,7 @@ bdg:IE29018 {
     bdr:IE29018  a          :EtextInstance ;
         :instanceHasVolume  bdr:VLAB061BB52DBA90E8 ;
         :instanceOf         bdr:WA29018 ;
-        :instanceReproductionOf  bdr:W29018 ;
+        :instanceReproductionOf  bdr:MW29018 , bdr:W29018 ;
         :isRoot             true .
     
     bdr:VLAB061BB52DBA90E8

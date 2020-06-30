@@ -32,7 +32,7 @@ bdg:IE1GS58450 {
     bdr:IE1GS58450  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL4E4D449CD1B9A8E5 ;
         :instanceOf         bdr:WA1GS58450 ;
-        :instanceReproductionOf  bdr:W1GS58450 ;
+        :instanceReproductionOf  bdr:MW1GS58450 , bdr:W1GS58450 ;
         :isRoot             true .
     
     bdr:VL4E4D449CD1B9A8E5

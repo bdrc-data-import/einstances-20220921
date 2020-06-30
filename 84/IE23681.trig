@@ -1952,7 +1952,7 @@ bdg:IE23681 {
     bdr:IE23681  a          :EtextInstance ;
         :instanceHasVolume  bdr:VLBA708D7DFE2E0D05 ;
         :instanceOf         bdr:WA1KG17189 ;
-        :instanceReproductionOf  bdr:W23681 ;
+        :instanceReproductionOf  bdr:MW23681 , bdr:W23681 ;
         :isRoot             true .
     
     bdr:VLBA708D7DFE2E0D05

@@ -72,7 +72,7 @@ bdg:IE1KG14505 {
     bdr:IE1KG14505  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL5CDCCEC541150890 , bdr:VL6A75EE68A701226F , bdr:VL8CF202A5A3A05AE1 , bdr:VL90870F34D3BF3574 , bdr:VL9E1F75E8944F8950 , bdr:VLCEB551AAF1742D13 , bdr:VLE37391255C2CB83E , bdr:VLEE60AF0758264618 , bdr:VLFDDAA05F6AE93F01 ;
         :instanceOf         bdr:WA1KG14505 ;
-        :instanceReproductionOf  bdr:W1KG14505 ;
+        :instanceReproductionOf  bdr:MW1KG14505 , bdr:W1KG14505 ;
         :isRoot             true .
     
     bdr:VL5CDCCEC541150890

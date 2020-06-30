@@ -242,7 +242,7 @@ bdg:IE2DB4576 {
     bdr:IE2DB4576  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL664D67EC9C84AC6A ;
         :instanceOf         bdr:WA1CZ1997 ;
-        :instanceReproductionOf  bdr:W2DB4576 ;
+        :instanceReproductionOf  bdr:MW2DB4576 , bdr:W2DB4576 ;
         :isRoot             true .
     
     bdr:VL664D67EC9C84AC6A

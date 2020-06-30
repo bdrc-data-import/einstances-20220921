@@ -32,7 +32,7 @@ bdg:IE25094 {
     bdr:IE25094  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL669C0BEE0850C645 ;
         :instanceOf         bdr:WA25094 ;
-        :instanceReproductionOf  bdr:W25094 ;
+        :instanceReproductionOf  bdr:MW25094 , bdr:W25094 ;
         :isRoot             true .
     
     bdr:VL669C0BEE0850C645

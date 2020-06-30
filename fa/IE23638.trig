@@ -37,7 +37,7 @@ bdg:IE23638 {
     bdr:IE23638  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL988546B976DC98F7 , bdr:VLEAB207CFE8730F65 ;
         :instanceOf         bdr:WA23638 ;
-        :instanceReproductionOf  bdr:W23638 ;
+        :instanceReproductionOf  bdr:MW23638 , bdr:W23638 ;
         :isRoot             true .
     
     bdr:VL988546B976DC98F7

@@ -37,7 +37,7 @@ bdg:IE1KG4244 {
     bdr:IE1KG4244  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL5E26260282348D20 , bdr:VL9245D5D6D3349A0C ;
         :instanceOf         bdr:WA1KG4244 ;
-        :instanceReproductionOf  bdr:W1KG4244 ;
+        :instanceReproductionOf  bdr:MW1KG4244 , bdr:W1KG4244 ;
         :isRoot             true .
     
     bdr:VL5E26260282348D20

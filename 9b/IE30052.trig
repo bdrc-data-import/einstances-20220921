@@ -32,7 +32,7 @@ bdg:IE30052 {
     bdr:IE30052  a          :EtextInstance ;
         :instanceHasVolume  bdr:VLC5EF9011D16E6512 ;
         :instanceOf         bdr:WA30052 ;
-        :instanceReproductionOf  bdr:W30052 ;
+        :instanceReproductionOf  bdr:MW30052 , bdr:W30052 ;
         :isRoot             true .
     
     bdr:VLC5EF9011D16E6512

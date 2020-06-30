@@ -77,7 +77,7 @@ bdg:IE1KG11939 {
     bdr:IE1KG11939  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL219468DFF0DCB3FE , bdr:VL2A977C5428939B47 , bdr:VL3048E80177CFBA6E , bdr:VL7F17568E49756B08 , bdr:VLA6206F7AFCF0028E , bdr:VLB5153ACD3A44ACE8 , bdr:VLBA4E43D442B86AB7 , bdr:VLD04B3030143A6D41 , bdr:VLE3A2335DBCDB67C4 , bdr:VLE584D4EF6F19F498 ;
         :instanceOf         bdr:WA1KG11939 ;
-        :instanceReproductionOf  bdr:W1KG11939 ;
+        :instanceReproductionOf  bdr:MW1KG11939 , bdr:W1KG11939 ;
         :isRoot             true .
     
     bdr:VL219468DFF0DCB3FE

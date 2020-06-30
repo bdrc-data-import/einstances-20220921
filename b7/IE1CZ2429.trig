@@ -32,7 +32,7 @@ bdg:IE1CZ2429 {
     bdr:IE1CZ2429  a        :EtextInstance ;
         :instanceHasVolume  bdr:VLA2B40C62588E5ACB ;
         :instanceOf         bdr:WA1CZ2429 ;
-        :instanceReproductionOf  bdr:W1CZ2429 ;
+        :instanceReproductionOf  bdr:MW1CZ2429 , bdr:W1CZ2429 ;
         :isRoot             true .
     
     bdr:VLA2B40C62588E5ACB

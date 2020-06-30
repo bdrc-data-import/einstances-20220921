@@ -32,7 +32,7 @@ bdg:IE21588 {
     bdr:IE21588  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL9C71E7D887A9FB58 ;
         :instanceOf         bdr:WA21588 ;
-        :instanceReproductionOf  bdr:W21588 ;
+        :instanceReproductionOf  bdr:MW21588 , bdr:W21588 ;
         :isRoot             true .
     
     bdr:VL9C71E7D887A9FB58

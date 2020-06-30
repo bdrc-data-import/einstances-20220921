@@ -32,7 +32,7 @@ bdg:IE1CZ2258 {
     bdr:IE1CZ2258  a        :EtextInstance ;
         :instanceHasVolume  bdr:VLAB53A1055921BFFF ;
         :instanceOf         bdr:WA1CZ2258 ;
-        :instanceReproductionOf  bdr:W1CZ2258 ;
+        :instanceReproductionOf  bdr:MW1CZ2258 , bdr:W1CZ2258 ;
         :isRoot             true .
     
     bdr:VLAB53A1055921BFFF

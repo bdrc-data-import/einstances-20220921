@@ -32,7 +32,7 @@ bdg:IE00KG0622 {
     bdr:IE00KG0622  a       :EtextInstance ;
         :instanceHasVolume  bdr:VLC42CD0F553087E59 ;
         :instanceOf         bdr:WA00KG0622 ;
-        :instanceReproductionOf  bdr:W00KG0622 ;
+        :instanceReproductionOf  bdr:MW00KG0622 , bdr:W00KG0622 ;
         :isRoot             true .
     
     bdr:VLC42CD0F553087E59

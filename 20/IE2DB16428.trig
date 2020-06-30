@@ -42,7 +42,7 @@ bdg:IE2DB16428 {
     bdr:IE2DB16428  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL4FCB80E4DCEB3B85 , bdr:VL6C3B99F8E9A33823 , bdr:VLB8BB1F013595F6CB ;
         :instanceOf         bdr:WA2DB16428 ;
-        :instanceReproductionOf  bdr:W2DB16428 ;
+        :instanceReproductionOf  bdr:MW2DB16428 , bdr:W2DB16428 ;
         :isRoot             true .
     
     bdr:VL4FCB80E4DCEB3B85

@@ -32,7 +32,7 @@ bdg:IE1KG509 {
     bdr:IE1KG509  a         :EtextInstance ;
         :instanceHasVolume  bdr:VL9C99DF4011A0299C ;
         :instanceOf         bdr:WA1KG509 ;
-        :instanceReproductionOf  bdr:W1KG509 ;
+        :instanceReproductionOf  bdr:MW1KG509 , bdr:W1KG509 ;
         :isRoot             true .
     
     bdr:VL9C99DF4011A0299C

@@ -32,7 +32,7 @@ bdg:IE1KG426 {
     bdr:IE1KG426  a         :EtextInstance ;
         :instanceHasVolume  bdr:VL170708C9BEB0AC3B ;
         :instanceOf         bdr:WA1KG426 ;
-        :instanceReproductionOf  bdr:W1KG426 ;
+        :instanceReproductionOf  bdr:MW1KG426 , bdr:W1KG426 ;
         :isRoot             true .
     
     bdr:VL170708C9BEB0AC3B

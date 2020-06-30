@@ -47,7 +47,7 @@ bdg:IE23784 {
     bdr:IE23784  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL3EA43971EA001211 ;
         :instanceOf         bdr:WA23784 ;
-        :instanceReproductionOf  bdr:W23784 ;
+        :instanceReproductionOf  bdr:MW23784 , bdr:W23784 ;
         :isRoot             true .
     
     bdr:VL3EA43971EA001211

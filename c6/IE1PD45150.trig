@@ -77,7 +77,7 @@ bdg:IE1PD45150 {
     bdr:IE1PD45150  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL051A508750BD6310 , bdr:VL052FEA091E9A6C31 , bdr:VL420CE7AD156E5FBE , bdr:VL6A9C878F7C3F4B88 , bdr:VL7195531C79D43702 , bdr:VL81C8DE42DC05F5F7 , bdr:VL94BEA9C440C2A73B , bdr:VLA4CD6FDA3EC2E980 , bdr:VLA6643D5794724A17 , bdr:VLC7FFF8B184281D85 ;
         :instanceOf         bdr:WA1PD45150 ;
-        :instanceReproductionOf  bdr:W1PD45150 ;
+        :instanceReproductionOf  bdr:MW1PD45150 , bdr:W1PD45150 ;
         :isRoot             true .
     
     bdr:VL051A508750BD6310

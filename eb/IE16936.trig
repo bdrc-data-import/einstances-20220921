@@ -57,7 +57,7 @@ bdg:IE16936 {
     bdr:IE16936  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL07EC213E5CD2E3CD , bdr:VL2A439CFA89085A6E , bdr:VL700FC3A0BB2989BD , bdr:VL856DDC7228C6A87F , bdr:VLA845D52965BEF1CB , bdr:VLC742A8772C952D91 ;
         :instanceOf         bdr:WA16936 ;
-        :instanceReproductionOf  bdr:W16936 ;
+        :instanceReproductionOf  bdr:MW16936 , bdr:W16936 ;
         :isRoot             true .
     
     bdr:VL07EC213E5CD2E3CD

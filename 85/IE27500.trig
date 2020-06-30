@@ -32,7 +32,7 @@ bdg:IE27500 {
     bdr:IE27500  a          :EtextInstance ;
         :instanceHasVolume  bdr:VLBF273CF2C9F67746 ;
         :instanceOf         bdr:WA27500 ;
-        :instanceReproductionOf  bdr:W27500 ;
+        :instanceReproductionOf  bdr:MW27500 , bdr:W27500 ;
         :isRoot             true .
     
     bdr:VLBF273CF2C9F67746

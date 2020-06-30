@@ -37,7 +37,7 @@ bdg:IE22314 {
     bdr:IE22314  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL86F49DCDDFEB484E ;
         :instanceOf         bdr:WA22314 ;
-        :instanceReproductionOf  bdr:W22314 ;
+        :instanceReproductionOf  bdr:MW22314 , bdr:W22314 ;
         :isRoot             true .
     
     bdr:VL86F49DCDDFEB484E

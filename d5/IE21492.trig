@@ -37,7 +37,7 @@ bdg:IE21492 {
     bdr:IE21492  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL9B7FCD46F8DA865C ;
         :instanceOf         bdr:WA21492 ;
-        :instanceReproductionOf  bdr:W21492 ;
+        :instanceReproductionOf  bdr:MW21492 , bdr:W21492 ;
         :isRoot             true .
     
     bdr:VL9B7FCD46F8DA865C

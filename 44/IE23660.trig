@@ -47,7 +47,7 @@ bdg:IE23660 {
     bdr:IE23660  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL3EE77F4239EDE6D9 , bdr:VL5E657DA944CA39E8 , bdr:VLAB5D98AC9CBFF655 , bdr:VLD2A97956AB1A367A ;
         :instanceOf         bdr:WA23660 ;
-        :instanceReproductionOf  bdr:W23660 ;
+        :instanceReproductionOf  bdr:MW23660 , bdr:W23660 ;
         :isRoot             true .
     
     bdr:VL3EE77F4239EDE6D9

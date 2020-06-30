@@ -602,7 +602,7 @@ bdg:IE1KG5988 {
     bdr:IE1KG5988  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL8F19D0B0408668CD ;
         :instanceOf         bdr:WA1KG12113 ;
-        :instanceReproductionOf  bdr:W1KG5988 ;
+        :instanceReproductionOf  bdr:MW1KG5988 , bdr:W1KG5988 ;
         :isRoot             true .
     
     bdr:VL8F19D0B0408668CD

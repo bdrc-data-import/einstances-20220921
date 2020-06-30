@@ -32,7 +32,7 @@ bdg:IE7735 {
     bdr:IE7735  a           :EtextInstance ;
         :instanceHasVolume  bdr:VL88F00460FB542794 ;
         :instanceOf         bdr:WA1KG23599 ;
-        :instanceReproductionOf  bdr:W7735 ;
+        :instanceReproductionOf  bdr:MW7735 , bdr:W7735 ;
         :isRoot             true .
     
     bdr:VL88F00460FB542794

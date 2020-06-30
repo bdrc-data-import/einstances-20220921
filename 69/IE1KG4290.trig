@@ -33,7 +33,7 @@ bdg:IE1KG4290 {
     bdr:IE1KG4290  a        :EtextInstance ;
         :instanceHasVolume  bdr:VLC4033FF64DC09868 ;
         :instanceOf         bdr:WA1KG4290 ;
-        :instanceReproductionOf  bdr:W1KG4290 ;
+        :instanceReproductionOf  bdr:MW1KG4290 , bdr:W1KG4290 ;
         :isRoot             true .
     
     bdr:VLC4033FF64DC09868

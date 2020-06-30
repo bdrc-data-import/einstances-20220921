@@ -32,7 +32,7 @@ bdg:IE10919 {
     bdr:IE10919  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL83F88BE2FAB3D8B3 ;
         :instanceOf         bdr:WA10919 ;
-        :instanceReproductionOf  bdr:W10919 ;
+        :instanceReproductionOf  bdr:MW10919 , bdr:W10919 ;
         :isRoot             true .
     
     bdr:VL83F88BE2FAB3D8B3

@@ -72,7 +72,7 @@ bdg:IE1KG8898 {
     bdr:IE1KG8898  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL238E7CC3DD7DAB67 , bdr:VL28BFF03CC66B9C0E , bdr:VL61B92739AB54B969 , bdr:VL7CA631A3BC28D8C8 , bdr:VL9A075FBEBD18196F , bdr:VLB623BDAAFDCD6B0F , bdr:VLD9F8F326511554B2 , bdr:VLE9EE0244AD27B387 , bdr:VLEC88960CFCE1A859 ;
         :instanceOf         bdr:WA1KG8898 ;
-        :instanceReproductionOf  bdr:W1KG8898 ;
+        :instanceReproductionOf  bdr:MW1KG8898 , bdr:W1KG8898 ;
         :isRoot             true .
     
     bdr:VL238E7CC3DD7DAB67

@@ -32,7 +32,7 @@ bdg:IE30014 {
     bdr:IE30014  a          :EtextInstance ;
         :instanceHasVolume  bdr:VL003D68DC5B812802 ;
         :instanceOf         bdr:WA30014 ;
-        :instanceReproductionOf  bdr:W30014 ;
+        :instanceReproductionOf  bdr:MW30014 , bdr:W30014 ;
         :isRoot             true .
     
     bdr:VL003D68DC5B812802

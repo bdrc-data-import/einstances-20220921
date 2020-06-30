@@ -32,7 +32,7 @@ bdg:IE7479 {
     bdr:IE7479  a           :EtextInstance ;
         :instanceHasVolume  bdr:VLE7A6A5F80D1B9BC7 ;
         :instanceOf         bdr:WA4CZ1260 ;
-        :instanceReproductionOf  bdr:W7479 ;
+        :instanceReproductionOf  bdr:MW7479 , bdr:W7479 ;
         :isRoot             true .
     
     bdr:VLE7A6A5F80D1B9BC7

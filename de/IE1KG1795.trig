@@ -67,7 +67,7 @@ bdg:IE1KG1795 {
     bdr:IE1KG1795  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL24A00F0B249CECFF , bdr:VL38AEBCDEE97BD1E5 , bdr:VL54983A5BC9432564 , bdr:VL56B9671A8EB9352F , bdr:VL5ACADAAD442CBB1E , bdr:VL5C20157275D9F266 , bdr:VL7D00EC52BAB4DBCA , bdr:VLBC610B11A68DAF6A ;
         :instanceOf         bdr:WA1KG1795 ;
-        :instanceReproductionOf  bdr:W1KG1795 ;
+        :instanceReproductionOf  bdr:MW1KG1795 , bdr:W1KG1795 ;
         :isRoot             true .
     
     bdr:VL24A00F0B249CECFF
