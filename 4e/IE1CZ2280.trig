@@ -1,4 +1,4 @@
-@base          <bdg:IE1CZ2280> .
+BASE           <bdg:IE1CZ2280>
 @prefix :      <http://purl.bdrc.io/ontology/core/> .
 @prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
