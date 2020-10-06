@@ -536,7 +536,7 @@ bdg:IE4CZ5369 {
     
     bdr:IE4CZ5369  a        :EtextInstance ;
         :instanceHasVolume  bdr:VL45698C23E5039409 ;
-        :instanceOf         bdr:WA1KG13607 ;
+        :instanceOf         bdr:WA22084 ;
         :instanceReproductionOf  bdr:MW4CZ5369 , bdr:W4CZ5369 ;
         :isRoot             true .
     

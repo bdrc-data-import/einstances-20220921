@@ -621,7 +621,7 @@ bdg:IE1PD95844 {
     
     bdr:IE1PD95844  a       :EtextInstance ;
         :instanceHasVolume  bdr:VL25E4479BEF47D24F ;
-        :instanceOf         bdr:WA1GS66030 ;
+        :instanceOf         bdr:WA1PD95844 ;
         :instanceReproductionOf  bdr:MW1PD95844 , bdr:W1PD95844 ;
         :isRoot             true .
     
