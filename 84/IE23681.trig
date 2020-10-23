@@ -1950,6 +1950,7 @@ bdg:IE23681 {
         :seqNum             281 .
     
     bdr:IE23681  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VLBA708D7DFE2E0D05 ;
         :instanceOf         bdr:WA1KG17189 ;
         :instanceReproductionOf  bdr:MW23681 , bdr:W23681 ;

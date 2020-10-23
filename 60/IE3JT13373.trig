@@ -175,6 +175,7 @@ bdg:IE3JT13373 {
         :seqNum             1 .
     
     bdr:IE3JT13373  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL3985D5EC133C159B , bdr:VL72CFBFAB47630FB5 ;
         :instanceOf         bdr:WA3JT13373 ;
         :isRoot             true .

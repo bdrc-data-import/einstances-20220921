@@ -45,6 +45,7 @@ bdg:IE1KG12222 {
         :seqNum             4 .
     
     bdr:IE1KG12222  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL9A3FF7851D17D3E1 ;
         :instanceOf         bdr:WA1KG12222 ;
         :instanceReproductionOf  bdr:MW1KG12222 , bdr:W1KG12222 ;

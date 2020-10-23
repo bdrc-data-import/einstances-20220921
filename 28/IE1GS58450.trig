@@ -30,6 +30,7 @@ bdg:IE1GS58450 {
         :seqNum             1 .
     
     bdr:IE1GS58450  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VL4E4D449CD1B9A8E5 ;
         :instanceOf         bdr:WA1GS58450 ;
         :instanceReproductionOf  bdr:MW1GS58450 , bdr:W1GS58450 ;

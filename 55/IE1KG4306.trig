@@ -31,6 +31,7 @@ bdg:IE1KG4306 {
         :seqNum             1 .
     
     bdr:IE1KG4306  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL92FC52D790E301D7 ;
         :instanceOf         bdr:WA1KG4306 ;
         :instanceReproductionOf  bdr:MW1KG4306 , bdr:W1KG4306 ;

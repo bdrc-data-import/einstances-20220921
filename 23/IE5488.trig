@@ -75,6 +75,7 @@ bdg:IE5488 {
         :seqNum             4 .
     
     bdr:IE5488  a           :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VLF5825883BD9322E0 ;
         :instanceOf         bdr:WA5488 ;
         :instanceReproductionOf  bdr:MW5488 , bdr:W5488 ;

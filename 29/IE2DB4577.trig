@@ -715,6 +715,7 @@ bdg:IE2DB4577 {
         :seqNum             11 .
     
     bdr:IE2DB4577  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL33903FE6C94F8A17 , bdr:VL35951944FBECC3A5 , bdr:VL425573225901DEE6 , bdr:VL4FF14188A7746016 , bdr:VL626DDB284FD98D06 , bdr:VL75FB13B0480E5723 , bdr:VL9952F49D7D331833 , bdr:VLAA4D911F6D73B5BA , bdr:VLAF4B67AE6653CEEE , bdr:VLC8D82848E062FD52 , bdr:VLD494058A347D53EA , bdr:VLE4E4914206CD173A ;
         :instanceOf         bdr:WA1KG11903 ;
         :instanceReproductionOf  bdr:MW2DB4577 , bdr:W2DB4577 ;

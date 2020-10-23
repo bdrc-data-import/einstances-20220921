@@ -40,6 +40,7 @@ bdg:IE1GS45274 {
         :seqNum             1 .
     
     bdr:IE1GS45274  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLC3FC891FE2FAD5B5 ;
         :instanceOf         bdr:WA1GS45274 ;
         :instanceReproductionOf  bdr:MW1GS45274 , bdr:W1GS45274 ;

@@ -220,6 +220,7 @@ bdg:IE22393 {
         :seqNum             13 .
     
     bdr:IE22393  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL669DB6AB10F3BCB0 ;
         :instanceOf         bdr:WA22393 ;
         :instanceReproductionOf  bdr:MW22393 , bdr:W22393 ;

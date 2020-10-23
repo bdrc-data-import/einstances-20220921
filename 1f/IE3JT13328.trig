@@ -45,6 +45,7 @@ bdg:IE3JT13328 {
         :seqNum             1 .
     
     bdr:IE3JT13328  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL3D9DD9C192A0AB7E , bdr:VLA9CC5A4D20C402B9 , bdr:VLB1A1401D39141A08 , bdr:VLD2EADB9B34EE85C2 ;
         :instanceOf         bdr:WA3JT13328 ;
         :isRoot             true .

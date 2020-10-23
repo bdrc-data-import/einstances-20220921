@@ -220,6 +220,7 @@ bdg:IE3JT13304 {
         :seqNum             23 .
     
     bdr:IE3JT13304  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL5C34239948BC5023 ;
         :instanceOf         bdr:WA3JT13304 ;
         :isRoot             true .

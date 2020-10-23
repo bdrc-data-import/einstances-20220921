@@ -45,6 +45,7 @@ bdg:IE23785 {
         :seqNum             3 .
     
     bdr:IE23785  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL40F03CEECFE03982 ;
         :instanceOf         bdr:WA23785 ;
         :instanceReproductionOf  bdr:MW23785 , bdr:W23785 ;

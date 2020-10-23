@@ -35,6 +35,7 @@ bdg:IE7499 {
         :seqNum             1 .
     
     bdr:IE7499  a           :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VL46D995CB2334E32C ;
         :instanceOf         bdr:WA1KG15897 ;
         :instanceReproductionOf  bdr:MW7499 , bdr:W7499 ;

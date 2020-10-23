@@ -30,6 +30,7 @@ bdg:IE27303 {
         :seqNum             1 .
     
     bdr:IE27303  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLC3981C3410B460EB ;
         :instanceOf         bdr:WA27303 ;
         :instanceReproductionOf  bdr:MW27303 , bdr:W27303 ;

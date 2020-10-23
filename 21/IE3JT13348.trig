@@ -430,6 +430,7 @@ bdg:IE3JT13348 {
         :seqNum             22 .
     
     bdr:IE3JT13348  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL111556A9D4E5E655 , bdr:VL1D402A9544754FA0 , bdr:VL2CF2E8C834723445 , bdr:VL303DB7907F77BBE4 , bdr:VL622C2BBC94C9412E , bdr:VL648528E5080001F2 , bdr:VL83328177E8F7825F , bdr:VLA08DAC591F24B0C0 , bdr:VLBB680AE978DBB1E5 , bdr:VLE09CB8522B54CE7B , bdr:VLE5F08F4E0E434187 , bdr:VLF28BE81196759BC0 , bdr:VLFAC856369A39E6BF , bdr:VLFBBC1B845817C741 , bdr:VLFC0EDFF9097A33E1 ;
         :instanceOf         bdr:WA3JT13348 ;
         :isRoot             true .

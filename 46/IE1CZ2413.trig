@@ -30,6 +30,7 @@ bdg:IE1CZ2413 {
         :seqNum             1 .
     
     bdr:IE1CZ2413  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLFF0AA8B5DB744707 ;
         :instanceOf         bdr:WA1CZ2413 ;
         :instanceReproductionOf  bdr:MW1CZ2413 , bdr:W1CZ2413 ;

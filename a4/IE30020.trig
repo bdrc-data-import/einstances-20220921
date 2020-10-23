@@ -35,6 +35,7 @@ bdg:IE30020 {
         :seqNum             1 .
     
     bdr:IE30020  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VL15B3D6626E0986B7 ;
         :instanceOf         bdr:WA30020 ;
         :instanceReproductionOf  bdr:MW30020 , bdr:W30020 ;

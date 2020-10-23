@@ -240,6 +240,7 @@ bdg:IE2DB4576 {
         :seqNum             24 .
     
     bdr:IE2DB4576  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL664D67EC9C84AC6A ;
         :instanceOf         bdr:WA1CZ1997 ;
         :instanceReproductionOf  bdr:MW2DB4576 , bdr:W2DB4576 ;

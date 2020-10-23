@@ -30,6 +30,7 @@ bdg:IE7735 {
         :seqNum             1 .
     
     bdr:IE7735  a           :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VL88F00460FB542794 ;
         :instanceOf         bdr:WA1KG23599 ;
         :instanceReproductionOf  bdr:MW7735 , bdr:W7735 ;

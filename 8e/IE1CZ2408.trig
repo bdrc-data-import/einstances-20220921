@@ -30,6 +30,7 @@ bdg:IE1CZ2408 {
         :seqNum             1 .
     
     bdr:IE1CZ2408  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLC90DEE1838472154 ;
         :instanceOf         bdr:WA1CZ2408 ;
         :instanceReproductionOf  bdr:MW1CZ2408 , bdr:W1CZ2408 ;

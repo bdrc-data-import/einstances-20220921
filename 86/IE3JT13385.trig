@@ -30,6 +30,7 @@ bdg:IE3JT13385 {
         :seqNum             1 .
     
     bdr:IE3JT13385  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VLF88E7D82F65CE113 ;
         :instanceOf         bdr:WA3JT13385 ;
         :isRoot             true .

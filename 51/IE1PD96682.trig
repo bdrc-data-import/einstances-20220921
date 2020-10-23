@@ -565,6 +565,7 @@ bdg:IE1PD96682 {
         :seqNum             1 .
     
     bdr:IE1PD96682  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLB41AB19168BAE578 ;
         :instanceOf         bdr:WA1PD96682 ;
         :instanceReproductionOf  bdr:MW1PD96682 , bdr:W1PD96682 ;

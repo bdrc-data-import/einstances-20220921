@@ -75,6 +75,7 @@ bdg:IE3JT13325 {
         :seqNum             1 .
     
     bdr:IE3JT13325  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL193E51BB0AA99966 , bdr:VL3D79BEC792D7329E , bdr:VL5CE2A8276974F44A , bdr:VL7C911495BD7385B4 , bdr:VL817E7056F33999FC , bdr:VL8A0C2C2AAFA5C41B , bdr:VL994F3B31EA8C9A6D , bdr:VLA2BEB6CB4A9DC80F , bdr:VLC00E73A19A43EAE0 , bdr:VLF0C63025EBC988D4 ;
         :instanceOf         bdr:WA3JT13325 ;
         :isRoot             true .

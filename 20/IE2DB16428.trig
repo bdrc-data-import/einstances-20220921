@@ -40,6 +40,7 @@ bdg:IE2DB16428 {
         :seqNum             1 .
     
     bdr:IE2DB16428  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLB8BB1F013595F6CB ;
         :instanceOf         bdr:WA2DB16428 ;
         :instanceReproductionOf  bdr:MW2DB16428 , bdr:W2DB16428 ;

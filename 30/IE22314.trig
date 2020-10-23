@@ -35,6 +35,7 @@ bdg:IE22314 {
         :seqNum             2 .
     
     bdr:IE22314  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL86F49DCDDFEB484E ;
         :instanceOf         bdr:WA22314 ;
         :instanceReproductionOf  bdr:MW22314 , bdr:W22314 ;

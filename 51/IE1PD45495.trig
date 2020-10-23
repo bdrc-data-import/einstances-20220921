@@ -250,6 +250,7 @@ bdg:IE1PD45495 {
         :seqNum             1 .
     
     bdr:IE1PD45495  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VL3617DC517CE71A7A ;
         :instanceOf         bdr:WA1PD45495 ;
         :instanceReproductionOf  bdr:MW1PD45495 , bdr:W1PD45495 ;

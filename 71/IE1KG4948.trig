@@ -31,6 +31,7 @@ bdg:IE1KG4948 {
         :seqNum             1 .
     
     bdr:IE1KG4948  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLD7D78CD931FE3825 ;
         :instanceOf         bdr:WA1KG4948 ;
         :instanceReproductionOf  bdr:MW1KG4948 , bdr:W1KG4948 ;

@@ -70,6 +70,7 @@ bdg:IE1KG8898 {
         :seqNum             1 .
     
     bdr:IE1KG8898  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VL238E7CC3DD7DAB67 ;
         :instanceOf         bdr:WA1KG8898 ;
         :instanceReproductionOf  bdr:MW1KG8898 , bdr:W1KG8898 ;

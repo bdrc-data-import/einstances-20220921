@@ -35,6 +35,7 @@ bdg:IE20426 {
         :seqNum             1 .
     
     bdr:IE20426  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLEB10F9BB0EEBE612 ;
         :instanceOf         bdr:WA20426 ;
         :instanceReproductionOf  bdr:MW20426 , bdr:W20426 ;

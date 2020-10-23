@@ -45,6 +45,7 @@ bdg:IE2DB4570 {
         :seqNum             1 .
     
     bdr:IE2DB4570  a        :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_OCR ;
         :instanceHasVolume  bdr:VLDD91BCBB6B92AC71 ;
         :instanceOf         bdr:WA2DB4570 ;
         :instanceReproductionOf  bdr:MW2DB4570 , bdr:W2DB4570 ;

@@ -100,6 +100,7 @@ bdg:IE1PD105896 {
         :seqNum             1 .
     
     bdr:IE1PD105896  a      :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL116F690E6570D223 , bdr:VL286A2D763438EFEF , bdr:VL37993F0BAA1BDB31 , bdr:VL45B99CB2546E3009 , bdr:VL4991FA051DA1FA79 , bdr:VL4AA2F35207698346 , bdr:VL4C6C5834B8613CEF , bdr:VL573610D44258BCDC , bdr:VL755270DDFF78A44D , bdr:VL7F16D03268C4636D , bdr:VL8B81DDB3CBB939FD , bdr:VLB452857E722C946B , bdr:VLB7BF1CA653A351C1 , bdr:VLFBA36FA41EFD10B5 , bdr:VLFFD12BB2F7964D8C ;
         :instanceOf         bdr:WA1PD105896 ;
         :instanceReproductionOf  bdr:MW1PD105896 , bdr:W1PD105896 ;

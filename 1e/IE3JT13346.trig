@@ -230,6 +230,7 @@ bdg:IE3JT13346 {
         :seqNum             29 .
     
     bdr:IE3JT13346  a       :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VLC25E4598A896D88E ;
         :instanceOf         bdr:WA3JT13346 ;
         :isRoot             true .

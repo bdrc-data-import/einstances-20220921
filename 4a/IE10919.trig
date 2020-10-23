@@ -30,6 +30,7 @@ bdg:IE10919 {
         :seqNum             1 .
     
     bdr:IE10919  a          :EtextInstance ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :instanceHasVolume  bdr:VL83F88BE2FAB3D8B3 ;
         :instanceOf         bdr:WA10919 ;
         :instanceReproductionOf  bdr:MW10919 , bdr:W10919 ;
