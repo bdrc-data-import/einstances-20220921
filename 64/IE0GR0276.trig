@@ -14,6 +14,7 @@
 bdg:IE0GR0276 {
     bda:IE0GR0276  a        adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE0GR0276 ;
         adm:facetIndex      4 ;
         adm:gitPath         "64/IE0GR0276.trig" ;
