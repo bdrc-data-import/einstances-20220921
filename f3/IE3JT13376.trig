@@ -17,27 +17,43 @@ bdg:IE3JT13376 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13376 ;
         adm:contentProvider  bda:CP010 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "f3/IE3JT13376.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13376 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER535A85CE564DBA04
+    bda:W3JT13376  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13376 ;
+        adm:replaceWith     bdr:IE3JT13376 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:ERB95B9C31FF4A14BD
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13376_001_0001 ;
         :seqNum             1 .
     
     bdr:IE3JT13376  a       :EtextInstance ;
+        skos:prefLabel      "mngon pa mdzod kyi 'grel pa dbyig gnyen zhal lung /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VLF0ACDA2AA9FC119E ;
+        :hasTitle           bdr:TT535A85CE564DBA04 , bdr:TTF0ACDA2AA9FC119E ;
+        :instanceHasVolume  bdr:VL148DF01EADEE9347 ;
         :instanceOf         bdr:WA3JT13376 ;
         :isRoot             true .
     
-    bdr:VLF0ACDA2AA9FC119E
+    bdr:TT535A85CE564DBA04
+        a                   :TitlePageTitle ;
+        rdfs:label          "dam pa'i chos mngon pa mdzod kyi 'grel pa legs par bshad pa dbyig gnyen zhal lung sa bcad dang bcas pa/"@bo-x-ewts .
+    
+    bdr:TTF0ACDA2AA9FC119E
+        a                   :Title ;
+        rdfs:label          "mngon pa mdzod kyi 'grel pa dbyig gnyen zhal lung /"@bo-x-ewts .
+    
+    bdr:VL148DF01EADEE9347
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER535A85CE564DBA04 ;
+        :volumeHasEtext     bdr:ERB95B9C31FF4A14BD ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13376 .
 }

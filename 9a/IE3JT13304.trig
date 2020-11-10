@@ -17,12 +17,19 @@ bdg:IE3JT13304 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13304 ;
         adm:contentProvider  bda:CP004 ;
-        adm:facetIndex      41 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "9a/IE3JT13304.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13304 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:W3JT13304  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13304 ;
+        adm:facetIndex      41 ;
+        adm:replaceWith     bdr:IE3JT13304 ;
+        adm:status          bda:StatusWithdrawn .
     
     bdr:ER04D5A90A93E43C17
         a                   :EtextRef ;
@@ -220,10 +227,24 @@ bdg:IE3JT13304 {
         :seqNum             23 .
     
     bdr:IE3JT13304  a       :EtextInstance ;
+        skos:prefLabel      "phar phyin skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :hasTitle           bdr:TT5C34239948BC5023 , bdr:TT96379C2271F63F6D , bdr:TTFDCB4F1F9A87B8C1 ;
         :instanceHasVolume  bdr:VL5C34239948BC5023 ;
         :instanceOf         bdr:WA3JT13304 ;
         :isRoot             true .
+    
+    bdr:TT5C34239948BC5023
+        a                   :Title ;
+        rdfs:label          "phar phyin skor/"@bo-x-ewts .
+    
+    bdr:TT96379C2271F63F6D
+        a                   :TitlePageTitle ;
+        rdfs:label          "phar phyin gyi skor/"@bo-x-ewts .
+    
+    bdr:TTFDCB4F1F9A87B8C1
+        a                   :FullTitle ;
+        rdfs:label          "phar phyin gyi chos skor/"@bo-x-ewts .
     
     bdr:VL5C34239948BC5023
         a                   :VolumeEtextAsset ;

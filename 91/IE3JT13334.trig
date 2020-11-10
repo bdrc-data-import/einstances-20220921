@@ -17,49 +17,61 @@ bdg:IE3JT13334 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13334 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      7 ;
         adm:gitPath         "91/IE3JT13334.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13334 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER2360C155AB878F09
+    bda:W3JT13334  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13334 ;
+        adm:facetIndex      8 ;
+        adm:replaceWith     bdr:IE3JT13334 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:ER21721039F3A642D9
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13334_003_0000 ;
         :seqNum             1 .
     
-    bdr:ER31F8F876D091619D
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13334_001_0000 ;
-        :seqNum             1 .
-    
-    bdr:ER8701CA3D19A700F6
+    bdr:ER4FDA09A2850867EB
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13334_002_0000 ;
         :seqNum             1 .
     
+    bdr:ER505118D794DA8BE0
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13334_001_0000 ;
+        :seqNum             1 .
+    
     bdr:IE3JT13334  a       :EtextInstance ;
+        skos:prefLabel      "bla ma rgyang 'bod dang phyag chen sngon 'gro'i skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VL02F63E33FA333720 , bdr:VL21721039F3A642D9 , bdr:VL505118D794DA8BE0 ;
+        :hasTitle           bdr:TT02F63E33FA333720 ;
+        :instanceHasVolume  bdr:VL2360C155AB878F09 , bdr:VL31F8F876D091619D , bdr:VL8701CA3D19A700F6 ;
         :instanceOf         bdr:WA3JT13334 ;
         :isRoot             true .
     
-    bdr:VL02F63E33FA333720
+    bdr:TT02F63E33FA333720
+        a                   :Title ;
+        rdfs:label          "bla ma rgyang 'bod dang phyag chen sngon 'gro'i skor/"@bo-x-ewts .
+    
+    bdr:VL2360C155AB878F09
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER31F8F876D091619D ;
+        :volumeHasEtext     bdr:ER21721039F3A642D9 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13334 .
+    
+    bdr:VL31F8F876D091619D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER505118D794DA8BE0 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13334 .
     
-    bdr:VL21721039F3A642D9
+    bdr:VL8701CA3D19A700F6
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER8701CA3D19A700F6 ;
+        :volumeHasEtext     bdr:ER4FDA09A2850867EB ;
         :volumeNumber       2 ;
-        :volumeOf           bdr:IE3JT13334 .
-    
-    bdr:VL505118D794DA8BE0
-        a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER2360C155AB878F09 ;
-        :volumeNumber       3 ;
         :volumeOf           bdr:IE3JT13334 .
 }

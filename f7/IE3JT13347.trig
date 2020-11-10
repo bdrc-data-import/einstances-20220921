@@ -17,32 +17,48 @@ bdg:IE3JT13347 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13347 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      4 ;
         adm:gitPath         "f7/IE3JT13347.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13347 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER29D41809D7CB40BD
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13347_001_0002 ;
-        :seqNum             2 .
+    bda:W3JT13347  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13347 ;
+        adm:facetIndex      6 ;
+        adm:replaceWith     bdr:IE3JT13347 ;
+        adm:status          bda:StatusWithdrawn .
     
-    bdr:ER58C83779FF527F9F
+    bdr:ER5365F7F99A24EE13
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13347_001_0001 ;
         :seqNum             1 .
     
+    bdr:ERA43AF0D18DE126F1
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13347_001_0002 ;
+        :seqNum             2 .
+    
     bdr:IE3JT13347  a       :EtextInstance ;
+        skos:prefLabel      "rten la nang gzhug 'bul ba'i lag len dang / rgyal sras lag len so bdun ma/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VL8DF432250A1037C1 ;
+        :hasTitle           bdr:TT58C83779FF527F9F , bdr:TT8DF432250A1037C1 ;
+        :instanceHasVolume  bdr:VL29D41809D7CB40BD ;
         :instanceOf         bdr:WA3JT13347 ;
         :isRoot             true .
     
-    bdr:VL8DF432250A1037C1
+    bdr:TT58C83779FF527F9F
+        a                   :TitlePageTitle ;
+        rdfs:label          "rten la nang gzhug 'bul ba'i lag len lugs srol kun gsal dri bral nor bu chu shel gyi me long dang / byang chub spyod tshul snying por dril ba rgyal sras lag len so bdun ma/"@bo-x-ewts .
+    
+    bdr:TT8DF432250A1037C1
+        a                   :Title ;
+        rdfs:label          "rten la nang gzhug 'bul ba'i lag len dang / rgyal sras lag len so bdun ma/"@bo-x-ewts .
+    
+    bdr:VL29D41809D7CB40BD
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER29D41809D7CB40BD , bdr:ER58C83779FF527F9F ;
+        :volumeHasEtext     bdr:ER5365F7F99A24EE13 , bdr:ERA43AF0D18DE126F1 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13347 .
 }

@@ -17,12 +17,19 @@ bdg:IE3JT13346 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13346 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      43 ;
+        adm:facetIndex      2 ;
         adm:gitPath         "1e/IE3JT13346.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13346 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:W3JT13346  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13346 ;
+        adm:facetIndex      43 ;
+        adm:replaceWith     bdr:IE3JT13346 ;
+        adm:status          bda:StatusWithdrawn .
     
     bdr:ER08555116DDFB1648
         a                   :EtextRef ;
@@ -230,10 +237,16 @@ bdg:IE3JT13346 {
         :seqNum             29 .
     
     bdr:IE3JT13346  a       :EtextInstance ;
+        skos:prefLabel      "chos tshan sna tshogs/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :hasTitle           bdr:TTC25E4598A896D88E ;
         :instanceHasVolume  bdr:VLC25E4598A896D88E ;
         :instanceOf         bdr:WA3JT13346 ;
         :isRoot             true .
+    
+    bdr:TTC25E4598A896D88E
+        a                   :Title ;
+        rdfs:label          "chos tshan sna tshogs/"@bo-x-ewts .
     
     bdr:VLC25E4598A896D88E
         a                   :VolumeEtextAsset ;

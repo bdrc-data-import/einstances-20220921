@@ -17,71 +17,83 @@ bdg:IE3JT13343 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13343 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      11 ;
+        adm:facetIndex      12 ;
         adm:gitPath         "15/IE3JT13343.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13343 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER436900A12DD0D731
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13343_001_0000 ;
-        :seqNum             1 .
+    bda:W3JT13343  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13343 ;
+        adm:replaceWith     bdr:IE3JT13343 ;
+        adm:status          bda:StatusWithdrawn .
     
-    bdr:ER44279EAEE03C78BA
+    bdr:ER141792B18111917A
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13343_002_0000 ;
         :seqNum             1 .
     
-    bdr:ER4C594EE8AA8834DC
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13343_004_0000 ;
-        :seqNum             1 .
-    
-    bdr:ER82F1CE9CC3ED4A10
+    bdr:ERAF6D1C1AAEECF072
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13343_003_0000 ;
         :seqNum             1 .
     
-    bdr:ERA23FAD787BEB5A42
+    bdr:ERCCA92336A9B74850
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_004_0000 ;
+        :seqNum             1 .
+    
+    bdr:ERE8AF7C8203E7AAD8
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13343_005_0000 ;
         :seqNum             1 .
     
+    bdr:ERF65E0AA0E681CDF9
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13343_001_0000 ;
+        :seqNum             1 .
+    
     bdr:IE3JT13343  a       :EtextInstance ;
+        skos:prefLabel      "rtsa gsum bka' srung bcas kyi gtor bsngos sogs chos tshan lnga /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VL141792B18111917A , bdr:VL9011E7B880A34655 , bdr:VLAF6D1C1AAEECF072 , bdr:VLE8AF7C8203E7AAD8 , bdr:VLF65E0AA0E681CDF9 ;
+        :hasTitle           bdr:TT9011E7B880A34655 ;
+        :instanceHasVolume  bdr:VL436900A12DD0D731 , bdr:VL44279EAEE03C78BA , bdr:VL4C594EE8AA8834DC , bdr:VL82F1CE9CC3ED4A10 , bdr:VLA23FAD787BEB5A42 ;
         :instanceOf         bdr:WA3JT13343 ;
         :isRoot             true .
     
-    bdr:VL141792B18111917A
+    bdr:TT9011E7B880A34655
+        a                   :Title ;
+        rdfs:label          "rtsa gsum bka' srung bcas kyi gtor bsngos sogs chos tshan lnga /"@bo-x-ewts .
+    
+    bdr:VL436900A12DD0D731
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER436900A12DD0D731 ;
+        :volumeHasEtext     bdr:ERF65E0AA0E681CDF9 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13343 .
     
-    bdr:VL9011E7B880A34655
+    bdr:VL44279EAEE03C78BA
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER82F1CE9CC3ED4A10 ;
-        :volumeNumber       3 ;
-        :volumeOf           bdr:IE3JT13343 .
-    
-    bdr:VLAF6D1C1AAEECF072
-        a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER44279EAEE03C78BA ;
+        :volumeHasEtext     bdr:ER141792B18111917A ;
         :volumeNumber       2 ;
         :volumeOf           bdr:IE3JT13343 .
     
-    bdr:VLE8AF7C8203E7AAD8
+    bdr:VL4C594EE8AA8834DC
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER4C594EE8AA8834DC ;
+        :volumeHasEtext     bdr:ERCCA92336A9B74850 ;
         :volumeNumber       4 ;
         :volumeOf           bdr:IE3JT13343 .
     
-    bdr:VLF65E0AA0E681CDF9
+    bdr:VL82F1CE9CC3ED4A10
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERA23FAD787BEB5A42 ;
+        :volumeHasEtext     bdr:ERAF6D1C1AAEECF072 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE3JT13343 .
+    
+    bdr:VLA23FAD787BEB5A42
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERE8AF7C8203E7AAD8 ;
         :volumeNumber       5 ;
         :volumeOf           bdr:IE3JT13343 .
 }

@@ -17,27 +17,43 @@ bdg:IE3JT13318 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13318 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      3 ;
         adm:gitPath         "55/IE3JT13318.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13318 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ERC5635C2BC4A0C2C6
+    bda:W3JT13318  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13318 ;
+        adm:facetIndex      5 ;
+        adm:replaceWith     bdr:IE3JT13318 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:ER8A003B3E16C256F5
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13318_001_0001 ;
         :seqNum             1 .
     
     bdr:IE3JT13318  a       :EtextInstance ;
+        skos:prefLabel      "karma pa chen po bco lnga pa'i gsung las spar du bzhugs pa'i glegs bam rnams kyi dkar chag"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VLD509B51839459D1F ;
+        :hasTitle           bdr:TTC5635C2BC4A0C2C6 , bdr:TTD509B51839459D1F ;
+        :instanceHasVolume  bdr:VL307D6981CAF8B00B ;
         :instanceOf         bdr:WA3JT13318 ;
         :isRoot             true .
     
-    bdr:VLD509B51839459D1F
+    bdr:TTC5635C2BC4A0C2C6
+        a                   :TitlePageTitle ;
+        rdfs:label          "'jig rten dbang phyug dpal karma pa chen po bco lnga pa'i gsung gi gsang ba bsam gyis mi khyab pa las ngo mtshar spar du bzhugs pa'i glegs bam rnams kyi dkar chag chos tshul rnam par 'byed pa'i zla snang /"@bo-x-ewts .
+    
+    bdr:TTD509B51839459D1F
+        a                   :Title ;
+        rdfs:label          "karma pa chen po bco lnga pa'i gsung las spar du bzhugs pa'i glegs bam rnams kyi dkar chag"@bo-x-ewts .
+    
+    bdr:VL307D6981CAF8B00B
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERC5635C2BC4A0C2C6 ;
+        :volumeHasEtext     bdr:ER8A003B3E16C256F5 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13318 .
 }

@@ -17,12 +17,19 @@ bdg:IE3JT13313 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13313 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      2 ;
         adm:gitPath         "5e/IE3JT13313.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13313 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:W3JT13313  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13313 ;
+        adm:facetIndex      3 ;
+        adm:replaceWith     bdr:IE3JT13313 ;
+        adm:status          bda:StatusWithdrawn .
     
     bdr:ERA8CF3D93EC3BCCF5
         a                   :EtextRef ;
@@ -30,10 +37,16 @@ bdg:IE3JT13313 {
         :seqNum             1 .
     
     bdr:IE3JT13313  a       :EtextInstance ;
+        skos:prefLabel      "yi dam drag po'i mngon rtogs rdo rje'i 'phreng ba'i dbang bshad/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :hasTitle           bdr:TT17F866755DB12D11 ;
         :instanceHasVolume  bdr:VL17F866755DB12D11 ;
         :instanceOf         bdr:WA3JT13313 ;
         :isRoot             true .
+    
+    bdr:TT17F866755DB12D11
+        a                   :Title ;
+        rdfs:label          "yi dam drag po'i mngon rtogs rdo rje'i 'phreng ba'i dbang bshad/"@bo-x-ewts .
     
     bdr:VL17F866755DB12D11
         a                   :VolumeEtextAsset ;

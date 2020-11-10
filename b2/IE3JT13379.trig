@@ -17,27 +17,43 @@ bdg:IE3JT13379 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13379 ;
         adm:contentProvider  bda:CP010 ;
-        adm:facetIndex      3 ;
         adm:gitPath         "b2/IE3JT13379.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13379 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER7C63FC92276D703A
+    bda:W3JT13379  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13379 ;
+        adm:facetIndex      5 ;
+        adm:replaceWith     bdr:IE3JT13379 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:ER83D27468BF71AEA0
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13379_001_0001 ;
         :seqNum             1 .
     
     bdr:IE3JT13379  a       :EtextInstance ;
+        skos:prefLabel      "spyod 'jug gi tshig 'grel gces btus/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VL65B64B9F5465CE6F ;
+        :hasTitle           bdr:TT65B64B9F5465CE6F , bdr:TT7C63FC92276D703A ;
+        :instanceHasVolume  bdr:VLA5D33F5C2D331975 ;
         :instanceOf         bdr:WA3JT13379 ;
         :isRoot             true .
     
-    bdr:VL65B64B9F5465CE6F
+    bdr:TT65B64B9F5465CE6F
+        a                   :Title ;
+        rdfs:label          "spyod 'jug gi tshig 'grel gces btus/"@bo-x-ewts .
+    
+    bdr:TT7C63FC92276D703A
+        a                   :TitlePageTitle ;
+        rdfs:label          "byang chub sems dpa'i spyod pa la 'jug pa'i tshig 'grel gces btus/"@bo-x-ewts .
+    
+    bdr:VLA5D33F5C2D331975
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER7C63FC92276D703A ;
+        :volumeHasEtext     bdr:ER83D27468BF71AEA0 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13379 .
 }

@@ -17,12 +17,19 @@ bdg:IE3JT13344 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13344 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      31 ;
+        adm:facetIndex      2 ;
         adm:gitPath         "45/IE3JT13344.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13344 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:W3JT13344  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13344 ;
+        adm:facetIndex      31 ;
+        adm:replaceWith     bdr:IE3JT13344 ;
+        adm:status          bda:StatusWithdrawn .
     
     bdr:ER273505F8A8740C77
         a                   :EtextRef ;
@@ -100,10 +107,16 @@ bdg:IE3JT13344 {
         :seqNum             1 .
     
     bdr:IE3JT13344  a       :EtextInstance ;
+        skos:prefLabel      "bka' rnying gi cho ga sna tshogs/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :hasTitle           bdr:TT745292F92A9B6B2C ;
         :instanceHasVolume  bdr:VL03E2E10127986DC1 , bdr:VL1A69733368187616 , bdr:VL1C9FF808F5AC5B97 , bdr:VL2742C81D0BFCF12D , bdr:VL2D0F15327D8C889F , bdr:VL3B28E90C7FBB80DC , bdr:VL745292F92A9B6B2C , bdr:VL7713B7EE0A89BCFA , bdr:VL8C6502A33F88228D , bdr:VLA6AC2E4BC0650BA7 , bdr:VLDD69DC50746D8620 , bdr:VLE0814FB8D1EC3708 , bdr:VLE769B34135E7F5F3 , bdr:VLF8C7B533E2532A3E , bdr:VLF8F54536CB4257B3 ;
         :instanceOf         bdr:WA3JT13344 ;
         :isRoot             true .
+    
+    bdr:TT745292F92A9B6B2C
+        a                   :Title ;
+        rdfs:label          "bka' rnying gi cho ga sna tshogs/"@bo-x-ewts .
     
     bdr:VL03E2E10127986DC1
         a                   :VolumeEtextAsset ;

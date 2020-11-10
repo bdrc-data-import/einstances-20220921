@@ -17,27 +17,43 @@ bdg:IE3JT13323 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13323 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      3 ;
         adm:gitPath         "a6/IE3JT13323.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13323 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER0CA353B803E1BB38
+    bda:W3JT13323  a        adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:W3JT13323 ;
+        adm:facetIndex      5 ;
+        adm:replaceWith     bdr:IE3JT13323 ;
+        adm:status          bda:StatusWithdrawn .
+    
+    bdr:ERBC29376740746397
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13323_001_0001 ;
         :seqNum             1 .
     
     bdr:IE3JT13323  a       :EtextInstance ;
+        skos:prefLabel      "kun dga' tshe dbang gi rnam thar mdor bsdus dang nad sman sprod pa'i nyams yig"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :instanceHasVolume  bdr:VL6E2AC51DE26ACF28 ;
+        :hasTitle           bdr:TT0CA353B803E1BB38 , bdr:TT6E2AC51DE26ACF28 ;
+        :instanceHasVolume  bdr:VL57D0E0347048DF50 ;
         :instanceOf         bdr:WA3JT13323 ;
         :isRoot             true .
     
-    bdr:VL6E2AC51DE26ACF28
+    bdr:TT0CA353B803E1BB38
+        a                   :TitlePageTitle ;
+        rdfs:label          "bla ma kun dga' tshe dbang rin po che'i mdzad rnam mdor bsdus dang nad sman sprod pa'i nyams yig lag len cung zad bcas kyi nyams myong bdud rtsi'i bum bzang /"@bo-x-ewts .
+    
+    bdr:TT6E2AC51DE26ACF28
+        a                   :Title ;
+        rdfs:label          "kun dga' tshe dbang gi rnam thar mdor bsdus dang nad sman sprod pa'i nyams yig"@bo-x-ewts .
+    
+    bdr:VL57D0E0347048DF50
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER0CA353B803E1BB38 ;
+        :volumeHasEtext     bdr:ERBC29376740746397 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13323 .
 }
