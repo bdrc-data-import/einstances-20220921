@@ -81,7 +81,7 @@ bdg:IE3JT13371 {
         :seqNum             6 .
     
     bdr:IE3JT13371  a       :EtextInstance ;
-        skos:prefLabel      "'dul ba me tog me tog phreng rgyud/"@bo-x-ewts ;
+        skos:prefLabel      "'dul ba me tog phreng rgyud/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT1846F78C814A24AF , bdr:TTB1F9ABEB34BD508C ;
         :instanceHasVolume  bdr:VLDDABA62597AD037A ;
@@ -90,7 +90,7 @@ bdg:IE3JT13371 {
     
     bdr:TT1846F78C814A24AF
         a                   :Title ;
-        rdfs:label          "'dul ba me tog me tog phreng rgyud/"@bo-x-ewts .
+        rdfs:label          "'dul ba me tog phreng rgyud/"@bo-x-ewts .
     
     bdr:TTB1F9ABEB34BD508C
         a                   :TitlePageTitle ;
