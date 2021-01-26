@@ -28,6 +28,7 @@ bdg:IE0GR0190 {
         skos:altLabel       "Sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta"@sa-x-iast ;
         skos:prefLabel      "Sabhikasaugatasasanapravrajyavratacaranaparivarta"@en ;
         :hasTitle           bdr:TT513B4CFF78D2A04B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT1B22BF6F7C8A5364 , bdr:NT8E39AAD205DB50E3 .
     

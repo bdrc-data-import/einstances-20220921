@@ -28,6 +28,7 @@ bdg:IE0GR0089 {
         skos:altLabel       "Karuṇāpuṇḍarīka sūtra"@sa-x-iast ;
         skos:prefLabel      "Karunapundarikasutra"@en ;
         :hasTitle           bdr:TTE7EFBAD3730C9EF8 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0111 ;
         :isRoot             true ;
         :note               bdr:NT428022478853B624 , bdr:NT8806203F654A499C .

@@ -28,6 +28,7 @@ bdg:IE0GR0271 {
         skos:altLabel       "Hetubindu"@sa-x-iast ;
         skos:prefLabel      "Dharmakirti: Hetubindu"@en ;
         :hasTitle           bdr:TTD348F90E4A49C6D7 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16852 ;
         :isRoot             true ;
         :note               bdr:NT4D3852871ADC120A , bdr:NTF7F5E60D27F4A61A .

@@ -28,6 +28,7 @@ bdg:IE0GR0208 {
         skos:altLabel       "Sarvatathāgatatattvasaṅgraha sūtra"@sa-x-iast ;
         skos:prefLabel      "Sarvatathagatatattvasamgraha"@en ;
         :hasTitle           bdr:TT25264177A77F5ABF ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA25390 ;
         :isRoot             true ;
         :note               bdr:NT3C14EAD84DA93BF0 , bdr:NT54BE520559A8E6A6 .

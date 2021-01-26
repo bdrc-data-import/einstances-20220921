@@ -28,6 +28,7 @@ bdg:IE0GR0419 {
         skos:altLabel       "Dīgha-Nikāya Sīlakkhandavagga"@sa-x-iast ;
         skos:prefLabel      "Digha-Nikaya 1, annotated version"@en ;
         :hasTitle           bdr:TTCF6FE796D0CFEF6A ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT4B68E228186B4533 , bdr:NTA0ABC34A311849B5 .
     

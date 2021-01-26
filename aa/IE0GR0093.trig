@@ -28,6 +28,7 @@ bdg:IE0GR0093 {
         skos:altLabel       "Kaṭhinavastu"@sa-x-iast ;
         skos:prefLabel      "Kathinavastu of the Vinayavastvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TT8449507EB9CE52B9 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT7A1026B480E7CDC9 , bdr:NTF9C110C9BCC97129 .
     

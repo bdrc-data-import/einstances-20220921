@@ -28,6 +28,7 @@ bdg:IE0GR0384 {
         skos:altLabel       "Tattvaratnāvaloka [Tattvaratnāloka]"@sa-x-iast ;
         skos:prefLabel      "Tattvaratnavaloka"@en ;
         :hasTitle           bdr:TT47DE50447E210FFA ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15271 ;
         :isRoot             true ;
         :note               bdr:NTBA8A1BF03CF5F55F , bdr:NTEDF5BCAC4E02E229 .

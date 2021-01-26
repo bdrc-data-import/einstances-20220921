@@ -28,6 +28,7 @@ bdg:IE0GR0072 {
         skos:altLabel       "Jātakamālā"@sa-x-iast ;
         skos:prefLabel      "Haribhatta: Jatakamala, Jatakas 1-8, 11-12, 19-20, 22, 24, 26, 32, 35."@en ;
         :hasTitle           bdr:TT2DECD3D84DFF5457 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3490 ;
         :isRoot             true ;
         :note               bdr:NT2322BB0A26839DBF , bdr:NT967977B133C39CE1 .

@@ -28,6 +28,7 @@ bdg:IE0GR0226 {
         skos:altLabel       "Suvikrāntavikrāmiparipṛcchā [Sārdhadvisāhasrikā prajñāpāramitā]"@sa-x-iast ;
         skos:prefLabel      "Suvikrantavikramipariprccha"@en ;
         :hasTitle           bdr:TT551B98E4BD59A404 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0014 ;
         :isRoot             true ;
         :note               bdr:NT1C489637F2E4C759 , bdr:NTFB96CACBC7CC716A .

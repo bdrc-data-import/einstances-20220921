@@ -28,6 +28,7 @@ bdg:IE0GR0198 {
         skos:altLabel       "Saṃghāṭa sūtra"@sa-x-iast ;
         skos:prefLabel      "Samghatasutra (alternative version)"@en ;
         :hasTitle           bdr:TTC50FA788B147CE54 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT5DD953477C6150FC , bdr:NTC697F61688B1D5E8 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0225 {
         skos:altLabel       "Suvarṇavarṇāvadāna"@sa-x-iast ;
         skos:prefLabel      "Suvarnavarnavadana"@en ;
         :hasTitle           bdr:TT740E95FAB2612067 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3482 ;
         :isRoot             true ;
         :note               bdr:NTAB15738CE5F5017B , bdr:NTBD0B097413A36CFE .

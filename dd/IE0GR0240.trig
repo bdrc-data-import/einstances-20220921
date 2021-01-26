@@ -28,6 +28,7 @@ bdg:IE0GR0240 {
         skos:altLabel       "Vajracchedikā Prajñāpāramitā Sūtra"@sa-x-iast ;
         skos:prefLabel      "Vajracchedika Prajnaparamita (Gilgit)"@en ;
         :hasTitle           bdr:TT0FEDEAEBC2E8373A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15645 ;
         :isRoot             true ;
         :note               bdr:NT11AF409758AB7C35 , bdr:NT1B879F3B5403929B .

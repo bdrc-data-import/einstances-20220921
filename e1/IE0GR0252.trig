@@ -28,6 +28,7 @@ bdg:IE0GR0252 {
         skos:altLabel       "Abhisamayālaṅkāra"@sa-x-iast ;
         skos:prefLabel      "Abhisamayalamkara"@en ;
         :hasTitle           bdr:TT3EA8AB5DDF9CF8CA ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19716 ;
         :isRoot             true ;
         :note               bdr:NT16A07FC7CBAF521C , bdr:NTB532D43FAE017E21 .

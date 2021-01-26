@@ -28,6 +28,7 @@ bdg:IE0GR0612 {
         skos:altLabel       "Saddatthabhedacintā"@sa-x-iast ;
         skos:prefLabel      "Saddhammasiri Thera: Saddatthabhedacinta"@en ;
         :hasTitle           bdr:TTCEE50AB57329D885 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT973841A160298F8E , bdr:NTF9981EA34059C427 .
     

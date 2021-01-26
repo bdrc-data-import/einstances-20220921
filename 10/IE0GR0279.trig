@@ -28,6 +28,7 @@ bdg:IE0GR0279 {
         skos:altLabel       "Sambandhaparīkṣā"@sa-x-iast ;
         skos:prefLabel      "Dharmakirti: Sambandhapariksa, with Prabhacandra's commentary"@en ;
         :hasTitle           bdr:TTA6C6351AB55ADD8D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA00EGS1017687 ;
         :isRoot             true ;
         :note               bdr:NT268943DB09491311 , bdr:NTE0D8E2D928FC7849 .

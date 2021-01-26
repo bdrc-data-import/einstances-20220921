@@ -28,6 +28,7 @@ bdg:IE0GR0348 {
         skos:altLabel       "Kṣaṇabhaṅgasiddhi Vyatirekātmikā"@sa-x-iast ;
         skos:prefLabel      "Ksanabhangasiddih vyatirekatmika"@en ;
         :hasTitle           bdr:TT2458359E572F656E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT25F6A72F7478EB0B , bdr:NT462A05297D49D991 .
     

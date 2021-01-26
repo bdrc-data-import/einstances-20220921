@@ -28,6 +28,7 @@ bdg:IE0GR0260 {
         skos:altLabel       "Caryāmelāvaṇapradīpa"@sa-x-iast ;
         skos:prefLabel      "Aryadeva: Caryamelavanapradipa"@en ;
         :hasTitle           bdr:TT681DE8670C2B0E3D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15256 ;
         :isRoot             true ;
         :note               bdr:NT24CA857A785223B7 , bdr:NT7C80259D6C85705B .

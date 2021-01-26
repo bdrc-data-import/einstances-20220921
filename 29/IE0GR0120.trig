@@ -28,6 +28,7 @@ bdg:IE0GR0120 {
         skos:altLabel       "Mahāśītavatī vidyārājñī"@sa-x-iast ;
         skos:prefLabel      "Mahasitavati vidyarajni"@en ;
         :hasTitle           bdr:TT4E621071E68B98B5 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT1516 ;
         :isRoot             true ;
         :note               bdr:NT1B430C7524275B9B , bdr:NTC9ACBBBB5263ED01 .

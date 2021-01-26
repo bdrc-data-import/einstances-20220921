@@ -28,6 +28,7 @@ bdg:IE0GR0289 {
         skos:altLabel       "Caryāsaṅgrahapradīpa"@sa-x-iast ;
         skos:prefLabel      "Dipamkara (Dipankara): Caryasamgrahapradipa"@en ;
         :hasTitle           bdr:TTAC7D864203907FF8 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT0C63622F256F7C79 , bdr:NT22FB3C558909F934 .
     

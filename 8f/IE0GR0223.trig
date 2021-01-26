@@ -28,6 +28,7 @@ bdg:IE0GR0223 {
         skos:altLabel       "Sumāgadhāvadana"@sa-x-iast ;
         skos:prefLabel      "Sumagadhavadana"@en ;
         :hasTitle           bdr:TT1852C4DCD8B03110 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3493 ;
         :isRoot             true ;
         :note               bdr:NT5AFB22A6251F7035 , bdr:NT9A57D973353143A2 .

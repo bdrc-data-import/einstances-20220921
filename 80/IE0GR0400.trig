@@ -28,6 +28,7 @@ bdg:IE0GR0400 {
         skos:altLabel       "Viṃśatikākārikā [Viṃśikāvṛtti]"@sa-x-iast ;
         skos:prefLabel      "Vimsatikakarika"@en ;
         :hasTitle           bdr:TT9688FA6BF71C931A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3396 ;
         :isRoot             true ;
         :note               bdr:NT6A528F2C015E142B , bdr:NTFC09D53F204E06A7 .

@@ -28,6 +28,7 @@ bdg:IE0GR0153 {
         skos:altLabel       "Pañcaviṃśatisāhasrikā Prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Pancavimsatisahasrika Prajnaparamita"@en ;
         :hasTitle           bdr:TT748BB0CD13DA3BD1 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15641 ;
         :isRoot             true ;
         :note               bdr:NT463D2E01E17172FD , bdr:NT474123892F32A599 .

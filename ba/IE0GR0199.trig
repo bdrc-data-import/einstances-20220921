@@ -28,6 +28,7 @@ bdg:IE0GR0199 {
         skos:altLabel       "Samyaksambuddhabhāṣitaṃ pratimālakṣaṇam"@sa-x-iast ;
         skos:prefLabel      "Samyaksambuddhabhasitam Pratimalaksanam"@en ;
         :hasTitle           bdr:TT095FA8C1492794BE ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT0AD1B47C1BBE2CA5 , bdr:NT38F78031E1383F96 .
     

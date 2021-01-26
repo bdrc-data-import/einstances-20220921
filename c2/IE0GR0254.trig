@@ -28,6 +28,7 @@ bdg:IE0GR0254 {
         skos:altLabel       "Abhisamayālaṅkāravṛttiḥ sphuṭārthā"@sa-x-iast ;
         skos:prefLabel      "Abhisamayalankaravrttih sphutartha"@en ;
         :hasTitle           bdr:TT319145204070DD0D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3138 ;
         :isRoot             true ;
         :note               bdr:NT0E669063A25E5050 , bdr:NTEF82080A7326FC2C .

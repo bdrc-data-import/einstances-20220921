@@ -28,6 +28,7 @@ bdg:IE0GR0184 {
         skos:altLabel       "Ratnaguṇasaṃcayagāthā"@sa-x-iast ;
         skos:prefLabel      "Ratnagunasamcayagatha"@en ;
         :hasTitle           bdr:TTE24DB483023C2DEF ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3137 ;
         :isRoot             true ;
         :note               bdr:NT546C1CD52C630460 , bdr:NTC1D18B354568961E .

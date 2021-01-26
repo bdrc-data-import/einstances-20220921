@@ -28,6 +28,7 @@ bdg:IE0GR0070 {
         skos:altLabel       "Vinaya sūtra"@sa-x-iast ;
         skos:prefLabel      "Vinayasutra"@en ;
         :hasTitle           bdr:TT3BC72E0D108F2A7B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT039B9D5A0FC4535A , bdr:NTACA52ED4239952E7 .
     

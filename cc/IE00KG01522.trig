@@ -17,15 +17,28 @@ bdg:IE00KG01522 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE00KG01522 ;
         adm:contentProvider  bda:CP009 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "cc/IE00KG01522.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE00KG01522 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
+    bdr:ER6F078AE7BDE64049
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT00KG01522_5823_0000 ;
+        :seqNum             1 .
+    
     bdr:IE00KG01522  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :instanceHasVolume  bdr:VL155CBCE56B127FF1 ;
         :instanceOf         bdr:WA00KG01522 ;
         :instanceReproductionOf  bdr:MW00KG01522 , bdr:W00KG01522 ;
         :isRoot             true .
+    
+    bdr:VL155CBCE56B127FF1
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER6F078AE7BDE64049 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE00KG01522 .
 }

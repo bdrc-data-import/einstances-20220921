@@ -28,6 +28,7 @@ bdg:IE0GR0027 {
         skos:altLabel       "Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ"@sa-x-iast ;
         skos:prefLabel      "Asanga: Trisatikayah prajnaparamitayah karikasaptatih"@en ;
         :hasTitle           bdr:TT957CE7508946874D ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT7085D8A1D53710E1 , bdr:NTD1AFA5ECBAD5F18D .
     

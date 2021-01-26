@@ -28,6 +28,7 @@ bdg:IE0GR0113 {
         skos:altLabel       "Mahāpratisarāvidyādhāraṇī"@sa-x-iast ;
         skos:prefLabel      "Mahapratisaravidyadharani"@en ;
         :hasTitle           bdr:TT08FAC30E2AF0B19E ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT1945 ;
         :isRoot             true ;
         :note               bdr:NT206398884751116C , bdr:NT7736BA9101F7A193 .

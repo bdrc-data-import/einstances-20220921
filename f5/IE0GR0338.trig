@@ -28,6 +28,7 @@ bdg:IE0GR0338 {
         skos:altLabel       "Yuktiṣaṣṭikārikā [Yuktiṣaṣṭikakārikā]"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Yuktisastikarika"@en ;
         :hasTitle           bdr:TT7DFCBAED2BE883E0 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA10MS11428 ;
         :isRoot             true ;
         :note               bdr:NT50C0E5D72BC33629 , bdr:NTBC47E26E5A5CE0F8 .

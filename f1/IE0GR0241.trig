@@ -28,6 +28,7 @@ bdg:IE0GR0241 {
         skos:altLabel       "Vajravidāraṇā Dhāraṇī"@sa-x-iast ;
         skos:prefLabel      "Vajravidarana-Dharani"@en ;
         :hasTitle           bdr:TT4EA577F466FD6BB9 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15490 ;
         :isRoot             true ;
         :note               bdr:NT6076A0F3E84B59B6 , bdr:NT9B84E5A35E71E0F7 .

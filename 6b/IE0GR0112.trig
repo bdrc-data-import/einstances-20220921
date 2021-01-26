@@ -28,6 +28,7 @@ bdg:IE0GR0112 {
         skos:altLabel       "Mahāparinirvāṇa sūtra"@sa-x-iast ;
         skos:prefLabel      "Mahaparinirvanasutra"@en ;
         :hasTitle           bdr:TTEFF01A2DF433B372 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0119 ;
         :isRoot             true ;
         :note               bdr:NT7DE33C10B0295327 , bdr:NTBD440B2CB636C52D .

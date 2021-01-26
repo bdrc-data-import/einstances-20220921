@@ -28,6 +28,7 @@ bdg:IE0GR0309 {
         skos:altLabel       "Mahāyānasūtrālaṃkāra"@sa-x-iast ;
         skos:prefLabel      "Mahayanasutralamkara"@en ;
         :hasTitle           bdr:TT7DF5CC586CB331A6 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22208 ;
         :isRoot             true ;
         :note               bdr:NT105DE8DB75F445ED , bdr:NTB8CAE525CE10A217 .

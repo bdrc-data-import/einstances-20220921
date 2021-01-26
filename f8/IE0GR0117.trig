@@ -28,6 +28,7 @@ bdg:IE0GR0117 {
         skos:altLabel       "Mahāsāhasrapramardanī"@sa-x-iast ;
         skos:prefLabel      "Mahasahasrapramardani"@en ;
         :hasTitle           bdr:TTA4442C8EA048FE52 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA25470 ;
         :isRoot             true ;
         :note               bdr:NT3087F275789C8111 , bdr:NT6FC477851CA25B33 .

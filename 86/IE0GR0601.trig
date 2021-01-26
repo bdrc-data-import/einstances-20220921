@@ -28,6 +28,7 @@ bdg:IE0GR0601 {
         skos:altLabel       "Kaccāyanadhātumañjūsā"@sa-x-iast ;
         skos:prefLabel      "Kaccayanadhatumanjusa"@en ;
         :hasTitle           bdr:TTC4FB8429B9C6824A ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT3EF7E8B1516D4418 , bdr:NT4327422185AA9510 .
     

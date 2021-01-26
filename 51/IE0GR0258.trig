@@ -28,6 +28,7 @@ bdg:IE0GR0258 {
         skos:altLabel       "Hetubinduṭīkā"@sa-x-iast ;
         skos:prefLabel      "Arcata: Hetubindutika"@en ;
         :hasTitle           bdr:TT994480AA4995992F ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3570 ;
         :isRoot             true ;
         :note               bdr:NTAAE9499E23D576DB , bdr:NTE3DCBB8726DDCF2F .

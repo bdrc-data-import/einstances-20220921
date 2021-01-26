@@ -28,6 +28,7 @@ bdg:IE0GR0290 {
         skos:altLabel       "Cittotpādasaṃvaravidhikrama"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Cittotpadasamvaravidhikrama"@en ;
         :hasTitle           bdr:TTB050942B4FBBC1F6 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3310 ;
         :isRoot             true ;
         :note               bdr:NT13D6ABB9BDB33BED , bdr:NT991AB1014428FBA2 .

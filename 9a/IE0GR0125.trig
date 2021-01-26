@@ -28,6 +28,7 @@ bdg:IE0GR0125 {
         skos:altLabel       "Abhisamayālaṅkāranāmaprajñāpāramitopadeśaśāstra"@sa-x-iast ;
         skos:prefLabel      "Maitreyanatha: Abhisamayalamkaranamaprajnaparamitopadesasastram"@en ;
         :hasTitle           bdr:TT2939A4393928C02C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19716 ;
         :isRoot             true ;
         :note               bdr:NT537CA701E7A3A009 , bdr:NT603EB8597EAEE3A5 .

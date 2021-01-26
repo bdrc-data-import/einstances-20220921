@@ -28,6 +28,7 @@ bdg:IE0GR0388 {
         skos:altLabel       "Abhidharmakośakārikā"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Abhidharmakosa (Karikas)"@en ;
         :hasTitle           bdr:TT4C8B639A74DA052C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19720 ;
         :isRoot             true ;
         :note               bdr:NT609EBAD8A3D465A5 , bdr:NTF25A3BFBA36EA530 .

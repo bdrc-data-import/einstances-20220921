@@ -28,6 +28,7 @@ bdg:IE0GR0267 {
         skos:altLabel       "Bhikṣukarmavākya"@sa-x-iast ;
         skos:prefLabel      "Bhiksukarmavakya"@en ;
         :hasTitle           bdr:TT050B101414B9D753 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT5C23308CC147C9F3 , bdr:NTA40112F405626449 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0200 {
         skos:altLabel       "Saṃyuktāgama"@sa-x-iast ;
         skos:prefLabel      "Samyuktagama (966-972 according to the Chinese canon)"@en ;
         :hasTitle           bdr:TTED8C7FB72F67C569 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT65920580B444B3A7 , bdr:NT72B59534CFEFCC9E .
     

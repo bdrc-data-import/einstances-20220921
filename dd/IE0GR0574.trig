@@ -28,6 +28,7 @@ bdg:IE0GR0574 {
         skos:altLabel       "Mahāvaṃsa"@sa-x-iast ;
         skos:prefLabel      "Mahavamsa"@en ;
         :hasTitle           bdr:TTE5D5C3F912D9CA2E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT2EF7D5B16FA90D90 , bdr:NTA099CB9320834F00 .
     

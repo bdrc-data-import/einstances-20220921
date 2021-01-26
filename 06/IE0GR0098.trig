@@ -28,6 +28,7 @@ bdg:IE0GR0098 {
         skos:altLabel       "Garbhāvakrāntyavadāna"@sa-x-iast ;
         skos:prefLabel      "Ksemendra: Garbhavakrantyavadana"@en ;
         :hasTitle           bdr:TTB7EC6808E8A1FAFC ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3493 ;
         :isRoot             true ;
         :note               bdr:NTA2A2C80384F199B8 , bdr:NTF3DF9A1B4A37410C .

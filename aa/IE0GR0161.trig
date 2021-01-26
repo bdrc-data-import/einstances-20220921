@@ -28,6 +28,7 @@ bdg:IE0GR0161 {
         skos:altLabel       "Pāṇḍulohitakavastu"@sa-x-iast ;
         skos:prefLabel      "Pandulohitakavastu"@en ;
         :hasTitle           bdr:TT50569AD756844970 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT4606DB403BA49F1E , bdr:NTDDE475E78EB3EA56 .
     

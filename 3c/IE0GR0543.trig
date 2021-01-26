@@ -28,6 +28,7 @@ bdg:IE0GR0543 {
         skos:altLabel       "Puggalapaññatti of the Abhidamma Piṭaka"@sa-x-iast ;
         skos:prefLabel      "Puggalapannatti of the Abhidhamma Pitaka, annotated version"@en ;
         :hasTitle           bdr:TTAAF7664C099A2ADA ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT6B8DF7CC38D9BABA , bdr:NTFFD1DEF3FD6C850E .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0266 {
         skos:altLabel       "Vajrasūcī"@sa-x-iast ;
         skos:prefLabel      "Asvaghosa (attrib.): Vajrasuci"@en ;
         :hasTitle           bdr:TTBB0FBA7C07865CE4 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT6F9EF205DB1DDB28 , bdr:NT7CB4FC23706B1511 .
     

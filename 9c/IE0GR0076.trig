@@ -28,6 +28,7 @@ bdg:IE0GR0076 {
         skos:altLabel       "Sphuṭārthā Śrīghanācārasaṃgrahaṭīkā"@sa-x-iast ;
         skos:prefLabel      "Jayaraksita: Sphutartha Srighanacarasamgrahatika"@en ;
         :hasTitle           bdr:TT6A7975292861AD3F ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT2E5B321A3658915F , bdr:NT437F0CD731717A8F .
     

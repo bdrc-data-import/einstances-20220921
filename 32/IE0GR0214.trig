@@ -28,6 +28,7 @@ bdg:IE0GR0214 {
         skos:altLabel       "Śayanāsanavastu"@sa-x-iast ;
         skos:prefLabel      "Vinayavastu, 15: Sayanasanavastu"@en ;
         :hasTitle           bdr:TT19D90F5A17E4BA4E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTC8C6D45979CBCF0E , bdr:NTCD3BF5D49BE3A28E .
     

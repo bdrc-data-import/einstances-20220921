@@ -28,6 +28,7 @@ bdg:IE0GR0257 {
         skos:altLabel       "Antarvyāptisamarthana"@sa-x-iast ;
         skos:prefLabel      "Antarvyaptisamarthana"@en ;
         :hasTitle           bdr:TTA69771C8D5D70732 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT5AB849F1DA6A9D1A , bdr:NT6EE00C02D3189EE7 .
     

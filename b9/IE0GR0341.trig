@@ -28,6 +28,7 @@ bdg:IE0GR0341 {
         skos:altLabel       "Sāmānyadūṣaṇadikprasāritā"@sa-x-iast ;
         skos:prefLabel      "Panditasoka: Samanyadusanadikprasarita"@en ;
         :hasTitle           bdr:TT1141D870E1425AB2 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT29E3349EB741E3F7 , bdr:NT8E827C5F34497932 .
     

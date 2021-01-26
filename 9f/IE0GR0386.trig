@@ -28,6 +28,7 @@ bdg:IE0GR0386 {
         skos:altLabel       "Śatagāthā"@sa-x-iast ;
         skos:prefLabel      "Vararuci: Satagatha"@en ;
         :hasTitle           bdr:TT75AA36D9AA0C9754 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3666 ;
         :isRoot             true ;
         :note               bdr:NT96EA3E66FFA9CCD4 , bdr:NTAB95E90FE4EB9D12 .

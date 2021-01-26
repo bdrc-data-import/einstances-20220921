@@ -28,6 +28,7 @@ bdg:IE0GR0270 {
         skos:altLabel       "Prasannapadā"@sa-x-iast ;
         skos:prefLabel      "Candrakirti: Prasannapada"@en ;
         :hasTitle           bdr:TT09697551D5340047 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3205 ;
         :isRoot             true ;
         :note               bdr:NT2AB43131BE9566C4 , bdr:NT731DF5086A7ED5B3 .

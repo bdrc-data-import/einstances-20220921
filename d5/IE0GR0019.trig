@@ -28,6 +28,7 @@ bdg:IE0GR0019 {
         skos:altLabel       "Āryacaturdharmanirdeśa sūtra"@sa-x-iast ;
         skos:prefLabel      "Aryacaturdharmanirdesasutra"@en ;
         :hasTitle           bdr:TT34F3BC7293972E57 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0249 ;
         :isRoot             true ;
         :note               bdr:NT19180DE61C13E748 , bdr:NT70EC78F3015768B9 .

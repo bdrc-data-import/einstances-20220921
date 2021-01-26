@@ -28,6 +28,7 @@ bdg:IE0GR0175 {
         skos:altLabel       "Pratītyasamutpādādivibhaṅganirdeśa sūtra"@sa-x-iast ;
         skos:prefLabel      "Pratityasamutpadadivibhanganirdesasutra"@en ;
         :hasTitle           bdr:TT2D8B09D7D1BBBCF1 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16783 ;
         :isRoot             true ;
         :note               bdr:NT0102713559C2F7E5 , bdr:NT662E4218D987ABFF .

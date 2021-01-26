@@ -28,6 +28,7 @@ bdg:IE0GR0269 {
         skos:altLabel       "Bodhisattvabhūmi"@sa-x-iast ;
         skos:prefLabel      "Bodhisattvabhumi"@en ;
         :hasTitle           bdr:TTACBD3CFD5CC44BD2 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16808 ;
         :isRoot             true ;
         :note               bdr:NTAEA4535C68FDFC00 , bdr:NTBDEB6DC86C05DC78 .

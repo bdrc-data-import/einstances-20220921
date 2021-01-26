@@ -28,6 +28,7 @@ bdg:IE0GR0155 {
         skos:altLabel       "Pañcaviṃśatisāhasrikā Prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Pañcaviṃśatisāhasrikā Prajñāpāramitā I"@en ;
         :hasTitle           bdr:TT5143AF4657F9FF6B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15641 ;
         :isRoot             true ;
         :note               bdr:NT94F91D2E53CABC9F , bdr:NT977C5E227D8DC851 .

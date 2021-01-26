@@ -28,6 +28,7 @@ bdg:IE0GR0227 {
         skos:altLabel       "Svalpākṣarā prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Svalpaksara prajnaparamita"@en ;
         :hasTitle           bdr:TT4D5F884DB82C706F ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0022 ;
         :isRoot             true ;
         :note               bdr:NT31B84DC830FC2C5E , bdr:NT9445ECA9FF177176 .

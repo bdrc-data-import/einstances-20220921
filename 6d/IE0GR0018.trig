@@ -28,6 +28,7 @@ bdg:IE0GR0018 {
         skos:altLabel       "Arthaviniścaya sūtra"@sa-x-iast ;
         skos:prefLabel      "Arthaviniscayasutra"@en ;
         :hasTitle           bdr:TT2425A9608BCD66AB ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0317 ;
         :isRoot             true ;
         :note               bdr:NTE4EB1C87DF1FEEF3 , bdr:NTE7726B72DB463937 .

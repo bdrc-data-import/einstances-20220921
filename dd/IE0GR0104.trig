@@ -28,6 +28,7 @@ bdg:IE0GR0104 {
         skos:altLabel       "Lalitavistara"@sa-x-iast ;
         skos:prefLabel      "Lalitavistara"@en ;
         :hasTitle           bdr:TT9C7EC98C5C89F403 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0095 ;
         :isRoot             true ;
         :note               bdr:NT171905E638BF50A5 , bdr:NT41DE212CAD3E1F30 .

@@ -28,6 +28,7 @@ bdg:IE0GR0342 {
         skos:altLabel       "Bodhicaryāvatārapañjika"@sa-x-iast ;
         skos:prefLabel      "Prajnakaramati: Bodhicaryavatarapanjika"@en ;
         :hasTitle           bdr:TT1946A37E832AE03B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3217 ;
         :isRoot             true ;
         :note               bdr:NT19D1D2A8827148CF , bdr:NT3B368F454EAF2A5B .

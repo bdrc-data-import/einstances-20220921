@@ -28,6 +28,7 @@ bdg:IE0GR0050 {
         skos:altLabel       "Daśabhūmika sūtra"@sa-x-iast ;
         skos:prefLabel      "Dasabhumikasutram"@en ;
         :hasTitle           bdr:TT60418007DDE9FA6F ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16779 ;
         :isRoot             true ;
         :note               bdr:NT2E080EB7AA3DEF30 , bdr:NTD0FAA2BF497AF9EC .

@@ -28,6 +28,7 @@ bdg:IE0GR0407 {
         skos:altLabel       "Vinayapiṭaka Suttavibhaṅga"@sa-x-iast ;
         skos:prefLabel      "Vinaya-Pitaka, Suttavibhanga 2, PTS layout, with notes"@en ;
         :hasTitle           bdr:TT558D85168199F0C9 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT28597897E6CD10FB , bdr:NTE1FC85548AC7D58E .
     

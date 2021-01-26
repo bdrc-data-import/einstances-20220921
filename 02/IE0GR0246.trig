@@ -28,6 +28,7 @@ bdg:IE0GR0246 {
         skos:altLabel       "Vasudhārā dhāraṇī"@sa-x-iast ;
         skos:prefLabel      "Vasudharadharani"@en ;
         :hasTitle           bdr:TTDCCD4411AAA73C00 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0656 ;
         :isRoot             true ;
         :note               bdr:NT83068E4B3587E4EA , bdr:NTBED42EA258948B44 .

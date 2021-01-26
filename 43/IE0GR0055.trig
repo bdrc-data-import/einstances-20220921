@@ -28,6 +28,7 @@ bdg:IE0GR0055 {
         skos:altLabel       "Dharmaskandha"@sa-x-iast ;
         skos:prefLabel      "Dharmaskandha"@en ;
         :hasTitle           bdr:TTA971384BAEF7422B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0245 ;
         :isRoot             true ;
         :note               bdr:NT6042001ABBCC6914 , bdr:NTA1F4C2D5CC71DF01 .

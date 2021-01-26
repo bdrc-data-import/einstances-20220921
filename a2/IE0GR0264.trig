@@ -28,6 +28,7 @@ bdg:IE0GR0264 {
         skos:altLabel       "Abhidharmasamuccaya"@sa-x-iast ;
         skos:prefLabel      "Asanga: Abhidharmasamuccaya"@en ;
         :hasTitle           bdr:TT33482E15CE91DA1D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA23639 ;
         :isRoot             true ;
         :note               bdr:NTB77D6BB0CD43531D , bdr:NTE2039DA10DB2B6C9 .

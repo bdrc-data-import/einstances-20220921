@@ -28,6 +28,7 @@ bdg:IE0GR0322 {
         skos:altLabel       "Pañcakrama"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Pancakrama"@en ;
         :hasTitle           bdr:TT9F84098C6D632671 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15249 ;
         :isRoot             true ;
         :note               bdr:NT6C90D8541D4D0777 , bdr:NTADDC0734EA411977 .

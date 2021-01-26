@@ -28,6 +28,7 @@ bdg:IE0GR0340 {
         skos:altLabel       "Avayavinirākaraṇa"@sa-x-iast ;
         skos:prefLabel      "Panditasoka: Avayavinirakarana"@en ;
         :hasTitle           bdr:TTA4D0624E93CB7B4C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA7729EF22D876013 , bdr:NTCCCDC7401715DE1F .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0145 {
         skos:altLabel       "Citralakṣaṇa"@sa-x-iast ;
         skos:prefLabel      "Nagnajit: Citralaksana, Plain text version"@en ;
         :hasTitle           bdr:TT8BA9AC80A9489B22 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3926 ;
         :isRoot             true ;
         :note               bdr:NT86C58DBC6916390E , bdr:NTD6064CEE7241EF7E .

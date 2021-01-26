@@ -28,6 +28,7 @@ bdg:IE0GR0390 {
         skos:altLabel       "Madhyāntavibhāgabhāṣya [Madhyāntavibhāgakārikābhāṣya]"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Madhyantavibhagakarikabhasya"@en ;
         :hasTitle           bdr:TT5D859831A916227E ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3366 ;
         :isRoot             true ;
         :note               bdr:NT0A1E0CA97B4C0A4E , bdr:NT16A57416C8D0F41B .

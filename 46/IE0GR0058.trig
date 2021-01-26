@@ -28,6 +28,7 @@ bdg:IE0GR0058 {
         skos:altLabel       "Guhyasamājamaṇḍalavidhi"@sa-x-iast ;
         skos:prefLabel      "Dipamkarabhadra: Guhyasamajamandalavidhi"@en ;
         :hasTitle           bdr:TT9C4A6B7DDCCDD718 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15269 ;
         :isRoot             true ;
         :note               bdr:NTA16FD45BC4062BA4 , bdr:NTDAD2C8A7639BEF74 .

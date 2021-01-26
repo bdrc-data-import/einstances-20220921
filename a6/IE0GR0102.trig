@@ -28,6 +28,7 @@ bdg:IE0GR0102 {
         skos:altLabel       "Narmamālā"@sa-x-iast ;
         skos:prefLabel      "Ksemendra: Narmamala"@en ;
         :hasTitle           bdr:TTCFC4674F751DDFC9 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3493 ;
         :isRoot             true ;
         :note               bdr:NT8EA7DA504565FFC3 , bdr:NTBF8A1040F13097A9 .

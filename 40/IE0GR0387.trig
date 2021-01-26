@@ -28,6 +28,7 @@ bdg:IE0GR0387 {
         skos:altLabel       "Abhidharmakośabhāṣya"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Abhidharmakosabhasya"@en ;
         :hasTitle           bdr:TTD3A25B9A48087D7A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3428 ;
         :isRoot             true ;
         :note               bdr:NT73B3F9114AFA8B39 , bdr:NTA695A9C50C67DD58 .

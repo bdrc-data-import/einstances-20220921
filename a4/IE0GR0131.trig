@@ -28,6 +28,7 @@ bdg:IE0GR0131 {
         skos:altLabel       "Mañjuśrīnāmasaṃgīti"@sa-x-iast ;
         skos:prefLabel      "Manjusrinamasamgiti"@en ;
         :hasTitle           bdr:TTC0DD8A103751669A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22003 ;
         :isRoot             true ;
         :note               bdr:NT23646CC182EBE9BC , bdr:NT5159D96967F9F87B .

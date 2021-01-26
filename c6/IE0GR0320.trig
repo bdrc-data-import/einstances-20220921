@@ -28,6 +28,7 @@ bdg:IE0GR0320 {
         skos:altLabel       "Mahāyānaviṃśikā [Mahāyānaviṃśati]"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Mahayanavimsika"@en ;
         :hasTitle           bdr:TTEF84930D3713B266 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT1092 ;
         :isRoot             true ;
         :note               bdr:NT54D88A9C7EE1FC85 , bdr:NT8F922F0D61E61B22 .

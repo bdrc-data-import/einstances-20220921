@@ -28,6 +28,7 @@ bdg:IE0GR0165 {
         skos:altLabel       "Prajñāpāramitāhṛdaya sūtra"@sa-x-iast ;
         skos:prefLabel      "Prajnaparamitahrdayasutra"@en ;
         :hasTitle           bdr:TT5DC153489299A142 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22339 ;
         :isRoot             true ;
         :note               bdr:NT387D18BA38EB2FA3 , bdr:NTB31DFE17366C16BA .

@@ -28,6 +28,7 @@ bdg:IE0GR0191 {
         skos:altLabel       "Saddharmalaṅkāvatāra sūtra [Laṅkāvatāra sūtra]"@sa-x-iast ;
         skos:prefLabel      "Saddharmalankavatarasutra"@en ;
         :hasTitle           bdr:TTF671666BFDD8A413 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16801 ;
         :isRoot             true ;
         :note               bdr:NT21B2AD30D12BAA1B , bdr:NT68534895B1781567 .

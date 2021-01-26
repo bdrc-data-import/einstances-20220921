@@ -28,6 +28,7 @@ bdg:IE0GR0081 {
         skos:altLabel       "Kalpadrumāvadānamālā"@sa-x-iast ;
         skos:prefLabel      "Kalpadrumavadanamala"@en ;
         :hasTitle           bdr:TT4B2A1FD7292F2D0B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT12DE272A0BFE31F0 , bdr:NTAB20B2A23613F7B1 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0099 {
         skos:altLabel       "Sudhanakinnaryavadāna"@sa-x-iast ;
         skos:prefLabel      "Sudhanakinnaryavadana"@en ;
         :hasTitle           bdr:TT4C189DA0D2315A1E ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3493 ;
         :isRoot             true ;
         :note               bdr:NT7DDCA6262BEEA1CD , bdr:NTA4C51EE102B688C0 .

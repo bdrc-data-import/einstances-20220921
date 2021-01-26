@@ -28,6 +28,7 @@ bdg:IE0GR0097 {
         skos:altLabel       "Bodhisattvāvadānakalpalatā"@sa-x-iast ;
         skos:prefLabel      "Ksemendra: Avadanakalpalata"@en ;
         :hasTitle           bdr:TT4D9BA04792B62B74 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3493 ;
         :isRoot             true ;
         :note               bdr:NT472265DA1BAA76DC , bdr:NTE3582623C658F9AF .

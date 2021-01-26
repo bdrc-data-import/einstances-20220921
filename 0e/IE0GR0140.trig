@@ -28,6 +28,7 @@ bdg:IE0GR0140 {
         skos:altLabel       "Mṛtyuvañcanasitatārāsādhana"@sa-x-iast ;
         skos:prefLabel      "Mrtyuvancanasitatarasadhana"@en ;
         :hasTitle           bdr:TT53D201E121A6C35B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT2317 ;
         :isRoot             true ;
         :note               bdr:NT2C9AB158E3B249A0 , bdr:NT9287AF5CAB86927A .

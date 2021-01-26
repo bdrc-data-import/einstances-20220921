@@ -28,6 +28,7 @@ bdg:IE0GR0250 {
         skos:altLabel       "Viśvantarāvadāna"@sa-x-iast ;
         skos:prefLabel      "Visvantaravadana"@en ;
         :hasTitle           bdr:TT1FEE6BEEAFAF0F80 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT145DD88B3A62D6BB , bdr:NTAAB414452C3BB435 .
     

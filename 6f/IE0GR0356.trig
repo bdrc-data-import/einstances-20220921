@@ -28,6 +28,7 @@ bdg:IE0GR0356 {
         skos:altLabel       "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]"@sa-x-iast ;
         skos:prefLabel      "Santideva: Bodhicaryavatara"@en ;
         :hasTitle           bdr:TT6196A2450F13A618 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19740 ;
         :isRoot             true ;
         :note               bdr:NT88EEAA62F7E55964 , bdr:NTE1C3563F17FC72CE .

@@ -28,6 +28,7 @@ bdg:IE0GR0596 {
         skos:altLabel       "Jinacarita"@sa-x-iast ;
         skos:prefLabel      "Jinacarita"@en ;
         :hasTitle           bdr:TTCD3F8B71B39F2B51 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT67697F89B1AFE982 , bdr:NTEFF4108B40485187 .
     

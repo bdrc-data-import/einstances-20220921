@@ -28,6 +28,7 @@ bdg:IE0GR0039 {
         skos:altLabel       "Bhikṣuṇī Vinaya"@sa-x-iast ;
         skos:prefLabel      "Bhiksunivinaya"@en ;
         :hasTitle           bdr:TT1CFA49CA560D10F8 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0005 ;
         :isRoot             true ;
         :note               bdr:NT666CA1F5F746D30A , bdr:NT6A24BC2307DDD53D .

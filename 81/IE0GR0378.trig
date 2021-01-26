@@ -28,6 +28,7 @@ bdg:IE0GR0378 {
         skos:altLabel       "Śikṣāsamuccayakārikā"@sa-x-iast ;
         skos:prefLabel      "Siksasamuccayakarika"@en ;
         :hasTitle           bdr:TT07AE3D16236BF9D8 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3280 ;
         :isRoot             true ;
         :note               bdr:NT458955C2CD723516 , bdr:NTC15EC4E8FE0866B8 .

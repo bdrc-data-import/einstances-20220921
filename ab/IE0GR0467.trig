@@ -28,6 +28,7 @@ bdg:IE0GR0467 {
         skos:altLabel       "Khuddakapāṭha"@sa-x-iast ;
         skos:prefLabel      "Khuddakapatha, annotated version"@en ;
         :hasTitle           bdr:TTC389BA678FFF30BE ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA882578226D0F9A6 , bdr:NTF0D7AFBE1BB5955B .
     

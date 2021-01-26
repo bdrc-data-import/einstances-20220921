@@ -28,6 +28,7 @@ bdg:IE0GR0577 {
         skos:altLabel       "Samantapāsādikā, Buddhaghosa's Commentary on the Vinaya Piṭaka"@sa-x-iast ;
         skos:prefLabel      "Samantapasadika, Buddhaghosa's Commentary on the Vinaya Pitaka, Vol. I, annotated version"@en ;
         :hasTitle           bdr:TTFB70A5B1D985241F ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT810AA03BD440D1C4 , bdr:NTDC6131A3DC5FA3C5 .
     

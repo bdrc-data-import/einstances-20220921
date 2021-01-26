@@ -28,6 +28,7 @@ bdg:IE0GR0474 {
         skos:altLabel       "Udāna"@sa-x-iast ;
         skos:prefLabel      "Udana, PTS layout"@en ;
         :hasTitle           bdr:TT96E9C996364289AC ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT486768B4A4945FE0 , bdr:NTA0E48CBD37303006 .
     

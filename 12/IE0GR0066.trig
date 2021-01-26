@@ -28,6 +28,7 @@ bdg:IE0GR0066 {
         skos:altLabel       "Gaṇḍavyūha sūtra"@sa-x-iast ;
         skos:prefLabel      "Gandavyuhasutra"@en ;
         :hasTitle           bdr:TTC94047FA15832F76 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0110 ;
         :isRoot             true ;
         :note               bdr:NT6548CDDE0BF65469 , bdr:NTB2D71DB8683AACF9 .

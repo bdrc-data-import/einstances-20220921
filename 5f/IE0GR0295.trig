@@ -28,6 +28,7 @@ bdg:IE0GR0295 {
         skos:altLabel       "Śaraṇagamanadeśanā"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Saranagamanadesana"@en ;
         :hasTitle           bdr:TT3AD4B49522598F1C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3294 ;
         :isRoot             true ;
         :note               bdr:NT0FBDAA1DCD2A1F7E , bdr:NT837BBA605A02C585 .

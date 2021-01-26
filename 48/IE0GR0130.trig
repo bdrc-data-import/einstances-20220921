@@ -28,6 +28,7 @@ bdg:IE0GR0130 {
         skos:altLabel       "Mañjuśrīmūlakalpa"@sa-x-iast ;
         skos:prefLabel      "Manjusrimulakalpa"@en ;
         :hasTitle           bdr:TT97839B49C2E2893A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA25455 ;
         :isRoot             true ;
         :note               bdr:NT4C522D4B393F9E9A , bdr:NT59C2D598F52F2CA1 .

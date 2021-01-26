@@ -28,6 +28,7 @@ bdg:IE0GR0170 {
         skos:altLabel       "Prātimokṣa sūtra"@sa-x-iast ;
         skos:prefLabel      "Pratimoksasutram of the Lokottaravadimahasanghika"@en ;
         :hasTitle           bdr:TTF33CE3F4306D063A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16817 ;
         :isRoot             true ;
         :note               bdr:NT27EC663D8EFFC90C , bdr:NTFB339B856152F2EB .

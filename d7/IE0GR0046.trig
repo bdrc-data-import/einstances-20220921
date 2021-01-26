@@ -28,6 +28,7 @@ bdg:IE0GR0046 {
         skos:altLabel       "Śiṣyalekha"@sa-x-iast ;
         skos:prefLabel      "Candragomin: Sisyalekha"@en ;
         :hasTitle           bdr:TT8CEFB0BE2E67EC76 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16844 ;
         :isRoot             true ;
         :note               bdr:NT3678FCD87D357F0C , bdr:NTE8669039F46CEA11 .

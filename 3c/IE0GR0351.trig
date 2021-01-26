@@ -28,6 +28,7 @@ bdg:IE0GR0351 {
         skos:altLabel       "Pramāṇavārttikaṭīkā"@sa-x-iast ;
         skos:prefLabel      "Sakyabuddhi: Pramanavarttikatika"@en ;
         :hasTitle           bdr:TTAECA44D92B87F8F5 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19721 ;
         :isRoot             true ;
         :note               bdr:NT321875DF062E75CA , bdr:NT406973E895F61D49 .

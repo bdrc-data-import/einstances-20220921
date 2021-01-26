@@ -28,6 +28,7 @@ bdg:IE0GR0028 {
         skos:altLabel       "Śarīrārthagāthā"@sa-x-iast ;
         skos:prefLabel      "Asanga: Sarirarthagatha of the Cintamayibhumi"@en ;
         :hasTitle           bdr:TT8F13331FA24A1985 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA15BE9CD8966B5BF , bdr:NTB59D2F72C8E970E5 .
     

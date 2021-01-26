@@ -28,6 +28,7 @@ bdg:IE0GR0383 {
         skos:altLabel       "Tarkaśāstra"@sa-x-iast ;
         skos:prefLabel      "Tarkasastra"@en ;
         :hasTitle           bdr:TTA65413C08966BC9D ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA6B631C08A2FD920 , bdr:NTF3243ACE3271AE5B .
     

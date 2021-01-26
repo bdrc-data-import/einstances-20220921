@@ -28,6 +28,7 @@ bdg:IE0GR0122 {
         skos:altLabel       "Mahāsudarśanāvadāna"@sa-x-iast ;
         skos:prefLabel      "Mahasudarsanavadana"@en ;
         :hasTitle           bdr:TT35044876B0255BA3 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT8B51405FAE339A86 , bdr:NT9062BD79D5C3BC56 .
     

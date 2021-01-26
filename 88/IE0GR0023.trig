@@ -28,6 +28,7 @@ bdg:IE0GR0023 {
         skos:altLabel       "Mahāyānasūtrālaṃkāra"@sa-x-iast ;
         skos:prefLabel      "Asanga: Mahayanasutralamkara, with Vasubandhu's Bhasya"@en ;
         :hasTitle           bdr:TT62C5EBF5783A3427 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22208 ;
         :isRoot             true ;
         :note               bdr:NT9E39817DE474FA7F , bdr:NTC5C351B13177B388 .

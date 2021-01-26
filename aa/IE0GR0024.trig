@@ -28,6 +28,7 @@ bdg:IE0GR0024 {
         skos:altLabel       "Mahāyānasūtrālaṃkāra"@sa-x-iast ;
         skos:prefLabel      "Asanga: Mahayanasutralankara"@en ;
         :hasTitle           bdr:TTCAF30E6756B11FF8 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22208 ;
         :isRoot             true ;
         :note               bdr:NT7D7750993A8C77D3 , bdr:NTEFA6F4387A7ED0B2 .

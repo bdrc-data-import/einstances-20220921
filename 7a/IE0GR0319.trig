@@ -28,6 +28,7 @@ bdg:IE0GR0319 {
         skos:altLabel       "Madhyamakaśāstra [Mūlamadhyamakakārikā]"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Madhyamakasastra"@en ;
         :hasTitle           bdr:TTBB3738A0A33411E0 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA23226 ;
         :isRoot             true ;
         :note               bdr:NT69E87B1BE80E66B4 , bdr:NTCC9770B0990C6B70 .

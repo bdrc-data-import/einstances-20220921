@@ -28,6 +28,7 @@ bdg:IE0GR0166 {
         skos:altLabel       "Prajñāpāramitāhṛdaya sūtra"@sa-x-iast ;
         skos:prefLabel      "Prajnaparamitahrdayasutra [samksiptamatrka]"@en ;
         :hasTitle           bdr:TT78B52C8981EE6AD2 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22339 ;
         :isRoot             true ;
         :note               bdr:NT9DB64BF33E4F99EB , bdr:NTEBB311C439219A80 .

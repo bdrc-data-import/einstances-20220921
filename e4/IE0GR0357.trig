@@ -28,6 +28,7 @@ bdg:IE0GR0357 {
         skos:altLabel       "Śikṣāsamuccaya"@sa-x-iast ;
         skos:prefLabel      "Santideva: Siksasamuccaya, analytic text"@en ;
         :hasTitle           bdr:TTE6F216972F6426D3 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16765 ;
         :isRoot             true ;
         :note               bdr:NT82E1069BBE6691BA , bdr:NTA6FA59813EF2AA3E .

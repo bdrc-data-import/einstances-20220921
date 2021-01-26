@@ -28,6 +28,7 @@ bdg:IE0GR0614 {
         skos:altLabel       "Abhidhānappadīpikā"@sa-x-iast ;
         skos:prefLabel      "Abhidhanappadipika"@en ;
         :hasTitle           bdr:TT1669836142540A31 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT3E45E3F2757B914A , bdr:NT56480A6FC8DF68FA .
     

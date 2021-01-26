@@ -28,6 +28,7 @@ bdg:IE0GR0249 {
         skos:altLabel       "Vinayaviniścaya upāliparipṛcchā sūtra"@sa-x-iast ;
         skos:prefLabel      "Vinayaviniscaya upalipariprccha"@en ;
         :hasTitle           bdr:TTEBAE7AD2D45F105A ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0068 ;
         :isRoot             true ;
         :note               bdr:NT31C1C22DFDFE27B2 , bdr:NT8789614C24A27754 .

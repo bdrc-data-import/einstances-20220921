@@ -28,6 +28,7 @@ bdg:IE0GR0287 {
         skos:altLabel       "Āpattideśanāvidhi"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Apattidesanavidhi"@en ;
         :hasTitle           bdr:TT068B930AF4BDCBF5 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3314 ;
         :isRoot             true ;
         :note               bdr:NT8DF1AEB5569B19DD , bdr:NTF74687E40E1AC497 .

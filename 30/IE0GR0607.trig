@@ -28,6 +28,7 @@ bdg:IE0GR0607 {
         skos:altLabel       "Padasādhana"@sa-x-iast ;
         skos:prefLabel      "Padasadhana"@en ;
         :hasTitle           bdr:TT0251786E1798138B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT878F2F4422CC5F85 , bdr:NT922D72100DEB2815 .
     

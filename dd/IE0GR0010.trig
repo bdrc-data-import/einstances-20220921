@@ -28,6 +28,7 @@ bdg:IE0GR0010 {
         skos:altLabel       "Ahorātravratakathā"@sa-x-iast ;
         skos:prefLabel      "Ahoratravratakatha (Prose version)"@en ;
         :hasTitle           bdr:TT0BFFD9D57234B9B7 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT94667E025F23F18C , bdr:NT968869A4697E4613 .
     

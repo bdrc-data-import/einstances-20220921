@@ -28,6 +28,7 @@ bdg:IE0GR0296 {
         skos:altLabel       "Satyadvayāvatāranāma"@sa-x-iast ;
         skos:prefLabel      "Dipamkara [=Dipankara]: Satyadvayavataranama"@en ;
         :hasTitle           bdr:TTF9403905CD5F10DF ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3247 ;
         :isRoot             true ;
         :note               bdr:NTAE63AA13F2CB94EF , bdr:NTF30A08A26B6383C7 .

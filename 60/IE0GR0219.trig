@@ -28,6 +28,7 @@ bdg:IE0GR0219 {
         skos:altLabel       "Sukhāvatīvyūha sūtra saṃkṣiptamātṛkā"@sa-x-iast ;
         skos:prefLabel      "The Smaller Sukhavativyuha"@en ;
         :hasTitle           bdr:TTD4206218CF3996C2 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0115 ;
         :isRoot             true ;
         :note               bdr:NT49BC574AD88922D0 , bdr:NT95C9374A3CE00D5A .

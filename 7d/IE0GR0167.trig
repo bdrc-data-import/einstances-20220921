@@ -28,6 +28,7 @@ bdg:IE0GR0167 {
         skos:altLabel       "Prajñāpāramitāhṛdaya sūtra"@sa-x-iast ;
         skos:prefLabel      "Prajnaparamitahrdayasutra [vistaramatrka]"@en ;
         :hasTitle           bdr:TT5593D64306BE6EDF ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22339 ;
         :isRoot             true ;
         :note               bdr:NT32FF36CF07E14E68 , bdr:NTF07BADEBC7A6A589 .

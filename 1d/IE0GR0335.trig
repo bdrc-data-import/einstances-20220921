@@ -28,6 +28,7 @@ bdg:IE0GR0335 {
         skos:altLabel       "Vigrahavyāvartanīkārikā"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Vigrahavyavartanikarika"@en ;
         :hasTitle           bdr:TT69D1BAA7A1AD7A7D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16740 ;
         :isRoot             true ;
         :note               bdr:NTC9DA3D6A6D2DD145 , bdr:NTF3FABB63E69BBC43 .

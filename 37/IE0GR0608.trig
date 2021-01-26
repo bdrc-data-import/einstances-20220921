@@ -28,6 +28,7 @@ bdg:IE0GR0608 {
         skos:altLabel       "Vākyamālāva"@sa-x-iast ;
         skos:prefLabel      "Vakyamalava"@en ;
         :hasTitle           bdr:TT335C655BDCEB0C2D ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT38D19C8D11A997F3 , bdr:NT4D28D5ECDA0121F2 .
     

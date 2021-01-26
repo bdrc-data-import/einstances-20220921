@@ -28,6 +28,7 @@ bdg:IE0GR0268 {
         skos:altLabel       "Bodhipathapradīpa"@sa-x-iast ;
         skos:prefLabel      "Bodhipathapradipa"@en ;
         :hasTitle           bdr:TT4E51C280B6E95803 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16766 ;
         :isRoot             true ;
         :note               bdr:NT8C33548744601A63 , bdr:NTE1A8A9AF793EDDEC .

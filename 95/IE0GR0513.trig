@@ -28,6 +28,7 @@ bdg:IE0GR0513 {
         skos:altLabel       "Niddesa Mahānidessa"@sa-x-iast ;
         skos:prefLabel      "Niddesa I: Mahaniddesa, annotated version in PTS layout"@en ;
         :hasTitle           bdr:TTD7F67AB2274ED42E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT4AC144679BF7526B , bdr:NTADEA5CC7644EBDCF .
     

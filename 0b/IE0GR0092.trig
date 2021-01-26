@@ -28,6 +28,7 @@ bdg:IE0GR0092 {
         skos:altLabel       "Kaṭhināvadāna"@sa-x-iast ;
         skos:prefLabel      "Kathinavadana"@en ;
         :hasTitle           bdr:TT90A72EA00DBCAAAE ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT9E066292B52F77F8 , bdr:NTF305D4E462CBC505 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0333 {
         skos:altLabel       "Śūnyatāsaptati"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Sunyatasaptati"@en ;
         :hasTitle           bdr:TT73FE1E693388A152 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA1GS136632 ;
         :isRoot             true ;
         :note               bdr:NT1D74C45449CD91B7 , bdr:NT7C292ABD13253AA3 .

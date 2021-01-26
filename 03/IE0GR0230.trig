@@ -28,6 +28,7 @@ bdg:IE0GR0230 {
         skos:altLabel       "Tārāsragdharāstotra"@sa-x-iast ;
         skos:prefLabel      "Tarasragdharastotra"@en ;
         :hasTitle           bdr:TTCCBADAF1BF475DC7 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT88A4154B1FB855A6 , bdr:NTE119E04D1FE478CA .
     

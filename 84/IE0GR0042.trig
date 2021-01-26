@@ -28,6 +28,7 @@ bdg:IE0GR0042 {
         skos:altLabel       "Siddhārthacaritra Kāvya"@sa-x-iast ;
         skos:prefLabel      "Buddhaghosa: Siddharthacaritrakavya"@en ;
         :hasTitle           bdr:TT99AF8D5151EDB0FD ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT7BEFDE754A608193 , bdr:NTB534711E43B68F88 .
     

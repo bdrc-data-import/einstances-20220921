@@ -28,6 +28,7 @@ bdg:IE0GR0334 {
         skos:altLabel       "Vigrahavyāvartanī [kārikā + vṛtti]"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Vigrahavyavartani"@en ;
         :hasTitle           bdr:TTB8C15924BBDD59FF ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT5101143207ED83FA , bdr:NTFEEB5902E4B07BD9 .
     

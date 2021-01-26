@@ -28,6 +28,7 @@ bdg:IE0GR0556 {
         skos:altLabel       "Dukapaṭṭhāna of the Abhidamma Piṭaka"@sa-x-iast ;
         skos:prefLabel      "Dukapatthana of the Abhidhamma Pitaka, annotated version"@en ;
         :hasTitle           bdr:TTAA80AC69DA13879E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT952272A7CA137073 , bdr:NTBCC8A34E3AB1683D .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0014 {
         skos:altLabel       "Āmoghapāśanāmahṛdaya sūtra"@sa-x-iast ;
         skos:prefLabel      "Amoghapasahrdayasutram"@en ;
         :hasTitle           bdr:TTFF83AA6EA2CF2322 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT62BEFC4914D5F344 , bdr:NT987111A8E6EF1DFB .
     

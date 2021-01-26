@@ -28,6 +28,7 @@ bdg:IE0GR0171 {
         skos:altLabel       "Prātimokṣa sūtra"@sa-x-iast ;
         skos:prefLabel      "Pratimoksasutram of the Mahasamghikas"@en ;
         :hasTitle           bdr:TT892895740741BCF9 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16817 ;
         :isRoot             true ;
         :note               bdr:NTC6D07A4E226ADD84 , bdr:NTDE8FCFE270C01A5A .

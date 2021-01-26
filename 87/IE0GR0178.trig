@@ -28,6 +28,7 @@ bdg:IE0GR0178 {
         skos:altLabel       "Pravrajyāvastu"@sa-x-iast ;
         skos:prefLabel      "Pravrajyavastu"@en ;
         :hasTitle           bdr:TT988D855335C733FA ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT8FA733E06DCB678B , bdr:NTF153C287AF52A132 .
     

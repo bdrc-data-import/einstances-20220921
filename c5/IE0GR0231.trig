@@ -28,6 +28,7 @@ bdg:IE0GR0231 {
         skos:altLabel       "Tathāgatabimbakārāpaṇa sūtra"@sa-x-iast ;
         skos:prefLabel      "Tathagatabimbakarapanasutra"@en ;
         :hasTitle           bdr:TT7A1304DB16A05D4C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT88F95FC3407AA7E9 , bdr:NTE564DF69F3A6B895 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0576 {
         skos:altLabel       "Hatthavanagallavihāravaṃśa"@sa-x-iast ;
         skos:prefLabel      "Hatthavanagallaviharavamsa"@en ;
         :hasTitle           bdr:TT3DE0283A0769C70A ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT4BAE8C908DB6D2DE , bdr:NT7CAD93FDFA302C63 .
     

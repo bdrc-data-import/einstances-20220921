@@ -28,6 +28,7 @@ bdg:IE0GR0391 {
         skos:altLabel       "Pañcaskandhaprakaraṇa"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Pancaskandhaprakarana"@en ;
         :hasTitle           bdr:TT9785DEFA65D0B9F6 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16814 ;
         :isRoot             true ;
         :note               bdr:NTD9C384ABD1FF3120 , bdr:NTDF6705C07B5993B1 .

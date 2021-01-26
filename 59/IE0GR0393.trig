@@ -28,6 +28,7 @@ bdg:IE0GR0393 {
         skos:altLabel       "Triṃśikāvijñaptikārikā & Triṃśikāvijñaptibhāṣya [Triṃśikābhāṣya]"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Trimsikavijnaptikarika, with Sthiramati's Trimsikavijnaptibhasya"@en ;
         :hasTitle           bdr:TT236A5443E4E24D46 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3402 ;
         :isRoot             true ;
         :note               bdr:NT6F9B9F50A09D9BE4 , bdr:NTD5AF716F1054CB14 .

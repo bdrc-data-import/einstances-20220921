@@ -28,6 +28,7 @@ bdg:IE0GR0316 {
         skos:altLabel       "Dharmasaṃgraha"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Dharmasamgraha (Dharmasangraha)"@en ;
         :hasTitle           bdr:TT1CA10EA79F716D0A ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTC16C98D05C31D590 , bdr:NTCA1ED2012E8DE2E9 .
     

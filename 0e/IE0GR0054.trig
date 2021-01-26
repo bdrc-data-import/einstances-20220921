@@ -28,6 +28,7 @@ bdg:IE0GR0054 {
         skos:altLabel       "Patna Dharmapada"@sa-x-iast ;
         skos:prefLabel      "Patna Dharmapada"@en ;
         :hasTitle           bdr:TT89EDFD9D9E2590E1 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT09B64054A484B0EB , bdr:NTAFF444BA77527EDD .
     

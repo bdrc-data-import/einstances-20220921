@@ -28,6 +28,7 @@ bdg:IE0GR0217 {
         skos:altLabel       "Stūpalakṣaṇakārikāvivecana"@sa-x-iast ;
         skos:prefLabel      "Stupalaksanakarikavivecanam"@en ;
         :hasTitle           bdr:TT73C4E44939ED7AE4 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT7A79965855683E5C , bdr:NT9E6F5DE29F157504 .
     

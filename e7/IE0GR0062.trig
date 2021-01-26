@@ -28,6 +28,7 @@ bdg:IE0GR0062 {
         skos:altLabel       "Ekadaśamukhahṛdaya"@sa-x-iast ;
         skos:prefLabel      "Ekadasamukhahrdayam"@en ;
         :hasTitle           bdr:TTAE02FA3DE3915562 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT939332A925B328AD , bdr:NTD53365D39C7445C8 .
     

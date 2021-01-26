@@ -28,6 +28,7 @@ bdg:IE0GR0604 {
         skos:altLabel       "Moggallānavyākarana"@sa-x-iast ;
         skos:prefLabel      "Moggallayanavyakarana"@en ;
         :hasTitle           bdr:TT988D8BFC9390316B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT973B88DF46A6BD17 , bdr:NTC07BE12BA6774814 .
     

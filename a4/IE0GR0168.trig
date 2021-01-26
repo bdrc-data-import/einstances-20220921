@@ -28,6 +28,7 @@ bdg:IE0GR0168 {
         skos:altLabel       "Fragments of Prajnāpāramitā texts@en"@sa-x-iast ;
         skos:prefLabel      "Fragments of Prajnaparamita texts"@en ;
         :hasTitle           bdr:TT51CCAB9A5E05984E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT082F32676718DDE8 , bdr:NT55887A773E6291B4 .
     

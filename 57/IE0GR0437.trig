@@ -28,6 +28,7 @@ bdg:IE0GR0437 {
         skos:altLabel       "Saṃyutta-Nikāya Sagāthavagga"@sa-x-iast ;
         skos:prefLabel      "Samyutta-Nikaya 1, annotated version"@en ;
         :hasTitle           bdr:TT861512FF00FF176D ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT57C9E4D5A6B7B138 , bdr:NT94B2DE3593E3B227 .
     

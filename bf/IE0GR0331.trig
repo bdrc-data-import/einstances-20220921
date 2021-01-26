@@ -28,6 +28,7 @@ bdg:IE0GR0331 {
         skos:altLabel       "Śālistambakamahāyānasūtraṭīkā [Āryaśālistambakamahāyānasūtraṭīkā]"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Salistambakamahayanasutratika"@en ;
         :hasTitle           bdr:TTD0A2CE2DAA7A570B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3326 ;
         :isRoot             true ;
         :note               bdr:NT8EBE36BD8816B5A3 , bdr:NTD5561EA274545880 .

@@ -28,6 +28,7 @@ bdg:IE0GR0143 {
         skos:altLabel       "Nagaropama sūtra [Saṃyuktāgama]"@sa-x-iast ;
         skos:prefLabel      "Nagaropamasutra, transliteration"@en ;
         :hasTitle           bdr:TT3B9EDF53367EE2E2 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT3901463E87FC0D48 , bdr:NT72C4EA88BB319CB5 .
     

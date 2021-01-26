@@ -28,6 +28,7 @@ bdg:IE0GR0232 {
         skos:altLabel       "Triskandha sūtra"@sa-x-iast ;
         skos:prefLabel      "Triskandhasutra"@en ;
         :hasTitle           bdr:TT29D2CB8C7F3D7155 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16793 ;
         :isRoot             true ;
         :note               bdr:NT25941A0C2B21C5E0 , bdr:NTD2D367F88D97FF0D .

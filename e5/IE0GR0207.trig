@@ -28,6 +28,7 @@ bdg:IE0GR0207 {
         skos:altLabel       "Sarvatathāgatādhiṣṭhānavyūha Sūtra"@sa-x-iast ;
         skos:prefLabel      "Sarvatathagatadhisthanavyuhasutra"@en ;
         :hasTitle           bdr:TT175AA25292B3A58D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0098 ;
         :isRoot             true ;
         :note               bdr:NT442FA6757B7BAB0C , bdr:NT9556AB4EC876BD6A .

@@ -28,6 +28,7 @@ bdg:IE0GR0291 {
         skos:altLabel       "Daśākuśalakarmapathadeśanā"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Dasakusalakarmapathadesana"@en ;
         :hasTitle           bdr:TT141282680E34569D ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3299 ;
         :isRoot             true ;
         :note               bdr:NT3B21C336476E11D3 , bdr:NTB372B0BB408AA022 .

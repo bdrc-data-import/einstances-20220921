@@ -28,6 +28,7 @@ bdg:IE0GR0275 {
         skos:altLabel       "Nyāyabindu Prakaraṇa"@sa-x-iast ;
         skos:prefLabel      "Dharmakirti: Nyayabinduprakarana"@en ;
         :hasTitle           bdr:TT5CE91AAEDA459F5E ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16851 ;
         :isRoot             true ;
         :note               bdr:NT1DDE1BF09D05382A , bdr:NT3FA726E4EC162960 .

@@ -28,6 +28,7 @@ bdg:IE0GR0034 {
         skos:altLabel       "Āyuḥparyanta sūtra"@sa-x-iast ;
         skos:prefLabel      "Ayuhparyantasutra"@en ;
         :hasTitle           bdr:TTD2E51DE491104834 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0307 ;
         :isRoot             true ;
         :note               bdr:NT8ABA704057F5A591 , bdr:NTB05A3CF7E51DF3DD .

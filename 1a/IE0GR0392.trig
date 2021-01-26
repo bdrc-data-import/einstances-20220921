@@ -28,6 +28,7 @@ bdg:IE0GR0392 {
         skos:altLabel       "Triṃśikāvijñaptikārikā [Triṃśikākārikā]"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Trimsikavijnaptikarika"@en ;
         :hasTitle           bdr:TT88C2032FCF0FB0A8 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16813 ;
         :isRoot             true ;
         :note               bdr:NT0B314D22D9D1CBBB , bdr:NT2CCAD927B71E53A4 .

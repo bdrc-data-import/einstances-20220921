@@ -28,6 +28,7 @@ bdg:IE0GR0007 {
         skos:altLabel       "Advayaśatikā Prajñāpāramitā Sūtra"@sa-x-iast ;
         skos:prefLabel      "Advayasatika Prajnaparamitasutra"@en ;
         :hasTitle           bdr:TT6697A4A657E60BDB ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0018 ;
         :isRoot             true ;
         :note               bdr:NT0E54A707433E2694 , bdr:NTD3E7FD4218CAF59A .

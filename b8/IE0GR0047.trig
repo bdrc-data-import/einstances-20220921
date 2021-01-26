@@ -28,6 +28,7 @@ bdg:IE0GR0047 {
         skos:altLabel       "Carmavastu"@sa-x-iast ;
         skos:prefLabel      "Carmavastu of the Vinayavstvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TT9D93578F9A5A3A7C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT467BD16AD3BD6E3D , bdr:NT82EB162C5AAC64BC .
     

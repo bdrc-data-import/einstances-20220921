@@ -28,6 +28,7 @@ bdg:IE0GR0075 {
         skos:altLabel       "Hayagrīvavidyā"@sa-x-iast ;
         skos:prefLabel      "Hayagrivavidya"@en ;
         :hasTitle           bdr:TT085C17B11D44B679 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT45CFFAAF9C00EC75 , bdr:NTCB2DA20DE4428A86 .
     

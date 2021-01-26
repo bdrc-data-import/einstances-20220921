@@ -28,6 +28,7 @@ bdg:IE0GR0394 {
         skos:altLabel       "Trisvabhāvanirdeśa"@sa-x-iast ;
         skos:prefLabel      "Vasubandhu: Trisvabhavanirdesa"@en ;
         :hasTitle           bdr:TTA7EDEA9492FF7AB5 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3397 ;
         :isRoot             true ;
         :note               bdr:NTC238515A99E01FEE , bdr:NTDD19E0C18267E4F4 .

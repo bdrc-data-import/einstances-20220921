@@ -28,6 +28,7 @@ bdg:IE0GR0150 {
         skos:altLabel       "Nidānasaṃyukta"@sa-x-iast ;
         skos:prefLabel      "Nidanasamyukta"@en ;
         :hasTitle           bdr:TT5105FA853790F6E3 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT81C84F3579BACF6B , bdr:NTDAACB504979AB72A .
     

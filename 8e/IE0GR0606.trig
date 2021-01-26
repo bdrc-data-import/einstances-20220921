@@ -28,6 +28,7 @@ bdg:IE0GR0606 {
         skos:altLabel       "Padamañjarī"@sa-x-iast ;
         skos:prefLabel      "Padamanjari"@en ;
         :hasTitle           bdr:TT931AE06DCD17A909 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT49ECAEE07D521259 , bdr:NT83F5F31453B60C87 .
     

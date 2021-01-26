@@ -28,6 +28,7 @@ bdg:IE0GR0305 {
         skos:altLabel       "Hetutattvopadeśa"@sa-x-iast ;
         skos:prefLabel      "Jitari: Hetutattvopadesa"@en ;
         :hasTitle           bdr:TT95890AC3349BA168 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3596 ;
         :isRoot             true ;
         :note               bdr:NT6B7CA7C4DC13705F , bdr:NTAAC19ADB0333CD81 .

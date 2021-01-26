@@ -28,6 +28,7 @@ bdg:IE0GR0298 {
         skos:altLabel       "Dharmottarapradīpa"@sa-x-iast ;
         skos:prefLabel      "Durvekamisra (c. 1100): Dharmottarapradipa"@en ;
         :hasTitle           bdr:TT28FC401C3FD8F1DB ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT199FC516C75B6187 , bdr:NTF386C5EACB1814B4 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0004 {
         skos:altLabel       "Adhikaraṇavastu"@sa-x-iast ;
         skos:prefLabel      "Vinayavastu, 16: Adhikaranavastu"@en ;
         :hasTitle           bdr:TT0A65470FCAD4B994 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT351EBD659617CE4D , bdr:NT3F88D6469D0E7CA2 .
     

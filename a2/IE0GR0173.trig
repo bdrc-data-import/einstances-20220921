@@ -28,6 +28,7 @@ bdg:IE0GR0173 {
         skos:altLabel       "Prātimokṣa sūtra"@sa-x-iast ;
         skos:prefLabel      "Pratimoksasutra (fragments)"@en ;
         :hasTitle           bdr:TTA079AF353A8E58A9 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16817 ;
         :isRoot             true ;
         :note               bdr:NT5A05D79E5589E8B1 , bdr:NTCE3F6C50245BC985 .

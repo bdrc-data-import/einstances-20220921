@@ -28,6 +28,7 @@ bdg:IE0GR0537 {
         skos:altLabel       "Vibhaṅga"@sa-x-iast ;
         skos:prefLabel      "Vibhanga, annotated version"@en ;
         :hasTitle           bdr:TT452A40C4518A5999 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT4AA861BCF05235DF , bdr:NTA1C62D7C64BF29A5 .
     

@@ -28,6 +28,7 @@ bdg:IE0GR0188 {
         skos:altLabel       "Sāratamā [āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ sāratamākhyā pañjikā]"@sa-x-iast ;
         skos:prefLabel      "Ratnakarasanti: Saratama"@en ;
         :hasTitle           bdr:TTACCEC2D28B6B51A5 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT15DA1AEEA32C368C , bdr:NT1CB7A6776D712589 .
     

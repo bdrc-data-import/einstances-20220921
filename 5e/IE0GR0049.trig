@@ -28,6 +28,7 @@ bdg:IE0GR0049 {
         skos:altLabel       "Daśabala sūtra"@sa-x-iast ;
         skos:prefLabel      "Dasabalasutra 1-4"@en ;
         :hasTitle           bdr:TTB7B20E8514CF1C99 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT85BAB6AA36458EE2 , bdr:NTDD8D981DF23CC749 .
     

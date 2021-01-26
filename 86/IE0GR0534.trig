@@ -28,6 +28,7 @@ bdg:IE0GR0534 {
         skos:altLabel       "Dhammasaṅgaṇī"@sa-x-iast ;
         skos:prefLabel      "Dhammasangani, annotated version"@en ;
         :hasTitle           bdr:TTD808E387D3D8858A ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT08AC116EF79C92EA , bdr:NT0FC37A8F33B93891 .
     

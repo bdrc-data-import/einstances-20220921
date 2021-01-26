@@ -28,6 +28,7 @@ bdg:IE0GR0307 {
         skos:altLabel       "Madhyamakāloka"@sa-x-iast ;
         skos:prefLabel      "Kamalasila: Madhyamakaloka"@en ;
         :hasTitle           bdr:TT7C0892A7CA463426 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3232 ;
         :isRoot             true ;
         :note               bdr:NT7F5539F5400D57B6 , bdr:NTB6FC2A7CE116613A .

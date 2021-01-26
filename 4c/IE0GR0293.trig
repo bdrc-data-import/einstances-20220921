@@ -28,6 +28,7 @@ bdg:IE0GR0293 {
         skos:altLabel       "Mahāyānapathasādhanasaṅgraha"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Mahayanapathasadhanasamgraha"@en ;
         :hasTitle           bdr:TT07F10114DF9E06D8 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3296 ;
         :isRoot             true ;
         :note               bdr:NTA23F8B92A19CB71C , bdr:NTE770D8404710A995 .

@@ -28,6 +28,7 @@ bdg:IE0GR0540 {
         skos:altLabel       "Dhātukathā"@sa-x-iast ;
         skos:prefLabel      "Dhatukatha, version in PTS layout"@en ;
         :hasTitle           bdr:TT323DD9AD8F1932A1 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTBC32FD566DC073E8 , bdr:NTD9CCB073E3852B46 .
     

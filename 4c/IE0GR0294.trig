@@ -28,6 +28,7 @@ bdg:IE0GR0294 {
         skos:altLabel       "Samādhisaṃbhāraparivarta"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Samadhisambharaparivarta"@en ;
         :hasTitle           bdr:TT27245749D66D180B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT1287 ;
         :isRoot             true ;
         :note               bdr:NT027DB0DEC5814974 , bdr:NT234835FC7AF919F1 .

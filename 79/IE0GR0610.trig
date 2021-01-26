@@ -28,6 +28,7 @@ bdg:IE0GR0610 {
         skos:altLabel       "Kaccāyanabheda"@sa-x-iast ;
         skos:prefLabel      "Mahayasa Thera: Kaccayanabheda"@en ;
         :hasTitle           bdr:TT72FFD0C38610E67C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT8E517AD21BC22C4A , bdr:NT91F8C92CB5118FBB .
     

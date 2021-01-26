@@ -28,6 +28,7 @@ bdg:IE0GR0256 {
         skos:altLabel       "Ālambanaparīkṣāvṛtti"@sa-x-iast ;
         skos:prefLabel      "Alambanapariksa with Vrtti"@en ;
         :hasTitle           bdr:TT63A9B6B88ED6CFE2 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3543 ;
         :isRoot             true ;
         :note               bdr:NT4DF2E41DFAFB250E , bdr:NT63CD0E3880842D97 .

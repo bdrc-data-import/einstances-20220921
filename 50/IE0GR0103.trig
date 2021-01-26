@@ -28,6 +28,7 @@ bdg:IE0GR0103 {
         skos:altLabel       "Kalpanāmaṇḍitikā"@sa-x-iast ;
         skos:prefLabel      "Kumaralata: Kalpanamanditika"@en ;
         :hasTitle           bdr:TT43676076299FCF44 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT7AD1A20E8231DE97 , bdr:NTA248343E1F422358 .
     

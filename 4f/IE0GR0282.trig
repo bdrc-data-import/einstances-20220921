@@ -28,6 +28,7 @@ bdg:IE0GR0282 {
         skos:altLabel       "Vādanyāya"@sa-x-iast ;
         skos:prefLabel      "Dharmakirti: Vadanyaya"@en ;
         :hasTitle           bdr:TT7232CE552A0FB1A2 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA00EGS1017698 ;
         :isRoot             true ;
         :note               bdr:NT06E75DACFE1C726A , bdr:NTB4DEF5FE294EBC14 .

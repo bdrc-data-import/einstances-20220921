@@ -28,6 +28,7 @@ bdg:IE0GR0278 {
         skos:altLabel       "Pramāṇaviniścaya"@sa-x-iast ;
         skos:prefLabel      "Dharmakirti: Pramanaviniscaya (fragment)"@en ;
         :hasTitle           bdr:TTA54BE4894B4E3230 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22293 ;
         :isRoot             true ;
         :note               bdr:NT03F3E81991B7E9D8 , bdr:NT492D167D741D9AF2 .

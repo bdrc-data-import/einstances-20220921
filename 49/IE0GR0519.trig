@@ -28,6 +28,7 @@ bdg:IE0GR0519 {
         skos:altLabel       "Paṭisambhidāmagga Mātikā Mahāvagga"@sa-x-iast ;
         skos:prefLabel      "Patisambhidamagga: Matika; I. Mahavagga, I-III, annotated version"@en ;
         :hasTitle           bdr:TT719F37FC44828178 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT36F8F99CA1C20541 , bdr:NTC6C2FB38578B0E4E .
     

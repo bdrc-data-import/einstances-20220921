@@ -28,6 +28,7 @@ bdg:IE0GR0119 {
         skos:altLabel       "Mahāsamnipātaratnaketudhāraṇī [Ratnaketuparivarta]"@sa-x-iast ;
         skos:prefLabel      "Ratnaketuparivarta (Parivartas 1-6, 10-11)"@en ;
         :hasTitle           bdr:TT2347F0A2A8BB145F ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0138 ;
         :isRoot             true ;
         :note               bdr:NT28493F3EDDA9408E , bdr:NTC048438729DFCF04 .

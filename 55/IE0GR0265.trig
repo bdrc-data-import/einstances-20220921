@@ -28,6 +28,7 @@ bdg:IE0GR0265 {
         skos:altLabel       "Gurupañcāśikā"@sa-x-iast ;
         skos:prefLabel      "Asvaghosa: Gurupancasika"@en ;
         :hasTitle           bdr:TTB10A5E130DF1C765 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA22925 ;
         :isRoot             true ;
         :note               bdr:NT36C2D9E300305571 , bdr:NTAD495E35AFE900A7 .

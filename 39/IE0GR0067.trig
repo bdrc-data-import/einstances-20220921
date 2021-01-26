@@ -28,6 +28,7 @@ bdg:IE0GR0067 {
         skos:altLabel       "Jātakamālā"@sa-x-iast ;
         skos:prefLabel      "Gopadatta: Jatakamala"@en ;
         :hasTitle           bdr:TT55FB49FB0DA94991 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16838 ;
         :isRoot             true ;
         :note               bdr:NT99EF9595659C0539 , bdr:NTCB3A25FCB133F8A2 .

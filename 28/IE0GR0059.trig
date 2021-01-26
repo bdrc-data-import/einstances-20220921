@@ -28,6 +28,7 @@ bdg:IE0GR0059 {
         skos:altLabel       "Divyāvadāna"@sa-x-iast ;
         skos:prefLabel      "Divyavadana"@en ;
         :hasTitle           bdr:TTBB86087B80F593FF ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT42431B9D781DCE80 , bdr:NTAE5BB07B28A26902 .
     

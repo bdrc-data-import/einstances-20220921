@@ -28,6 +28,7 @@ bdg:IE0GR0292 {
         skos:altLabel       "Gurukriyākrama"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Gurukriyakrama"@en ;
         :hasTitle           bdr:TTE6BFEB222262C64E ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3317 ;
         :isRoot             true ;
         :note               bdr:NT53166F2DB8AD40F1 , bdr:NTFE7714E891395C97 .

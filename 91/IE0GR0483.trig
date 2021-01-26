@@ -28,6 +28,7 @@ bdg:IE0GR0483 {
         skos:altLabel       "Vimānavatthu"@sa-x-iast ;
         skos:prefLabel      "Vimanavatthu, in PTS layout"@en ;
         :hasTitle           bdr:TTC69281DDC2BA0DE6 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT059463FF43BE5A0C , bdr:NT930C5D9DFC0FB6D2 .
     

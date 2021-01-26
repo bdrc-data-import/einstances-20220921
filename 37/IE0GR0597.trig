@@ -28,6 +28,7 @@ bdg:IE0GR0597 {
         skos:altLabel       "Jinavaṃsadīpa"@sa-x-iast ;
         skos:prefLabel      "Jinavamsadipa"@en ;
         :hasTitle           bdr:TT6F97DFE539DCF0D1 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT122278D47A656879 , bdr:NT33E5554D99255271 .
     

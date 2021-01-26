@@ -28,6 +28,7 @@ bdg:IE0GR0572 {
         skos:altLabel       "Dīpavaṃsa"@sa-x-iast ;
         skos:prefLabel      "Dipavamsa"@en ;
         :hasTitle           bdr:TT59C58CAC4EDA14CB ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT6946855008614590 , bdr:NTB0656EBB5576F478 .
     

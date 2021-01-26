@@ -28,6 +28,7 @@ bdg:IE0GR0470 {
         skos:altLabel       "Dhammapada"@sa-x-iast ;
         skos:prefLabel      "Dhammapada, annotated version"@en ;
         :hasTitle           bdr:TT0E7DEA4B2E7E3146 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15380 ;
         :isRoot             true ;
         :note               bdr:NT16E25DAC3DFA84E4 , bdr:NTEDA3506305A20F4F .

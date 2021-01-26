@@ -28,6 +28,7 @@ bdg:IE0GR0352 {
         skos:altLabel       "Tattvasaṃgraha"@sa-x-iast ;
         skos:prefLabel      "Santaraksita: Tattvasamgraha"@en ;
         :hasTitle           bdr:TT62F00ABBE3CDE577 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16859 ;
         :isRoot             true ;
         :note               bdr:NTC8AAA8DBB966EBB2 , bdr:NTCE01FCEDCB33A594 .

@@ -28,6 +28,7 @@ bdg:IE0GR0203 {
         skos:altLabel       "Saptaśatikā prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Saptasatika prajnaparamita"@en ;
         :hasTitle           bdr:TT3F2C33361C3A4A2C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15643 ;
         :isRoot             true ;
         :note               bdr:NTEB934DEEB1BDA41E , bdr:NTF12BCDD1C1ABC9DF .

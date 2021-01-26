@@ -28,6 +28,7 @@ bdg:IE0GR0410 {
         skos:altLabel       "Vinayapiṭaka Mahāvagga"@sa-x-iast ;
         skos:prefLabel      "Vinaya-Pitaka, Vol. 1: Mahavagga, in PTS layout"@en ;
         :hasTitle           bdr:TTE1599EBAAF6837C8 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT94F2DD07836D700E , bdr:NTB2A70DF594CB188C .
     

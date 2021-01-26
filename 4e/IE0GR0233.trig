@@ -28,6 +28,7 @@ bdg:IE0GR0233 {
         skos:altLabel       "Udānavarga"@sa-x-iast ;
         skos:prefLabel      "Udanavarga"@en ;
         :hasTitle           bdr:TTAAA7A0E0EFA138CA ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15380 ;
         :isRoot             true ;
         :note               bdr:NT1E2A69CB13711CEB , bdr:NT221B65B816774379 .

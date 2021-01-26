@@ -28,6 +28,7 @@ bdg:IE0GR0051 {
         skos:altLabel       "Daśasāhasrikā Prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Dasasahasrika Prajnaparamita, chapter 1 and 2 translated from the Tibetan"@en ;
         :hasTitle           bdr:TT9A03CAFB70BD1F24 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0011 ;
         :isRoot             true ;
         :note               bdr:NT2E66B0674F7C531E , bdr:NT8FF7E7D59E6E9988 .

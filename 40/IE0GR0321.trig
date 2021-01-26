@@ -28,6 +28,7 @@ bdg:IE0GR0321 {
         skos:altLabel       "Mūlamadhyamakakārikā"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Mulamadhyamakakarika"@en ;
         :hasTitle           bdr:TTA17D519FA82909A1 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA23226 ;
         :isRoot             true ;
         :note               bdr:NT822476AA36EE7D5C , bdr:NTC1D64A51B55609C3 .

@@ -28,6 +28,7 @@ bdg:IE0GR0215 {
         skos:altLabel       "Śrighanācārasaṃgraha"@sa-x-iast ;
         skos:prefLabel      "Srighanacarasamgraha"@en ;
         :hasTitle           bdr:TT44174B9BF0102030 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA4D8F89779253F30 , bdr:NTDEAA03249A2E7475 .
     

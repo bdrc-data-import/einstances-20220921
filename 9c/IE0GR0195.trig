@@ -28,6 +28,7 @@ bdg:IE0GR0195 {
         skos:altLabel       "Samādhirāja sūtra"@sa-x-iast ;
         skos:prefLabel      "Samadhirajasutra"@en ;
         :hasTitle           bdr:TT0F449DF8479ACA43 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0127 ;
         :isRoot             true ;
         :note               bdr:NT3F0512242AFC1EE3 , bdr:NT6DE92D76A8BBEB6D .

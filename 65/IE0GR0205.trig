@@ -28,6 +28,7 @@ bdg:IE0GR0205 {
         skos:altLabel       "Sarvadurgatipariśodhana tantra"@sa-x-iast ;
         skos:prefLabel      "Sarvadurgatiparisodhanatantra"@en ;
         :hasTitle           bdr:TT361C80A3036118AA ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT11EC6179B9AC58E1 , bdr:NTEB716EC303BB9BBF .
     

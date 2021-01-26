@@ -28,6 +28,7 @@ bdg:IE0GR0030 {
         skos:altLabel       "Aṣṭādaśasāhasrikā Prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Astadasasahasrika Prajnaparamita, Parivartas 55 - 70 (first part)"@en ;
         :hasTitle           bdr:TTAFEC23BC3F7D051C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15640 ;
         :isRoot             true ;
         :note               bdr:NT5CCFD91EC2C9FBAB , bdr:NTE7F6ED2A62244308 .

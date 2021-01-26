@@ -28,6 +28,7 @@ bdg:IE0GR0325 {
         skos:altLabel       "Pratītyasamutpādahṛdayavyākhyāna"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Pratityasamutpadahrdayavyakhyana"@en ;
         :hasTitle           bdr:TT0F597A954C8994AC ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3918 ;
         :isRoot             true ;
         :note               bdr:NT0B09EDDADBC1F35A , bdr:NT3D883B1733C723A8 .

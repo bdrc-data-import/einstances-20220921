@@ -28,6 +28,7 @@ bdg:IE0GR0302 {
         skos:altLabel       "Satyasiddhiśāstra"@sa-x-iast ;
         skos:prefLabel      "Harivarman: Satyasiddhisastra"@en ;
         :hasTitle           bdr:TT3F208CD0ED94218C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT0A803C80ACE976B2 , bdr:NTF4218AC678F3C418 .
     

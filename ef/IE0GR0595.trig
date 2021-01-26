@@ -28,6 +28,7 @@ bdg:IE0GR0595 {
         skos:altLabel       "Telakatāhagāthā"@sa-x-iast ;
         skos:prefLabel      "Telakatahagatha"@en ;
         :hasTitle           bdr:TT8525D1F56A84F69E ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT9AD172638D7EC367 , bdr:NTB8A985D01B183178 .
     

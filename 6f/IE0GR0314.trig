@@ -28,6 +28,7 @@ bdg:IE0GR0314 {
         skos:altLabel       "Bodhicittavivaraṇa"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Bodhicittavivarana (fragments)"@en ;
         :hasTitle           bdr:TT35917839E0404B0B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT0665 ;
         :isRoot             true ;
         :note               bdr:NT5782153A456FE65D , bdr:NT64B22A65212C913E .

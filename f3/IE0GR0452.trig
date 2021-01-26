@@ -28,6 +28,7 @@ bdg:IE0GR0452 {
         skos:altLabel       "Aṅguttara-Nikāya"@sa-x-iast ;
         skos:prefLabel      "Anguttara-Nikaya, annotated version"@en ;
         :hasTitle           bdr:TTC2F99ED4EE408990 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT229A203884081D3F , bdr:NT4191E6F47E4DD51C .
     

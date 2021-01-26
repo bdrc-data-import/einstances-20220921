@@ -28,6 +28,7 @@ bdg:IE0GR0238 {
         skos:altLabel       "Vajracchedikā Prajñāpāramitā Sūtra"@sa-x-iast ;
         skos:prefLabel      "Vajracchedika Prajnaparamita"@en ;
         :hasTitle           bdr:TT10C13CC925C9B5B1 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ15645 ;
         :isRoot             true ;
         :note               bdr:NT02F0897FEC370658 , bdr:NTE5B86D0EE54C6147 .

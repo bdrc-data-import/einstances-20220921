@@ -28,6 +28,7 @@ bdg:IE0GR0261 {
         skos:altLabel       "Catuḥśatikā"@sa-x-iast ;
         skos:prefLabel      "Aryadeva: Catuhsatika"@en ;
         :hasTitle           bdr:TT707BBBD936AEE454 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19459 ;
         :isRoot             true ;
         :note               bdr:NT5C51FAC4005267B5 , bdr:NTC568CAA41D0989C4 .

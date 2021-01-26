@@ -28,6 +28,7 @@ bdg:IE0GR0110 {
         skos:altLabel       "Mahāmantrānusāriṇī mahāsūtra"@sa-x-iast ;
         skos:prefLabel      "Mahamantranusarini"@en ;
         :hasTitle           bdr:TTF8BAA7E932C64C06 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT7F7386E70B21418E , bdr:NT93A4EF68B7C8FE1F .
     

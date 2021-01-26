@@ -28,6 +28,7 @@ bdg:IE0GR0111 {
         skos:altLabel       "Mahāmāyūrīvidyārājñī"@sa-x-iast ;
         skos:prefLabel      "Mahamayurividyarajni"@en ;
         :hasTitle           bdr:TTD349386E576B2C2B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3944 ;
         :isRoot             true ;
         :note               bdr:NT2B7165A4E78A5A93 , bdr:NT9438C0FAFE5D8737 .

@@ -28,6 +28,7 @@ bdg:IE0GR0308 {
         skos:altLabel       "Madhyamakāvatāra"@sa-x-iast ;
         skos:prefLabel      "Madhyamakavatara"@en ;
         :hasTitle           bdr:TTAFDC08886C328DEF ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA19458 ;
         :isRoot             true ;
         :note               bdr:NT9D213BF0DF41F5DD , bdr:NTED61D9A485A40F1B .

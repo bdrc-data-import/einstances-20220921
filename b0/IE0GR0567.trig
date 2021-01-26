@@ -28,6 +28,7 @@ bdg:IE0GR0567 {
         skos:altLabel       "Peṭakopadesa"@sa-x-iast ;
         skos:prefLabel      "Petakopadesa"@en ;
         :hasTitle           bdr:TT9C0976A39C610C5F ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTAEA6D0D83739E1D0 , bdr:NTD654BA6F5E28EFD7 .
     

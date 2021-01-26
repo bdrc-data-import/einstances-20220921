@@ -28,6 +28,7 @@ bdg:IE0GR0118 {
         skos:altLabel       "Mahāsamnipātaratnaketudhāraṇī [Ratnaketuparivarta]"@sa-x-iast ;
         skos:prefLabel      "Mahasannipataratnaketudharanisutra, or Ratnaketuparivarta"@en ;
         :hasTitle           bdr:TTACAFC4ECC1F7DA4F ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0138 ;
         :isRoot             true ;
         :note               bdr:NT97B6B2438EB120D1 , bdr:NTEDAE440917DDE9B8 .

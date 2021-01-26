@@ -28,6 +28,7 @@ bdg:IE0GR0090 {
         skos:altLabel       "Kāśyapaparivarta Sūtra"@sa-x-iast ;
         skos:prefLabel      "Kasyapaparivartasutra"@en ;
         :hasTitle           bdr:TT43362762A2629D8C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RK0087 ;
         :isRoot             true ;
         :note               bdr:NT6D42FA7E2F0D8414 , bdr:NTDB4EBCD42AEAE540 .

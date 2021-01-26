@@ -28,6 +28,7 @@ bdg:IE0GR0172 {
         skos:altLabel       "Prātimokṣa sūtra"@sa-x-iast ;
         skos:prefLabel      "Pratimoksasutra of the Mulasarvastivadins"@en ;
         :hasTitle           bdr:TT89D72AAEEB2DDCB5 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16817 ;
         :isRoot             true ;
         :note               bdr:NT4D13D1EEA2D676BC , bdr:NT6F0CBC72356C1E0F .

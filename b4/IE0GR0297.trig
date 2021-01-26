@@ -28,6 +28,7 @@ bdg:IE0GR0297 {
         skos:altLabel       "Sūtrārthasamuccayopadeśa"@sa-x-iast ;
         skos:prefLabel      "Dipankarasrijnana: Sutrarthasamuccayopadesa"@en ;
         :hasTitle           bdr:TTB688DE7A6D1F4D34 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3298 ;
         :isRoot             true ;
         :note               bdr:NT215459A47D91E7D4 , bdr:NT7785C45729C48735 .

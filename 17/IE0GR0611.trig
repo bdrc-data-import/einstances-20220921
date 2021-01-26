@@ -28,6 +28,7 @@ bdg:IE0GR0611 {
         skos:altLabel       "Saddabindu"@sa-x-iast ;
         skos:prefLabel      "Saddabindu"@en ;
         :hasTitle           bdr:TT94BE0CE52FC24751 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA18297241007CC79 , bdr:NTAE09B25D6B42F2FD .
     

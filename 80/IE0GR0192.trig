@@ -28,6 +28,7 @@ bdg:IE0GR0192 {
         skos:altLabel       "Saddharmapuṇḍarīka sūtra"@sa-x-iast ;
         skos:prefLabel      "Saddharmapundarikasutra"@en ;
         :hasTitle           bdr:TT3303E5A93E2357E5 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16799 ;
         :isRoot             true ;
         :note               bdr:NT5F8C25689169278B , bdr:NTAEDE0AA252A1DF79 .

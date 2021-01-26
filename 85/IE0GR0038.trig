@@ -28,6 +28,7 @@ bdg:IE0GR0038 {
         skos:altLabel       "Bhikṣuṇī Karmavācanā"@sa-x-iast ;
         skos:prefLabel      "Bhiksuni-Karmavacana"@en ;
         :hasTitle           bdr:TTA17342FBB341A90A ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT05F0555B23E90612 , bdr:NT49C7C694C3EB18FF .
     

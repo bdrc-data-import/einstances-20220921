@@ -28,6 +28,7 @@ bdg:IE0GR0413 {
         skos:altLabel       "Vinayapiṭaka Cullavagga"@sa-x-iast ;
         skos:prefLabel      "Vinaya-Pitaka, Vol. 2: Cullavagga"@en ;
         :hasTitle           bdr:TT3097BC1DC67466B2 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT67C721B4FF1A6447 , bdr:NTDEC54A52EAE38969 .
     

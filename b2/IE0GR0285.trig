@@ -28,6 +28,7 @@ bdg:IE0GR0285 {
         skos:altLabel       "Prajñāpāramitāpiṇḍārtha"@sa-x-iast ;
         skos:prefLabel      "Dignaga: Prajnaparamitapindartha"@en ;
         :hasTitle           bdr:TT0990E7C642E2CD52 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3142 ;
         :isRoot             true ;
         :note               bdr:NT092F9C87484F3EA0 , bdr:NT9325EE1FA80C21F8 .

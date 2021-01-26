@@ -28,6 +28,7 @@ bdg:IE0GR0398 {
         skos:altLabel       "Abhidharmadipakārikā"@sa-x-iast ;
         skos:prefLabel      "Vimalamitra(?): Abhidharmadipa, Karikas only!"@en ;
         :hasTitle           bdr:TTFD2B40E6D218500B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NTA9D6AECC64C3D55F , bdr:NTE2A6258E89293E70 .
     

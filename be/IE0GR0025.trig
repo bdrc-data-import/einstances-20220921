@@ -28,6 +28,7 @@ bdg:IE0GR0025 {
         skos:altLabel       "Śrāvakabhūmi"@sa-x-iast ;
         skos:prefLabel      "Sravakabhumi"@en ;
         :hasTitle           bdr:TTE6A77F33D221A977 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3375 ;
         :isRoot             true ;
         :note               bdr:NT17C355AC594727E8 , bdr:NT397171A4E0F2E4A5 .

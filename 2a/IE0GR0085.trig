@@ -28,6 +28,7 @@ bdg:IE0GR0085 {
         skos:altLabel       "Navaślokī"@sa-x-iast ;
         skos:prefLabel      "Kambalapada: Navasloki"@en ;
         :hasTitle           bdr:TT422139042399FC42 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT10D202B5855680A5 , bdr:NT90E699C5184989AE .
     

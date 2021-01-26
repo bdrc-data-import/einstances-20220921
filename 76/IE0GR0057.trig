@@ -28,6 +28,7 @@ bdg:IE0GR0057 {
         skos:altLabel       "Dhvajāgrakeyurā dhāraṇī"@sa-x-iast ;
         skos:prefLabel      "Dhvajagrakeyura-Dharani"@en ;
         :hasTitle           bdr:TT5D35AE58A9063A0B ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT5669FE0771DB526F , bdr:NTF2592FA23DA36302 .
     

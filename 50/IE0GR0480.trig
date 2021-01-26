@@ -28,6 +28,7 @@ bdg:IE0GR0480 {
         skos:altLabel       "Suttanipāta"@sa-x-iast ;
         skos:prefLabel      "Suttanipata, in PTS layout"@en ;
         :hasTitle           bdr:TTAABAC62BB2E4080C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT11165CD8151B08AD , bdr:NTC72D9744F8183F6D .
     

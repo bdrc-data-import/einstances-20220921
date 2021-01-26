@@ -28,6 +28,7 @@ bdg:IE0GR0326 {
         skos:altLabel       "Ratnāvalī [Ratnamālā]"@sa-x-iast ;
         skos:prefLabel      "Nagarjuna: Ratnavali (1-2.46, and 4)"@en ;
         :hasTitle           bdr:TTB8906B9570D68C9F ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3496 ;
         :isRoot             true ;
         :note               bdr:NT80BFDB06BA58FB6E , bdr:NTF3CA8AAE934BDD2D .

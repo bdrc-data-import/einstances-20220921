@@ -28,6 +28,7 @@ bdg:IE0GR0180 {
         skos:altLabel       "Prajñāpāramitāstotra"@sa-x-iast ;
         skos:prefLabel      "Rahulabhadra: Prajnaparamitastotra"@en ;
         :hasTitle           bdr:TT06E9D9F0474041C7 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT0018 ;
         :isRoot             true ;
         :note               bdr:NTE5F1045DCC312372 , bdr:NTF2803848560BEB41 .

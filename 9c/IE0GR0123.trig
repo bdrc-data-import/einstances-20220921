@@ -28,6 +28,7 @@ bdg:IE0GR0123 {
         skos:altLabel       "Mahāvadāna sūtra"@sa-x-iast ;
         skos:prefLabel      "Mahavadanasutra"@en ;
         :hasTitle           bdr:TT9BED2D2C64D2560C ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT62EBB4A4378F82F3 , bdr:NTBA37C6045A9CC844 .
     

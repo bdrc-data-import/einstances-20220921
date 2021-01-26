@@ -28,6 +28,7 @@ bdg:IE0GR0006 {
         skos:altLabel       "Adhyardhaśatikā Prajñāpāramitā"@sa-x-iast ;
         skos:prefLabel      "Adhyardhasatika prajnaparamita"@en ;
         :hasTitle           bdr:TTBDD53A56F479FB7B ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA25400 ;
         :isRoot             true ;
         :note               bdr:NT9E8219C2D10794CC , bdr:NTEFFCEB0D0ECD155B .

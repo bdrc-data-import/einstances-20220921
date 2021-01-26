@@ -28,6 +28,7 @@ bdg:IE0GR0416 {
         skos:altLabel       "Vinayapiṭaka Parivāra"@sa-x-iast ;
         skos:prefLabel      "Vinaya-Pitaka, Parivara, PTS layout"@en ;
         :hasTitle           bdr:TTE8D7EFE9F9CE05C0 ;
+        :inCollection       bdr:PR0GR01 ;
         :isRoot             true ;
         :note               bdr:NT5665F95BFD305113 , bdr:NT8F91E97A4471B368 .
     

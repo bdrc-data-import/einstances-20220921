@@ -28,6 +28,7 @@ bdg:IE0GR0021 {
         skos:altLabel       "Jātakamālā"@sa-x-iast ;
         skos:prefLabel      "Aryasura: Jatakamala"@en ;
         :hasTitle           bdr:TTEF1C7EF9C041BE9C ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA4CZ16838 ;
         :isRoot             true ;
         :note               bdr:NT8873BE8B7DE2751C , bdr:NTAE425F09C378A20E .

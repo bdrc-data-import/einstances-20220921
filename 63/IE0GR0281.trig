@@ -28,6 +28,7 @@ bdg:IE0GR0281 {
         skos:altLabel       "Santānāntarasiddhi"@sa-x-iast ;
         skos:prefLabel      "Dharmakirti: Samtanantarasiddhi"@en ;
         :hasTitle           bdr:TTDE6F1F412FA3B318 ;
+        :inCollection       bdr:PR0GR01 ;
         :instanceOf         bdr:WA0RT3574 ;
         :isRoot             true ;
         :note               bdr:NTD91F9A9156E648D1 , bdr:NTE50F79036E505A4D .
