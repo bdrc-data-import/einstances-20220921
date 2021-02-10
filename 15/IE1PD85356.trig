@@ -34,7 +34,7 @@ bdg:IE1PD85356 {
         :contentMethod      bdr:ContentMethod_OCR ;
         :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL42D958578A62A66C ;
-        :instanceOf         bdr:WA1PD85356 ;
+        :instanceOf         bdr:WA1GS60383 ;
         :instanceReproductionOf  bdr:MW1PD85356 , bdr:W1PD85356 ;
         :isRoot             true .
     

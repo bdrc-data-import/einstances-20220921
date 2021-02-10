@@ -38,7 +38,7 @@ bdg:IE1KG13760 {
         :contentMethod      bdr:ContentMethod_OCR ;
         :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL097AB5B3AB8DD9B3 , bdr:VL7320A8CBD9ECB8C8 ;
-        :instanceOf         bdr:WA1KG13760 ;
+        :instanceOf         bdr:WA1986 ;
         :instanceReproductionOf  bdr:MW1KG13760 , bdr:W1KG13760 ;
         :isRoot             true .
     

@@ -33,7 +33,7 @@ bdg:IE1KG8928 {
         :contentMethod      bdr:ContentMethod_OCR ;
         :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL04266EFA02947D2F ;
-        :instanceOf         bdr:WA1KG8928 ;
+        :instanceOf         bdr:WA1KG12287 ;
         :instanceReproductionOf  bdr:MW1KG8928 , bdr:W1KG8928 ;
         :isRoot             true .
     

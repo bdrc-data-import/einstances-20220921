@@ -243,7 +243,7 @@ bdg:IE2DB4576 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :inCollection       bda:PR0ET005 ;
         :instanceHasVolume  bdr:VL664D67EC9C84AC6A ;
-        :instanceOf         bdr:WA2DB4576 ;
+        :instanceOf         bdr:WA1CZ1997 ;
         :instanceReproductionOf  bdr:MW2DB4576 , bdr:W2DB4576 ;
         :isRoot             true .
     

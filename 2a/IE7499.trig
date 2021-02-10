@@ -38,7 +38,7 @@ bdg:IE7499 {
         :contentMethod      bdr:ContentMethod_OCR ;
         :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL46D995CB2334E32C , bdr:VLD53DC50E1819B67D ;
-        :instanceOf         bdr:WA7499 ;
+        :instanceOf         bdr:WA1KG15897 ;
         :instanceReproductionOf  bdr:MW7499 , bdr:W7499 ;
         :isRoot             true .
     
