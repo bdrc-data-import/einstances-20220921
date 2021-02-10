@@ -31,6 +31,7 @@ bdg:IE1PD105786 {
     
     bdr:IE1PD105786  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VLC8B488079D3299B5 ;
         :instanceOf         bdr:WA1PD105786 ;
         :instanceReproductionOf  bdr:MW1PD105786 , bdr:W1PD105786 ;

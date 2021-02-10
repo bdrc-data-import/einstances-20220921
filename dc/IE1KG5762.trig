@@ -17,7 +17,7 @@ bdg:IE1KG5762 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE1KG5762 ;
         adm:contentProvider  bda:CP009 ;
-        adm:facetIndex      4 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "dc/IE1KG5762.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE1KG5762 ;
@@ -29,21 +29,28 @@ bdg:IE1KG5762 {
         :eTextResource      bdr:UT1KG5762_I1KG5770_0000 ;
         :seqNum             1 .
     
-    bdr:ERDBB1EA902038A80C
+    bdr:ER2371B13026F9D50B
         a                   :EtextRef ;
         :eTextResource      bdr:UT1KG5762_I1KG5771_0000 ;
         :seqNum             1 .
     
     bdr:IE1KG5762  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :instanceHasVolume  bdr:VLF56756EF36055F1D ;
-        :instanceOf         bdr:WA1KG25336 ;
+        :inCollection       bda:PR0ET009 ;
+        :instanceHasVolume  bdr:VLDBB1EA902038A80C , bdr:VLF56756EF36055F1D ;
+        :instanceOf         bdr:WA1KG5762 ;
         :instanceReproductionOf  bdr:MW1KG5762 , bdr:W1KG5762 ;
         :isRoot             true .
     
+    bdr:VLDBB1EA902038A80C
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER2371B13026F9D50B ;
+        :volumeNumber       2 ;
+        :volumeOf           bdr:IE1KG5762 .
+    
     bdr:VLF56756EF36055F1D
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER17EC540C0E51C186 , bdr:ERDBB1EA902038A80C ;
+        :volumeHasEtext     bdr:ER17EC540C0E51C186 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE1KG5762 .
 }

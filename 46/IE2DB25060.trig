@@ -131,6 +131,7 @@ bdg:IE2DB25060 {
     
     bdr:IE2DB25060  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET005 ;
         :instanceHasVolume  bdr:VL2B02585688394FE5 , bdr:VLF5B290394DA48FD4 , bdr:VLFDE9B8C75A37C32A ;
         :instanceOf         bdr:WA2DB25060 ;
         :instanceReproductionOf  bdr:MW2DB25060 , bdr:W2DB25060 ;

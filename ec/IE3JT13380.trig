@@ -39,6 +39,7 @@ bdg:IE3JT13380 {
         skos:prefLabel      "dbu ma 'jug pa'i rnam bshad dwags brgyud grub shing gi tshig 'grel gces btus/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT071DF8E486A877A4 , bdr:TT1405DB0818D8FDB8 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL7736B324E3237AD5 ;
         :instanceOf         bdr:WA3JT13380 ;
         :isRoot             true .

@@ -109,6 +109,7 @@ bdg:IE3JT13352 {
         skos:prefLabel      "sngon byon sa skya pa'i mkhas pa rnams kyi rgyud 'grel skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTD8CF4E03E3E77B69 ;
+        :inCollection       bda:PR0ET004 ;
         :instanceHasVolume  bdr:VL1ADADE7F1CD1881C , bdr:VL2ADF5132D7D907B5 , bdr:VL5069EF0B6122A3AE , bdr:VL5F14D45D3FB9C9FE , bdr:VL6A03371901F82798 , bdr:VL6CC738E734A508EE , bdr:VL7E7B3523554658CD , bdr:VL861BCADB8268EB3D , bdr:VL99723F5228B0BD78 , bdr:VLA2EBF8FA165A37DC , bdr:VLB4BB3641C7D4DBA7 , bdr:VLC0011A9A5B62A1F5 , bdr:VLCC4065B721A0B2B4 , bdr:VLE68AC7DD6FF27835 , bdr:VLFE77B912BFA5293D ;
         :instanceOf         bdr:WA3JT13352 ;
         :isRoot             true .

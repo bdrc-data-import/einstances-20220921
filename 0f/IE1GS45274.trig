@@ -17,7 +17,7 @@ bdg:IE1GS45274 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE1GS45274 ;
         adm:contentProvider  bda:CP009 ;
-        adm:facetIndex      5 ;
+        adm:facetIndex      7 ;
         adm:gitPath         "0f/IE1GS45274.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE1GS45274 ;
@@ -31,24 +31,37 @@ bdg:IE1GS45274 {
     
     bdr:ER537793821A745328
         a                   :EtextRef ;
-        :eTextResource      bdr:UT1GS45274_I1GS66283_0000 ;
+        :eTextResource      bdr:UT1GS45274_I1GS66285_0000 ;
         :seqNum             1 .
     
-    bdr:ER655E5020000FD464
+    bdr:ERAC1F278354E18D9F
         a                   :EtextRef ;
-        :eTextResource      bdr:UT1GS45274_I1GS66285_0000 ;
+        :eTextResource      bdr:UT1GS45274_I1GS66283_0000 ;
         :seqNum             1 .
     
     bdr:IE1GS45274  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :instanceHasVolume  bdr:VLC3FC891FE2FAD5B5 ;
+        :inCollection       bda:PR0ET009 ;
+        :instanceHasVolume  bdr:VL2954979F6E25DEBE , bdr:VL655E5020000FD464 , bdr:VLC3FC891FE2FAD5B5 ;
         :instanceOf         bdr:WA1GS45274 ;
         :instanceReproductionOf  bdr:MW1GS45274 , bdr:W1GS45274 ;
         :isRoot             true .
     
+    bdr:VL2954979F6E25DEBE
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERAC1F278354E18D9F ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE1GS45274 .
+    
+    bdr:VL655E5020000FD464
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER537793821A745328 ;
+        :volumeNumber       3 ;
+        :volumeOf           bdr:IE1GS45274 .
+    
     bdr:VLC3FC891FE2FAD5B5
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER351EA94E83580B27 , bdr:ER537793821A745328 , bdr:ER655E5020000FD464 ;
-        :volumeNumber       1 ;
+        :volumeHasEtext     bdr:ER351EA94E83580B27 ;
+        :volumeNumber       2 ;
         :volumeOf           bdr:IE1GS45274 .
 }

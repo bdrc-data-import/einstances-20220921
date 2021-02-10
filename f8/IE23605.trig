@@ -2111,8 +2111,9 @@ bdg:IE23605 {
     
     bdr:IE23605  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL055614387925EE32 , bdr:VL20F9760AC9E1BA0C , bdr:VL36A7339E18E6CF49 , bdr:VL38DE0CFFA7EA7FE0 , bdr:VL4301B7E97EDF2FCD , bdr:VL478C81BEB4867DA3 , bdr:VL50E02B62B69AF5A9 , bdr:VL584531D1DE14BA70 , bdr:VL5CAB9B19346F9A0B , bdr:VL5EA3EB62772AA6BF , bdr:VL75ED8CEDC659D275 , bdr:VL7896212A3AEABF6F , bdr:VL7D47F9402E1D002B , bdr:VLBD7C4839C0B92B57 , bdr:VLDA53157D0F512B56 , bdr:VLEDC027C36FF32477 , bdr:VLF0956F4655153642 , bdr:VLF20EE31D463E5829 , bdr:VLF6A0F1280C6497EE ;
-        :instanceOf         bdr:WA1PD159424 ;
+        :instanceOf         bdr:WA23605 ;
         :instanceReproductionOf  bdr:MW23605 , bdr:W23605 ;
         :isRoot             true .
     

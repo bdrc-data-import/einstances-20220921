@@ -31,6 +31,7 @@ bdg:IE00KG01521 {
     
     bdr:IE00KG01521  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VLDDE660A84BCF8308 ;
         :instanceOf         bdr:WA00KG01521 ;
         :instanceReproductionOf  bdr:MW00KG01521 , bdr:W00KG01521 ;

@@ -89,6 +89,7 @@ bdg:IE3JT13383 {
         skos:prefLabel      "tshad ma rnam 'grel gyi 'grel pa zur bkol/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT276E05B01C2B59EC , bdr:TT661C819F6E382EE2 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL71FABD43E5B19B3E , bdr:VL8862D45E506F3DCF , bdr:VLC44CE24FD09D2976 ;
         :instanceOf         bdr:WA3JT13383 ;
         :isRoot             true .

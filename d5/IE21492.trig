@@ -36,6 +36,7 @@ bdg:IE21492 {
     
     bdr:IE21492  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET006 ;
         :instanceHasVolume  bdr:VL9B7FCD46F8DA865C ;
         :instanceOf         bdr:WA21492 ;
         :instanceReproductionOf  bdr:MW21492 , bdr:W21492 ;

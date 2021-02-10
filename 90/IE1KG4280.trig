@@ -276,8 +276,9 @@ bdg:IE1KG4280 {
     
     bdr:IE1KG4280  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL8030E131BDAFCAB7 , bdr:VL9DF6A6211803DA47 , bdr:VLDE7E67BBC01E8408 ;
-        :instanceOf         bdr:WA00EGS1016963 ;
+        :instanceOf         bdr:WA1KG4280 ;
         :instanceReproductionOf  bdr:MW1KG4280 , bdr:W1KG4280 ;
         :isRoot             true .
     

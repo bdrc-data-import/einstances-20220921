@@ -391,8 +391,9 @@ bdg:IE21019 {
     
     bdr:IE21019  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET006 ;
         :instanceHasVolume  bdr:VL60B92A8E60067D98 , bdr:VL8B88E643DDA171C4 , bdr:VL962E6A779AED9F35 , bdr:VLAD3FE1B85BCBBFBE , bdr:VLB6C09EEEED3C3DCF , bdr:VLF049460BDEC1F31C , bdr:VLF143B8FF0C4CF1DF , bdr:VLFC92EA8944A05403 ;
-        :instanceOf         bdr:WA21018 ;
+        :instanceOf         bdr:WA21019 ;
         :instanceReproductionOf  bdr:MW21019 , bdr:W21019 ;
         :isRoot             true .
     

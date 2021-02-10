@@ -39,6 +39,7 @@ bdg:IE3JT13336 {
         skos:prefLabel      "sgrol ma g.yul bzlog bltas chog tu bkod pa bden 'bras myur ston/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTDA0D78BD09836ED7 , bdr:TTF52D9F1AAAF27992 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VLFE0BFFC3BE1B088B ;
         :instanceOf         bdr:WA3JT13336 ;
         :isRoot             true .

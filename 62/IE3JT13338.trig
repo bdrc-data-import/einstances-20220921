@@ -59,6 +59,7 @@ bdg:IE3JT13338 {
         skos:prefLabel      "bka' brgyud mgur tshogs/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT34125F455230ACD2 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL08A4EDEE9E73DE38 , bdr:VL9A3981B00564121D , bdr:VL9C966BA1C1358CCB , bdr:VLC50A608E6D8FDE0A , bdr:VLF07E272015389B3E ;
         :instanceOf         bdr:WA3JT13338 ;
         :isRoot             true .

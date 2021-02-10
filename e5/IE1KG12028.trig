@@ -41,6 +41,7 @@ bdg:IE1KG12028 {
     
     bdr:IE1KG12028  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL0A64B6A7034A2D99 , bdr:VL0D214DF5C00AAE80 , bdr:VLF27E3EF5CE415641 ;
         :instanceOf         bdr:WA1KG12028 ;
         :instanceReproductionOf  bdr:MW1KG12028 , bdr:W1KG12028 ;

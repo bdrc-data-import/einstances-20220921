@@ -114,6 +114,7 @@ bdg:IE3JT13372 {
         skos:prefLabel      "dbu ma 'jug pa'i rang 'grel dang sa bcad skal bzang sgron me mnyam du sbyar ba/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTBAE348574B7A76C6 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLDE59FA032142F46D ;
         :instanceOf         bdr:WA3JT13372 ;
         :isRoot             true .

@@ -31,6 +31,7 @@ bdg:IE21923 {
     
     bdr:IE21923  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VLBCE8267B3D3D3B78 ;
         :instanceOf         bdr:WA21923 ;
         :instanceReproductionOf  bdr:MW21923 , bdr:W21923 ;

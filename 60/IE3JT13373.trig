@@ -184,6 +184,7 @@ bdg:IE3JT13373 {
         skos:prefLabel      "kaM tshang bka' brgyud gser phreng /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT3903946EE93B2F77 , bdr:TT72CFBFAB47630FB5 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL5682B09A6C40AC81 , bdr:VLE62DDF642C59A1BB ;
         :instanceOf         bdr:WA3JT13373 ;
         :isRoot             true .

@@ -66,6 +66,7 @@ bdg:IE1KG5478 {
     
     bdr:IE1KG5478  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLB9F4F3948DEEE662 ;
         :instanceOf         bdr:WA1KG5478 ;
         :instanceReproductionOf  bdr:MW1KG5478 , bdr:W1KG5478 ;

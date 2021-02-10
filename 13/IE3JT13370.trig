@@ -49,6 +49,7 @@ bdg:IE3JT13370 {
         skos:prefLabel      "phyag chen lhan cig skyes sbyor gyi skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT9EC314675AD93968 , bdr:TTF849C09283978D94 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL290144741DD1B1A3 ;
         :instanceOf         bdr:WA3JT13370 ;
         :isRoot             true .

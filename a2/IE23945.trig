@@ -31,6 +31,7 @@ bdg:IE23945 {
     
     bdr:IE23945  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET006 ;
         :instanceHasVolume  bdr:VLC74F7EEF90835AC7 ;
         :instanceOf         bdr:WA23945 ;
         :instanceReproductionOf  bdr:MW23945 , bdr:W23945 ;

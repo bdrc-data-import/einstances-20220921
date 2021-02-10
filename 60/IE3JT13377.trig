@@ -44,6 +44,7 @@ bdg:IE3JT13377 {
         skos:prefLabel      "ma yi drin lan bshags mdo dang /_sdom pa nyer lnga pa/_blang dor bzhi bcu zhe gnyis bcas/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT4FA6D0217DA10A78 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLBEA7289AE94F57CC ;
         :instanceOf         bdr:WA3JT13377 ;
         :isRoot             true .

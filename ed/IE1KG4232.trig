@@ -31,6 +31,7 @@ bdg:IE1KG4232 {
     
     bdr:IE1KG4232  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL4F87C18B66DECE1F ;
         :instanceOf         bdr:WA1KG4232 ;
         :instanceReproductionOf  bdr:MW1KG4232 , bdr:W1KG4232 ;

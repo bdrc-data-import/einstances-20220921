@@ -36,6 +36,7 @@ bdg:IE1KG11909 {
     
     bdr:IE1KG11909  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL1C3A3199A598AC02 , bdr:VLFD24815BE254F22D ;
         :instanceOf         bdr:WA1KG11909 ;
         :instanceReproductionOf  bdr:MW1KG11909 , bdr:W1KG11909 ;

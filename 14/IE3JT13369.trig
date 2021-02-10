@@ -59,6 +59,7 @@ bdg:IE3JT13369 {
         skos:prefLabel      "phyag rgya chen po'i man ngag gi bshad sbyar rgyal ba'i gan mdzod/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTFAB0CDA7AAD0B48C ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLD035D151EC82D7B1 ;
         :instanceOf         bdr:WA3JT13369 ;
         :isRoot             true .

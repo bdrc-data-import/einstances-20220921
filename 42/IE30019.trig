@@ -17,14 +17,14 @@ bdg:IE30019 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE30019 ;
         adm:contentProvider  bda:CP009 ;
-        adm:facetIndex      4 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "42/IE30019.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE30019 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER11F9C6FF91FC90A5
+    bdr:ER527A571B6CF49459
         a                   :EtextRef ;
         :eTextResource      bdr:UT30019_5749_0000 ;
         :seqNum             1 .
@@ -36,14 +36,21 @@ bdg:IE30019 {
     
     bdr:IE30019  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :instanceHasVolume  bdr:VLEFA36221B9019703 ;
+        :inCollection       bda:PR0ET009 ;
+        :instanceHasVolume  bdr:VL11F9C6FF91FC90A5 , bdr:VLEFA36221B9019703 ;
         :instanceOf         bdr:WA30019 ;
         :instanceReproductionOf  bdr:MW30019 , bdr:W30019 ;
         :isRoot             true .
     
+    bdr:VL11F9C6FF91FC90A5
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER527A571B6CF49459 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE30019 .
+    
     bdr:VLEFA36221B9019703
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER11F9C6FF91FC90A5 , bdr:ERC6F09FE68C413CDA ;
-        :volumeNumber       1 ;
+        :volumeHasEtext     bdr:ERC6F09FE68C413CDA ;
+        :volumeNumber       2 ;
         :volumeOf           bdr:IE30019 .
 }

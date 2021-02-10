@@ -31,6 +31,7 @@ bdg:IE1CZ2258 {
     
     bdr:IE1CZ2258  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VLAB53A1055921BFFF ;
         :instanceOf         bdr:WA1CZ2258 ;
         :instanceReproductionOf  bdr:MW1CZ2258 , bdr:W1CZ2258 ;

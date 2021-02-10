@@ -31,6 +31,7 @@ bdg:IE17319 {
     
     bdr:IE17319  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VLA339C490DB518B0B ;
         :instanceOf         bdr:WA17319 ;
         :instanceReproductionOf  bdr:MW17319 , bdr:W17319 ;

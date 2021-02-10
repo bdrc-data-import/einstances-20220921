@@ -74,6 +74,7 @@ bdg:IE3JT13378 {
         skos:prefLabel      "mngon rtogs rgyan gyi sa bcad snang byed sgron me gzhung dang bcas pa dang / sher phyin skabs brgyad kyi stong thun/ dbu ma chos dbyings bstod pa'i rnam bshad bcas/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT67F5898F09375482 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLF134B67DD9205769 ;
         :instanceOf         bdr:WA3JT13378 ;
         :isRoot             true .

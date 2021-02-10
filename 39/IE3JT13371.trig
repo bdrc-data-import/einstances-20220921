@@ -84,6 +84,7 @@ bdg:IE3JT13371 {
         skos:prefLabel      "'dul ba me tog phreng rgyud/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT1846F78C814A24AF , bdr:TTB1F9ABEB34BD508C ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLDDABA62597AD037A ;
         :instanceOf         bdr:WA3JT13371 ;
         :isRoot             true .

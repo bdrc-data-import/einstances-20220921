@@ -94,6 +94,7 @@ bdg:IE3JT13299 {
         skos:prefLabel      "'bri khung pa khu dbon gsum gyi rnam thar dang dgongs gcig gi skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT083F8430345E8531 , bdr:TT9E909A2C01154A80 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL0A6B7B7AD823C73A , bdr:VL0B0DD4655BD23CC8 , bdr:VL10FC0D1B5370C06B , bdr:VL13C37C9FE9B94C23 , bdr:VL2516D01936E539B2 , bdr:VL5590369DC98073B3 , bdr:VL711F9E625C8B6357 , bdr:VL763D201565AAC673 , bdr:VL9AAF0D2C03DB1150 , bdr:VLCCB406DE5A8DD922 , bdr:VLCEE71B36174D0832 , bdr:VLFAF6696BD2B5B560 ;
         :instanceOf         bdr:WA3JT13299 ;
         :isRoot             true .

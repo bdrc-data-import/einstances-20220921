@@ -39,6 +39,7 @@ bdg:IE3JT13382 {
         skos:prefLabel      "sher phyin mngon rtogs rgyan gyi tshig 'grel zur bkol/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT1530096A51A26010 , bdr:TTA628002206B3C5D6 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL00B1BF7447A29185 ;
         :instanceOf         bdr:WA3JT13382 ;
         :isRoot             true .

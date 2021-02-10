@@ -31,6 +31,7 @@ bdg:IE1CZ2485 {
     
     bdr:IE1CZ2485  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL790698AD9F9DEAE4 ;
         :instanceOf         bdr:WA1CZ2485 ;
         :instanceReproductionOf  bdr:MW1CZ2485 , bdr:W1CZ2485 ;

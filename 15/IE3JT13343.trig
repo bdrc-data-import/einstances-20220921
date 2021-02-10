@@ -59,6 +59,7 @@ bdg:IE3JT13343 {
         skos:prefLabel      "rtsa gsum bka' srung bcas kyi gtor bsngos sogs chos tshan lnga /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT9011E7B880A34655 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL436900A12DD0D731 , bdr:VL44279EAEE03C78BA , bdr:VL4C594EE8AA8834DC , bdr:VL82F1CE9CC3ED4A10 , bdr:VLA23FAD787BEB5A42 ;
         :instanceOf         bdr:WA3JT13343 ;
         :isRoot             true .

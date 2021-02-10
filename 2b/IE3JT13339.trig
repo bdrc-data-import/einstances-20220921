@@ -49,6 +49,7 @@ bdg:IE3JT13339 {
         skos:prefLabel      "brgya bzhi'i cho ga"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT2FA082D3B3F201A5 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL60539F12859ECB05 , bdr:VLBD9768A9BD28C1F3 , bdr:VLBD9B655D16788DDC ;
         :instanceOf         bdr:WA3JT13339 ;
         :isRoot             true .

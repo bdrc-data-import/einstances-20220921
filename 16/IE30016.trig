@@ -17,14 +17,14 @@ bdg:IE30016 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE30016 ;
         adm:contentProvider  bda:CP009 ;
-        adm:facetIndex      4 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "16/IE30016.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE30016 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
-    bdr:ER2BEA1552CDA55742
+    bdr:ERB41A4F066164C380
         a                   :EtextRef ;
         :eTextResource      bdr:UT30016_5758_0000 ;
         :seqNum             1 .
@@ -36,14 +36,21 @@ bdg:IE30016 {
     
     bdr:IE30016  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :instanceHasVolume  bdr:VL125E984123193381 ;
+        :inCollection       bda:PR0ET009 ;
+        :instanceHasVolume  bdr:VL125E984123193381 , bdr:VL2BEA1552CDA55742 ;
         :instanceOf         bdr:WA30016 ;
         :instanceReproductionOf  bdr:MW30016 , bdr:W30016 ;
         :isRoot             true .
     
     bdr:VL125E984123193381
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER2BEA1552CDA55742 , bdr:ERFB14B4D48C072F55 ;
+        :volumeHasEtext     bdr:ERFB14B4D48C072F55 ;
         :volumeNumber       1 ;
+        :volumeOf           bdr:IE30016 .
+    
+    bdr:VL2BEA1552CDA55742
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERB41A4F066164C380 ;
+        :volumeNumber       2 ;
         :volumeOf           bdr:IE30016 .
 }

@@ -230,6 +230,7 @@ bdg:IE3JT13304 {
         skos:prefLabel      "phar phyin skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT5C34239948BC5023 , bdr:TT96379C2271F63F6D , bdr:TTFDCB4F1F9A87B8C1 ;
+        :inCollection       bda:PR0ET004 ;
         :instanceHasVolume  bdr:VL5C34239948BC5023 ;
         :instanceOf         bdr:WA3JT13304 ;
         :isRoot             true .

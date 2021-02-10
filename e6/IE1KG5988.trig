@@ -601,8 +601,9 @@ bdg:IE1KG5988 {
     
     bdr:IE1KG5988  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL8F19D0B0408668CD ;
-        :instanceOf         bdr:WA1KG12113 ;
+        :instanceOf         bdr:WA1KG5988 ;
         :instanceReproductionOf  bdr:MW1KG5988 , bdr:W1KG5988 ;
         :isRoot             true .
     

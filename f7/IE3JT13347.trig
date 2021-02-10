@@ -44,6 +44,7 @@ bdg:IE3JT13347 {
         skos:prefLabel      "rten la nang gzhug 'bul ba'i lag len dang / rgyal sras lag len so bdun ma/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT58C83779FF527F9F , bdr:TT8DF432250A1037C1 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL29D41809D7CB40BD ;
         :instanceOf         bdr:WA3JT13347 ;
         :isRoot             true .

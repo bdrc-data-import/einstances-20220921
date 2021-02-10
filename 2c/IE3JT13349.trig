@@ -79,6 +79,7 @@ bdg:IE3JT13349 {
         skos:prefLabel      "gsung 'bum/ rin chen phun tshogs chos kyi rgyal po/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTADE3C4DE7F9F0D21 , bdr:TTCC874F4586A86949 ;
+        :inCollection       bda:PR0ET002 ;
         :instanceHasVolume  bdr:VL402376D387B9470A ;
         :instanceOf         bdr:WA3JT13349 ;
         :isRoot             true .

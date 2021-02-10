@@ -36,6 +36,7 @@ bdg:IE23926 {
     
     bdr:IE23926  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET006 ;
         :instanceHasVolume  bdr:VL489315D5375619AF , bdr:VLEAD0419A86E7A848 ;
         :instanceOf         bdr:WA23926 ;
         :instanceReproductionOf  bdr:MW23926 , bdr:W23926 ;

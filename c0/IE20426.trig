@@ -17,33 +17,40 @@ bdg:IE20426 {
         adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE20426 ;
         adm:contentProvider  bda:CP009 ;
-        adm:facetIndex      4 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "c0/IE20426.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE20426 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
+    bdr:ER08B4D573A8B6019D
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT20426_4987_0000 ;
+        :seqNum             1 .
+    
     bdr:ERDF38DA5E385ADCEF
         a                   :EtextRef ;
         :eTextResource      bdr:UT20426_4988_0000 ;
         :seqNum             1 .
     
-    bdr:ERE4BD402BAEF3C1F8
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT20426_4987_0000 ;
-        :seqNum             1 .
-    
     bdr:IE20426  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :instanceHasVolume  bdr:VLEB10F9BB0EEBE612 ;
+        :inCollection       bda:PR0ET009 ;
+        :instanceHasVolume  bdr:VLE4BD402BAEF3C1F8 , bdr:VLEB10F9BB0EEBE612 ;
         :instanceOf         bdr:WA20426 ;
         :instanceReproductionOf  bdr:MW20426 , bdr:W20426 ;
         :isRoot             true .
     
+    bdr:VLE4BD402BAEF3C1F8
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER08B4D573A8B6019D ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE20426 .
+    
     bdr:VLEB10F9BB0EEBE612
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERDF38DA5E385ADCEF , bdr:ERE4BD402BAEF3C1F8 ;
-        :volumeNumber       1 ;
+        :volumeHasEtext     bdr:ERDF38DA5E385ADCEF ;
+        :volumeNumber       2 ;
         :volumeOf           bdr:IE20426 .
 }

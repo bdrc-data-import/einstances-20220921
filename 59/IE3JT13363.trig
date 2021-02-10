@@ -274,6 +274,7 @@ bdg:IE3JT13363 {
         skos:prefLabel      "dbu ma'i skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT4B9B93866CF0BD18 , bdr:TT57D2C49512BE09CA ;
+        :inCollection       bda:PR0ET004 ;
         :instanceHasVolume  bdr:VLD5827E14F981933A ;
         :instanceOf         bdr:WA3JT13363 ;
         :isRoot             true .

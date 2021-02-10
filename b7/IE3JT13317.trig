@@ -40,6 +40,7 @@ bdg:IE3JT13317 {
         skos:prefLabel      "gcod kyi tshogs las yon tan kun 'byung gsungs rgyun 'khrul med ltar bkod pa/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTFF249108A9AAFA91 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VLFF249108A9AAFA91 ;
         :instanceOf         bdr:WA3JT13317 ;
         :isRoot             true .

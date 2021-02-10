@@ -39,6 +39,7 @@ bdg:IE3JT13381 {
         skos:prefLabel      "gsung thor bu/ karma blo gros chos dpal bzang po/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT06505237CB291644 , bdr:TTB8B488701E69F292 ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VLAED140E6B60187E9 ;
         :instanceOf         bdr:WA3JT13381 ;
         :isRoot             true .

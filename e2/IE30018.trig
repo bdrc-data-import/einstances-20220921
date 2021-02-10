@@ -31,6 +31,7 @@ bdg:IE30018 {
     
     bdr:IE30018  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL6CC976EA6A332A7B ;
         :instanceOf         bdr:WA30018 ;
         :instanceReproductionOf  bdr:MW30018 , bdr:W30018 ;

@@ -1216,6 +1216,7 @@ bdg:IE21888 {
     
     bdr:IE21888  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :inCollection       bda:PR0ET006 ;
         :instanceHasVolume  bdr:VL131AE1381202E1D0 , bdr:VL23BD674D95BF7BDD , bdr:VL6FA31E44EAD3142D , bdr:VL99C0B8CE757E9C7A ;
         :instanceOf         bdr:WA21888 ;
         :instanceReproductionOf  bdr:MW21888 , bdr:W21888 ;

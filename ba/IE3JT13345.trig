@@ -39,6 +39,7 @@ bdg:IE3JT13345 {
         skos:prefLabel      "rgya chen bka' mdzod kyi dkar chag"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTCFE1A6CD972251C5 ;
+        :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL1BD8B44398A1A46D ;
         :instanceOf         bdr:WA3JT13345 ;
         :isRoot             true .

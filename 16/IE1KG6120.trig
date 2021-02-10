@@ -31,6 +31,7 @@ bdg:IE1KG6120 {
     
     bdr:IE1KG6120  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
+        :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VLA6029C1867625AE9 ;
         :instanceOf         bdr:WA1KG6120 ;
         :instanceReproductionOf  bdr:MW1KG6120 , bdr:W1KG6120 ;

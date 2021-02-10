@@ -39,6 +39,7 @@ bdg:IE3JT13376 {
         skos:prefLabel      "mngon pa mdzod kyi 'grel pa dbyig gnyen zhal lung /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT535A85CE564DBA04 , bdr:TTF0ACDA2AA9FC119E ;
+        :inCollection       bda:PR0ET010 ;
         :instanceHasVolume  bdr:VL148DF01EADEE9347 ;
         :instanceOf         bdr:WA3JT13376 ;
         :isRoot             true .
