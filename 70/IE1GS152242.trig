@@ -19,7 +19,7 @@ bdg:IE1GS152242 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE1GS152242 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
-        adm:status          bda:StatusOnHold .
+        adm:status          bda:StatusReleased .
     
     bda:LG27A2257782CE8D92
         a                   adm:UpdateOutlineData ;
