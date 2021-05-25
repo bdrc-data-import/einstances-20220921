@@ -14,7 +14,7 @@
 bdg:IE22393 {
     bda:IE22393  a          adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessRestrictedByQuality ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE22393 ;
         adm:contentProvider  bda:CP001 ;
         adm:facetIndex      41 ;
