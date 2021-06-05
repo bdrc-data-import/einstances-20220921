@@ -14,9 +14,7 @@
 bdg:IE3JT13379 {
     bda:IE3JT13379  a       adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13379 ;
-        adm:contentProvider  bda:CP010 ;
         adm:gitPath         "b2/IE3JT13379.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13379 ;
@@ -26,21 +24,13 @@ bdg:IE3JT13379 {
     bda:W3JT13379  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13379 ;
-        adm:facetIndex      5 ;
+        adm:facetIndex      3 ;
         adm:replaceWith     bdr:IE3JT13379 ;
         adm:status          bda:StatusWithdrawn .
     
-    bdr:ER83D27468BF71AEA0
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13379_001_0001 ;
-        :seqNum             1 .
-    
     bdr:IE3JT13379  a       :EtextInstance ;
         skos:prefLabel      "spyod 'jug gi tshig 'grel gces btus/"@bo-x-ewts ;
-        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT65B64B9F5465CE6F , bdr:TT7C63FC92276D703A ;
-        :inCollection       bda:PR0ET010 ;
-        :instanceHasVolume  bdr:VLA5D33F5C2D331975 ;
         :instanceOf         bdr:WA3JT13379 ;
         :isRoot             true .
     
@@ -51,10 +41,4 @@ bdg:IE3JT13379 {
     bdr:TT7C63FC92276D703A
         a                   :TitlePageTitle ;
         rdfs:label          "byang chub sems dpa'i spyod pa la 'jug pa'i tshig 'grel gces btus/"@bo-x-ewts .
-    
-    bdr:VLA5D33F5C2D331975
-        a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER83D27468BF71AEA0 ;
-        :volumeNumber       1 ;
-        :volumeOf           bdr:IE3JT13379 .
 }

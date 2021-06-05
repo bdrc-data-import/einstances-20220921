@@ -14,10 +14,8 @@
 bdg:IE3JT13321 {
     bda:IE3JT13321  a       adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13321 ;
-        adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      5 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "59/IE3JT13321.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13321 ;
@@ -30,17 +28,9 @@ bdg:IE3JT13321 {
         adm:replaceWith     bdr:IE3JT13321 ;
         adm:status          bda:StatusWithdrawn .
     
-    bdr:ERBC5CDDE5294A3BB2
-        a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13321_001_0000 ;
-        :seqNum             1 .
-    
     bdr:IE3JT13321  a       :EtextInstance ;
         skos:prefLabel      "nges don phyag rgya chen po'i smon lam gyi 'grel chung bdud rtsi'i bum bzang /"@bo-x-ewts ;
-        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT0E7ED739DDDDB206 , bdr:TTFEC23418F0D9C099 ;
-        :inCollection       bda:PR0ET001 ;
-        :instanceHasVolume  bdr:VLABD0C550C0178CFD ;
         :instanceOf         bdr:WA3JT13321 ;
         :isRoot             true .
     
@@ -51,10 +41,4 @@ bdg:IE3JT13321 {
     bdr:TTFEC23418F0D9C099
         a                   :Title ;
         rdfs:label          "nges don phyag rgya chen po'i smon lam gyi 'grel chung bdud rtsi'i bum bzang /"@bo-x-ewts .
-    
-    bdr:VLABD0C550C0178CFD
-        a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERBC5CDDE5294A3BB2 ;
-        :volumeNumber       1 ;
-        :volumeOf           bdr:IE3JT13321 .
 }
