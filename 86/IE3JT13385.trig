@@ -14,8 +14,10 @@
 bdg:IE3JT13385 {
     bda:IE3JT13385  a       adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13385 ;
-        adm:facetIndex      3 ;
+        adm:contentProvider  bda:CP006 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "86/IE3JT13385.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13385 ;
@@ -28,9 +30,17 @@ bdg:IE3JT13385 {
         adm:replaceWith     bdr:IE3JT13385 ;
         adm:status          bda:StatusWithdrawn .
     
+    bdr:ER3EC571693D7D267B
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13385_001_0001 ;
+        :seqNum             1 .
+    
     bdr:IE3JT13385  a       :EtextInstance ;
         skos:prefLabel      "'pho ba'i gdams ngag gi 'grel pa/"@bo-x-ewts ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTCB874CBF94A505D4 , bdr:TTF88E7D82F65CE113 ;
+        :inCollection       bda:PR0ET006 ;
+        :instanceHasVolume  bdr:VLBE1FFF7E0F3CA18D ;
         :instanceOf         bdr:WA3JT13385 ;
         :isRoot             true .
     
@@ -41,4 +51,10 @@ bdg:IE3JT13385 {
     bdr:TTF88E7D82F65CE113
         a                   :Title ;
         rdfs:label          "'pho ba'i gdams ngag gi 'grel pa/"@bo-x-ewts .
+    
+    bdr:VLBE1FFF7E0F3CA18D
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ER3EC571693D7D267B ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13385 .
 }

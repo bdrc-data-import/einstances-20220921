@@ -14,8 +14,10 @@
 bdg:IE3JT13381 {
     bda:IE3JT13381  a       adm:AdminData ;
         :isRoot             true ;
+        adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13381 ;
-        adm:facetIndex      3 ;
+        adm:contentProvider  bda:CP010 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "de/IE3JT13381.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13381 ;
@@ -28,9 +30,17 @@ bdg:IE3JT13381 {
         adm:replaceWith     bdr:IE3JT13381 ;
         adm:status          bda:StatusWithdrawn .
     
+    bdr:ERB5733101073294D9
+        a                   :EtextRef ;
+        :eTextResource      bdr:UT3JT13381_001_0001 ;
+        :seqNum             1 .
+    
     bdr:IE3JT13381  a       :EtextInstance ;
         skos:prefLabel      "gsung thor bu/ karma blo gros chos dpal bzang po/"@bo-x-ewts ;
+        :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT06505237CB291644 , bdr:TTB8B488701E69F292 ;
+        :inCollection       bda:PR0ET010 ;
+        :instanceHasVolume  bdr:VLAED140E6B60187E9 ;
         :instanceOf         bdr:WA3JT13381 ;
         :isRoot             true .
     
@@ -41,4 +51,10 @@ bdg:IE3JT13381 {
     bdr:TTB8B488701E69F292
         a                   :TitlePageTitle ;
         rdfs:label          "karma blo gros chos dpal bzang po'i gsung rtsom thor bu phyogs bsdus/"@bo-x-ewts .
+    
+    bdr:VLAED140E6B60187E9
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERB5733101073294D9 ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13381 .
 }
