@@ -92,7 +92,7 @@ bdg:IE3JT13325 {
     
     bdr:NTA2BEB6CB4A9DC80F
         a                   :Note ;
-        :noteText           "1) phyag rgya chen po'i man ngag thog babs dang mgur 'bum rnams/\n2) phyag rgya chen po gsal byed kyi man ngag /\n3) phyag rgya chen po bsam gyis mi khyab pa'i sgom rim/\n4) snying po don gyi gdams pa phyag rgya chen po'i 'bum tig\n5) phyag rgya chen po'i rtsa ba la ngo sprad pa zhes kyang bya/ snang ba lam 'khyer gyi rtogs pa cig chog ces kyang bya/ phyag rgya chen po gnyug ma mi 'gyur zhes kyang bya/\n6) snying po'i ngo sprod don dam gter mdzod/\n7) rnam rtog don dam gyi ngo sprod/\n8) sgrub pa snying gi ngo sprod/\n9) mdo sngags kyi sgom don bsdus pa/\n10) sems kyi mtshan nyid gab pa mngon du phyung ba/"@en .
+        :noteText           "1) phyag rgya chen po'i man ngag thog babs dang mgur 'bum rnams/\n2) phyag rgya chen po gsal byed kyi man ngag /\n3) phyag rgya chen po bsam gyis mi khyab pa'i sgom rim/\n4) snying po don gyi gdams pa phyag rgya chen po'i 'bum tig\n5) phyag rgya chen po'i rtsa ba la ngo sprad pa zhes kyang bya/ snang ba lam 'khyer gyi rtogs pa cig chog ces kyang bya/ phyag rgya chen po gnyug ma mi 'gyur zhes kyang bya/\n6) snying po'i ngo sprod don dam gter mdzod/\n7) rnam rtog don dam gyi ngo sprod/\n8) sgrub pa snying gi ngo sprod/\n9) mdo sngags kyi sgom don bsdus pa/\n10) sems kyi mtshan nyid gab pa mngon du phyung ba/"@bo-x-ewts .
     
     bdr:TT15E47FDA60607D0F
         a                   :Title ;
