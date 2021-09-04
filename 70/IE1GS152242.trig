@@ -1301,8 +1301,7 @@ bdg:IE1GS152242 {
         :partIndex          14 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.14" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1347 , bdr:T454 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_007194
         a                   :Instance ;
@@ -1315,9 +1314,7 @@ bdg:IE1GS152242 {
         :partIndex          27 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.27" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T793 ;
-        :workIsAbout        bdr:T634 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_0090DA
         a                   :Instance ;
@@ -1330,8 +1327,7 @@ bdg:IE1GS152242 {
         :partIndex          24 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.24" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1PD106850 , bdr:T871 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_0137E7
         a                   :Instance ;
@@ -1344,9 +1340,7 @@ bdg:IE1GS152242 {
         :partIndex          11 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.11" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA22213 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_02BECC
         a                   :Instance ;
@@ -1359,9 +1353,7 @@ bdg:IE1GS152242 {
         :partIndex          6 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.06" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T457 ;
-        :workIsAbout        bdr:T417 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_03FC8A
         a                   :Instance ;
@@ -1374,8 +1366,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.17" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T104 , bdr:T2517 , bdr:T417 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_04AAC8
         a                   :Instance ;
@@ -1401,8 +1392,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.17" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1297 , bdr:T475 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_060F15
         a                   :Instance ;
@@ -1417,8 +1407,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.17" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1237 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_073142
         a                   :Instance ;
@@ -1444,8 +1433,7 @@ bdg:IE1GS152242 {
         :partIndex          26 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.26" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1751 , bdr:T386 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_09292B
         a                   :Instance ;
@@ -1458,8 +1446,7 @@ bdg:IE1GS152242 {
         :partIndex          20 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.20" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1610 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_09B979
         a                   :Instance ;
@@ -1474,8 +1461,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.05" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T104 , bdr:T4 , bdr:T417 , bdr:T423 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_0AE64E
         a                   :Instance ;
@@ -1489,9 +1475,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.18" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T3JT5054 ;
-        :workIsAbout        bdr:WA22213 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_0C1612
         a                   :Instance ;
@@ -1505,8 +1489,7 @@ bdg:IE1GS152242 {
         :partIndex          29 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.29" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T218 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_0EE188
         a                   :Instance ;
@@ -1521,9 +1504,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.09" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T11 , bdr:T34 ;
-        :workIsAbout        bdr:T2001 , bdr:T2180 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_0EF967
         a                   :Instance ;
@@ -1560,9 +1541,7 @@ bdg:IE1GS152242 {
         :partIndex          6 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.06" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T5 ;
-        :workIsAbout        bdr:T418 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1103DC
         a                   :Instance ;
@@ -1575,8 +1554,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.18" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T10MS14575 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1171F4
         a                   :Instance ;
@@ -1602,9 +1580,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA4CZ15240 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_13E365
         a                   :Instance ;
@@ -1619,9 +1595,7 @@ bdg:IE1GS152242 {
         :partIndex          11 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.11" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T529 ;
-        :workIsAbout        bdr:T2GS223 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_13F5AD
         a                   :Instance ;
@@ -1634,9 +1608,7 @@ bdg:IE1GS152242 {
         :partIndex          6 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.06" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T933 ;
-        :workIsAbout        bdr:T1725 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_148726
         a                   :Instance ;
@@ -1650,9 +1622,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.09" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T2341 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_14FB97
         a                   :Instance ;
@@ -1665,8 +1635,7 @@ bdg:IE1GS152242 {
         :partIndex          25 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.25" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T58 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_169F71
         a                   :Instance ;
@@ -1680,8 +1649,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_17715E
         a                   :Instance ;
@@ -1694,8 +1662,7 @@ bdg:IE1GS152242 {
         :partIndex          21 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.21" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_17C61E
         a                   :Instance ;
@@ -1710,9 +1677,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA19716 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1838DE
         a                   :Instance ;
@@ -1725,8 +1690,7 @@ bdg:IE1GS152242 {
         :partIndex          13 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.13" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T00JR980 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_18CD8D
         a                   :Instance ;
@@ -1752,9 +1716,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.15" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T151 ;
-        :workIsAbout        bdr:T976 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1BEC1C
         a                   :Instance ;
@@ -1767,9 +1729,7 @@ bdg:IE1GS152242 {
         :partIndex          26 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.26" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T96 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1C5FC1
         a                   :Instance ;
@@ -1795,9 +1755,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.17" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T11 ;
-        :workIsAbout        bdr:T2019 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1E3FB8
         a                   :Instance ;
@@ -1810,8 +1768,7 @@ bdg:IE1GS152242 {
         :partIndex          11 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.11" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1208 , bdr:T198 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1E586C
         a                   :Instance ;
@@ -1824,8 +1781,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.15" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T438 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_1FE8B8
         a                   :Instance ;
@@ -1838,8 +1794,7 @@ bdg:IE1GS152242 {
         :partIndex          22 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.22" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T19 , bdr:T401 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_202084
         a                   :Instance ;
@@ -1852,8 +1807,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.16" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1028 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_210A10
         a                   :Instance ;
@@ -1867,8 +1821,7 @@ bdg:IE1GS152242 {
         :partIndex          24 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.24" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T3JT5054 , bdr:T769 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_22A73D
         a                   :Instance ;
@@ -1881,8 +1834,7 @@ bdg:IE1GS152242 {
         :partIndex          13 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.13" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1439 , bdr:T19 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_23EE13
         a                   :Instance ;
@@ -1895,8 +1847,7 @@ bdg:IE1GS152242 {
         :partIndex          10 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.10" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T19 , bdr:T198 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_257B12
         a                   :Instance ;
@@ -1909,9 +1860,7 @@ bdg:IE1GS152242 {
         :partIndex          7 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.07" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA4CZ15645 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_26263E
         a                   :Instance ;
@@ -1924,8 +1873,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.17" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T9 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_26D40A
         a                   :Instance ;
@@ -1939,9 +1887,7 @@ bdg:IE1GS152242 {
         :partIndex          8 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.08" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T1361 , bdr:T2627 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_2770BF
         a                   :Instance ;
@@ -1955,8 +1901,7 @@ bdg:IE1GS152242 {
         :partIndex          25 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.25" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1783 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_29C669
         a                   :Instance ;
@@ -1981,8 +1926,7 @@ bdg:IE1GS152242 {
         :partIndex          22 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.22" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T15 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_2B824F
         a                   :Instance ;
@@ -2010,9 +1954,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_46F88E ;
         :partTreeIndex      "01.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T1338 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_2EE467
         a                   :Instance ;
@@ -2025,8 +1967,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.16" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T2397 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_2F7591
         a                   :Instance ;
@@ -2041,9 +1982,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.05" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA19716 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_30E17D
         a                   :Instance ;
@@ -2056,9 +1995,7 @@ bdg:IE1GS152242 {
         :partIndex          10 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.10" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T2176 ;
-        :workIsAbout        bdr:T80 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_316A85
         a                   :Instance ;
@@ -2071,9 +2008,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.09" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T423 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_324F4B
         a                   :Instance ;
@@ -2086,8 +2021,7 @@ bdg:IE1GS152242 {
         :partIndex          21 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.21" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1447 , bdr:T2549 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_331DF9
         a                   :Instance ;
@@ -2102,8 +2036,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.18" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1721 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_333C60
         a                   :Instance ;
@@ -2146,8 +2079,7 @@ bdg:IE1GS152242 {
         :partIndex          7 ;
         :partOf             bdr:MW1GS152242_46F88E ;
         :partTreeIndex      "01.07" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T164 , bdr:T418 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_37111B
         a                   :Instance ;
@@ -2175,8 +2107,7 @@ bdg:IE1GS152242 {
         :partIndex          10 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.10" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T238 , bdr:T34 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_39765F
         a                   :Instance ;
@@ -2191,9 +2122,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T304 ;
-        :workIsAbout        bdr:WA22950 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_3A18DB
         a                   :Instance ;
@@ -2208,8 +2137,7 @@ bdg:IE1GS152242 {
         :partIndex          8 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.08" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:WA22919 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_3D1977
         a                   :Instance ;
@@ -2235,8 +2163,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_3FC696
         a                   :Instance ;
@@ -2250,9 +2177,7 @@ bdg:IE1GS152242 {
         :partIndex          6 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.06" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA19716 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_44EB9B
         a                   :Instance ;
@@ -2265,8 +2190,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.15" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T541 , bdr:T58 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_451FBE
         a                   :Instance ;
@@ -2279,8 +2203,7 @@ bdg:IE1GS152242 {
         :partIndex          14 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.14" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T282 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_458A64
         a                   :Instance ;
@@ -2295,8 +2218,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.16" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1783 , bdr:T2247 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_45CDAF
         a                   :Instance ;
@@ -2309,8 +2231,7 @@ bdg:IE1GS152242 {
         :partIndex          13 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.13" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T15 , bdr:T423 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_46F88E
         a                   :Instance ;
@@ -2350,8 +2271,7 @@ bdg:IE1GS152242 {
         :partIndex          3 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.03" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_48F761
         a                   :Instance ;
@@ -2364,8 +2284,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.16" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T140 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_4AD5C3
         a                   :Instance ;
@@ -2378,8 +2297,7 @@ bdg:IE1GS152242 {
         :partIndex          19 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.19" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T104 , bdr:T1219 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_4B7BE5
         a                   :Instance ;
@@ -2392,8 +2310,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.18" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T177 , bdr:T417 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_4E218E
         a                   :Instance ;
@@ -2406,8 +2323,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_4E465F
         a                   :Instance ;
@@ -2420,9 +2336,7 @@ bdg:IE1GS152242 {
         :partIndex          2 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.02" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA19720 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_4F30A7
         a                   :Instance ;
@@ -2435,9 +2349,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.17" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:T186 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_4FB602
         a                   :Instance ;
@@ -2466,9 +2378,7 @@ bdg:IE1GS152242 {
         :partIndex          7 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.07" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T201 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_54CCFE
         a                   :Instance ;
@@ -2481,9 +2391,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.05" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T61 ;
-        :workIsAbout        bdr:WA19720 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_561597
         a                   :Instance ;
@@ -2497,9 +2405,7 @@ bdg:IE1GS152242 {
         :partIndex          10 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.10" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T233 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_572793
         a                   :Instance ;
@@ -2512,9 +2418,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.15" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T5 ;
-        :workIsAbout        bdr:T154 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_5BDF34
         a                   :Instance ;
@@ -2527,9 +2431,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.09" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T2397 ;
-        :workIsAbout        bdr:WA19720 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_5C86D7
         a                   :Instance ;
@@ -2543,9 +2445,7 @@ bdg:IE1GS152242 {
         :partIndex          27 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.27" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T4CZ16893 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_5CEFE9
         a                   :Instance ;
@@ -2560,8 +2460,7 @@ bdg:IE1GS152242 {
         :partIndex          2 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.02" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 , bdr:T2398 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_5E861B
         a                   :Instance ;
@@ -2589,9 +2488,7 @@ bdg:IE1GS152242 {
         :partIndex          12 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.12" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T977 ;
-        :workIsAbout        bdr:T976 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_5FCE9C
         a                   :Instance ;
@@ -2619,9 +2516,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.18" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T457 ;
-        :workIsAbout        bdr:T1214 , bdr:T2517 , bdr:T976 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_6132F9
         a                   :Instance ;
@@ -2634,8 +2529,7 @@ bdg:IE1GS152242 {
         :partIndex          25 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.25" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T870 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_61D159
         a                   :Instance ;
@@ -2649,8 +2543,7 @@ bdg:IE1GS152242 {
         :partIndex          21 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.21" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1016 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_627F85
         a                   :Instance ;
@@ -2665,8 +2558,7 @@ bdg:IE1GS152242 {
         :partIndex          19 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.19" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1429 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_648DB6
         a                   :Instance ;
@@ -2679,8 +2571,7 @@ bdg:IE1GS152242 {
         :partIndex          7 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.07" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T2517 , bdr:T418 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_6704AA
         a                   :Instance ;
@@ -2693,9 +2584,7 @@ bdg:IE1GS152242 {
         :partIndex          29 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.29" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T2551 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_672C3C
         a                   :Instance ;
@@ -2722,8 +2611,7 @@ bdg:IE1GS152242 {
         :partIndex          23 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.23" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T3JT5054 , bdr:T769 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_68035A
         a                   :Instance ;
@@ -2749,8 +2637,7 @@ bdg:IE1GS152242 {
         :partIndex          28 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.28" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T218 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_6B4759
         a                   :Instance ;
@@ -2801,9 +2688,7 @@ bdg:IE1GS152242 {
         :partIndex          7 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.07" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T613 ;
-        :workIsAbout        bdr:T194 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_6F2024
         a                   :Instance ;
@@ -2816,9 +2701,7 @@ bdg:IE1GS152242 {
         :partIndex          11 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.11" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T613 ;
-        :workIsAbout        bdr:T541 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_717F24
         a                   :Instance ;
@@ -2831,8 +2714,7 @@ bdg:IE1GS152242 {
         :partIndex          28 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.28" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T2126 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_71893E
         a                   :Instance ;
@@ -2857,8 +2739,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_72C346
         a                   :Instance ;
@@ -2871,8 +2752,7 @@ bdg:IE1GS152242 {
         :partIndex          23 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.23" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1634 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_736E58
         a                   :Instance ;
@@ -2885,9 +2765,7 @@ bdg:IE1GS152242 {
         :partIndex          12 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.12" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T5 ;
-        :workIsAbout        bdr:T197 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_738F54
         a                   :Instance ;
@@ -2900,8 +2778,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.17" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T859 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_77C2F8
         a                   :Instance ;
@@ -2927,8 +2804,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_78B6AB
         a                   :Instance ;
@@ -2941,9 +2817,7 @@ bdg:IE1GS152242 {
         :partIndex          14 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.14" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T98 ;
-        :workIsAbout        bdr:T1108 , bdr:T883 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_78B81B
         a                   :Instance ;
@@ -2958,9 +2832,7 @@ bdg:IE1GS152242 {
         :partIndex          11 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.11" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T977 ;
-        :workIsAbout        bdr:T976 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_79614E
         a                   :Instance ;
@@ -2975,9 +2847,7 @@ bdg:IE1GS152242 {
         :partIndex          7 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.07" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T154 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_7C05A9
         a                   :Instance ;
@@ -2990,9 +2860,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T61 ;
-        :workIsAbout        bdr:WA19720 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_7C4BA2
         a                   :Instance ;
@@ -3005,8 +2873,7 @@ bdg:IE1GS152242 {
         :partIndex          25 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.25" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T00JR690 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_7DE5ED
         a                   :Instance ;
@@ -3019,9 +2886,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.18" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T694 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_7F0647
         a                   :Instance ;
@@ -3034,9 +2899,7 @@ bdg:IE1GS152242 {
         :partIndex          18 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.18" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T677 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_7FA2B9
         a                   :Instance ;
@@ -3049,8 +2912,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_DC0FEA ;
         :partTreeIndex      "02.17.4" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1720 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_8149C1
         a                   :Instance ;
@@ -3116,9 +2978,7 @@ bdg:IE1GS152242 {
         :partIndex          13 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.13" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T381 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_85919E
         a                   :Instance ;
@@ -3132,8 +2992,7 @@ bdg:IE1GS152242 {
         :partIndex          12 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.12" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 , bdr:T385 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_85EBFF
         a                   :Instance ;
@@ -3148,8 +3007,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_DC0FEA ;
         :partTreeIndex      "02.17.1" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1783 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_86606D
         a                   :Instance ;
@@ -3164,8 +3022,7 @@ bdg:IE1GS152242 {
         :partIndex          10 ;
         :partOf             bdr:MW1GS152242_46F88E ;
         :partTreeIndex      "01.10" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T00JR3170 , bdr:T163 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_88F5D8
         a                   :Instance ;
@@ -3178,8 +3035,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.16" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T186 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_8B9432
         a                   :Instance ;
@@ -3193,8 +3049,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.15" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1891 , bdr:T2051 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_8BC5D3
         a                   :Instance ;
@@ -3249,8 +3104,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.05" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1197 , bdr:T59 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_928C91
         a                   :Instance ;
@@ -3263,9 +3117,7 @@ bdg:IE1GS152242 {
         :partIndex          2 ;
         :partOf             bdr:MW1GS152242_0EF967 ;
         :partTreeIndex      "04.02" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T3JT5054 ;
-        :workIsAbout        bdr:WA4CZ15240 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_928F9E
         a                   :Instance ;
@@ -3291,8 +3143,7 @@ bdg:IE1GS152242 {
         :partIndex          30 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.30" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T58 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_94709F
         a                   :Instance ;
@@ -3304,8 +3155,7 @@ bdg:IE1GS152242 {
         :partIndex          19 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.19" ;
-        :partType           bdr:PartTypeTableOfContent ;
-        :workIsAbout        bdr:T2330 .
+        :partType           bdr:PartTypeTableOfContent .
     
     bdr:MW1GS152242_94EA17
         a                   :Instance ;
@@ -3318,8 +3168,7 @@ bdg:IE1GS152242 {
         :partIndex          23 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.23" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1206 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_954B18
         a                   :Instance ;
@@ -3332,8 +3181,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.16" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T139 , bdr:T541 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_957473
         a                   :Instance ;
@@ -3346,9 +3194,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.05" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 , bdr:T1763 ;
-        :workIsAbout        bdr:WA19716 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_95A863
         a                   :Instance ;
@@ -3453,9 +3299,7 @@ bdg:IE1GS152242 {
         :partIndex          12 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.12" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T154 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_989432
         a                   :Instance ;
@@ -3507,9 +3351,7 @@ bdg:IE1GS152242 {
         :partIndex          32 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.32" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1CZ56 ;
-        :workIsAbout        bdr:T00EGS1017686 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_9A0BE3
         a                   :Instance ;
@@ -3524,8 +3366,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_46F88E ;
         :partTreeIndex      "01.05" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T164 , bdr:T417 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_9A1DC7
         a                   :Instance ;
@@ -3579,8 +3420,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_46F88E ;
         :partTreeIndex      "01.09" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T104 , bdr:T164 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_9E4602
         a                   :Instance ;
@@ -3649,8 +3489,7 @@ bdg:IE1GS152242 {
         :partIndex          16 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.16" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T479 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_A31436
         a                   :Instance ;
@@ -3689,8 +3528,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_A51533
         a                   :Instance ;
@@ -3774,8 +3612,7 @@ bdg:IE1GS152242 {
         :partIndex          20 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.20" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1335 , bdr:T2058 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_A8CBF1
         a                   :Instance ;
@@ -3801,9 +3638,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_04AAC8 ;
         :partTreeIndex      "06.09" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T2397 ;
-        :workIsAbout        bdr:WA30178 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_A9B528
         a                   :Instance ;
@@ -3830,9 +3665,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.15" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T1338 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_ABC168
         a                   :Instance ;
@@ -3845,8 +3678,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.17" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T4 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_AC020C
         a                   :Instance ;
@@ -3859,9 +3691,7 @@ bdg:IE1GS152242 {
         :partIndex          3 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.03" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 , bdr:T1763 ;
-        :workIsAbout        bdr:WA19716 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_AC1319
         a                   :Instance ;
@@ -3888,8 +3718,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.05" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T2GS1005 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_AE4E80
         a                   :Instance ;
@@ -3915,9 +3744,7 @@ bdg:IE1GS152242 {
         :partIndex          20 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.20" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T11 ;
-        :workIsAbout        bdr:T822 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_B36F36
         a                   :Instance ;
@@ -3930,8 +3757,7 @@ bdg:IE1GS152242 {
         :partIndex          22 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.22" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T1448 , bdr:T2600 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_B44894
         a                   :Instance ;
@@ -4026,9 +3852,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA4CZ16766 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_B9D7E1
         a                   :Instance ;
@@ -4041,8 +3865,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_68035A ;
         :partTreeIndex      "07.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_BA83F1
         a                   :Instance ;
@@ -4096,8 +3919,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T238 , bdr:T2398 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_BEF760
         a                   :Instance ;
@@ -4110,8 +3932,7 @@ bdg:IE1GS152242 {
         :partIndex          33 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.33" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T238 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_C3D88D
         a                   :Instance ;
@@ -4126,9 +3947,7 @@ bdg:IE1GS152242 {
         :partIndex          3 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.03" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T977 ;
-        :workIsAbout        bdr:T138 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_C44360
         a                   :Instance ;
@@ -4141,9 +3960,7 @@ bdg:IE1GS152242 {
         :partIndex          26 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.26" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T1244 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_C56A33
         a                   :Instance ;
@@ -4222,9 +4039,7 @@ bdg:IE1GS152242 {
         :partIndex          5 ;
         :partOf             bdr:MW1GS152242_81BC5F ;
         :partTreeIndex      "10.05" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T933 ;
-        :workIsAbout        bdr:T1725 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_CA7774
         a                   :Instance ;
@@ -4251,8 +4066,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_46F88E ;
         :partTreeIndex      "01.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 , bdr:T2123 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_CBB4B2
         a                   :Instance ;
@@ -4336,8 +4150,7 @@ bdg:IE1GS152242 {
         :partIndex          9 ;
         :partOf             bdr:MW1GS152242_6ECD82 ;
         :partTreeIndex      "09.09" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T23 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_CEF0E7
         a                   :Instance ;
@@ -4391,9 +4204,7 @@ bdg:IE1GS152242 {
         :partIndex          4 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.04" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T132 ;
-        :workIsAbout        bdr:WA22003 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_D25321
         a                   :Instance ;
@@ -4435,9 +4246,7 @@ bdg:IE1GS152242 {
         :partIndex          19 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.19" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T11 ;
-        :workIsAbout        bdr:T00JR996 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_D4BC5A
         a                   :Instance ;
@@ -4464,8 +4273,7 @@ bdg:IE1GS152242 {
         :partIndex          15 ;
         :partOf             bdr:MW1GS152242_29C669 ;
         :partTreeIndex      "08.15" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T61 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_D5DCB3
         a                   :Instance ;
@@ -4480,9 +4288,7 @@ bdg:IE1GS152242 {
         :partIndex          8 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.08" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T1 ;
-        :workIsAbout        bdr:T2093 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_D7DE5A
         a                   :Instance ;
@@ -4509,8 +4315,7 @@ bdg:IE1GS152242 {
         :partIndex          3 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.03" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T932 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_D9B370
         a                   :Instance ;
@@ -4713,8 +4518,7 @@ bdg:IE1GS152242 {
         :partIndex          1 ;
         :partOf             bdr:MW1GS152242_9A1DC7 ;
         :partTreeIndex      "11.01" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T13 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_E36FE0
         a                   :Instance ;
@@ -4729,8 +4533,7 @@ bdg:IE1GS152242 {
         :partIndex          6 ;
         :partOf             bdr:MW1GS152242_E4E9AC ;
         :partTreeIndex      "02.06" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T151 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_E4E9AC
         a                   :Instance ;
@@ -4908,9 +4711,7 @@ bdg:IE1GS152242 {
         :partIndex          19 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.19" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T61 ;
-        :workIsAbout        bdr:T165 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_F3CCFD
         a                   :Instance ;
@@ -4938,8 +4739,7 @@ bdg:IE1GS152242 {
         :partIndex          17 ;
         :partOf             bdr:MW1GS152242_1079AD ;
         :partTreeIndex      "05.17" ;
-        :partType           bdr:PartTypeText ;
-        :workIsAbout        bdr:T22 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_F5DD40
         a                   :Instance ;
@@ -4966,8 +4766,7 @@ bdg:IE1GS152242 {
         :partIndex          26 ;
         :partOf             bdr:MW1GS152242_71893E ;
         :partTreeIndex      "03.26" ;
-        :partType           bdr:PartTypeText ;
-        :workGenre          bdr:T240 .
+        :partType           bdr:PartTypeText .
     
     bdr:MW1GS152242_F706E2
         a                   :Instance ;
