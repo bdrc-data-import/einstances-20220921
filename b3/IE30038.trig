@@ -33,7 +33,7 @@ bdg:IE30038 {
         :contentMethod      bdr:ContentMethod_OCR ;
         :inCollection       bda:PR0ET009 ;
         :instanceHasVolume  bdr:VL5263023E82CBDDB4 ;
-        :instanceOf         bdr:WA1KG12208 ;
+        :instanceOf         bdr:WA30038 ;
         :instanceReproductionOf  bdr:MW30038 , bdr:W30038 ;
         :isRoot             true .
     
