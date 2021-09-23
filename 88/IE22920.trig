@@ -123,7 +123,7 @@ bdg:IE22920 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :inCollection       bda:PR0ET001 ;
         :instanceHasVolume  bdr:VL3521F699534BFA4A , bdr:VL3F426ED9E5D490CD , bdr:VL63116F064FA5BE0C , bdr:VL96E098A58A5ED104 , bdr:VLA1D5F3CB10FC2571 , bdr:VLA38B6A389016BCC2 , bdr:VLFFBBF0732DE2FF06 ;
-        :instanceOf         bdr:WA1PD8 ;
+        :instanceOf         bdr:WA10MS11430 ;
         :instanceReproductionOf  bdr:MW22920 , bdr:W22920 ;
         :isRoot             true .
     
