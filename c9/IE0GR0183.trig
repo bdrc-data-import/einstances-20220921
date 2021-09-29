@@ -29,7 +29,7 @@ bdg:IE0GR0183 {
         skos:prefLabel      "Rastrapalapariprccha"@en ;
         :hasTitle           bdr:TTFF66397B39555889 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0062 ;
+        :instanceOf         bdr:WA0RKI0062 ;
         :isRoot             true ;
         :note               bdr:NTB788C6CD0D41124C , bdr:NTCC038F403A06E5C6 .
     

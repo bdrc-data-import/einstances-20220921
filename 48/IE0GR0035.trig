@@ -29,7 +29,7 @@ bdg:IE0GR0035 {
         skos:prefLabel      "Bhaisajyaguruvaiduryaprabharajasutra"@en ;
         :hasTitle           bdr:TTAFE413CB06E7DDDF ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0503 ;
+        :instanceOf         bdr:WA0RKI0503 ;
         :isRoot             true ;
         :note               bdr:NT02475F9C1BD5A386 , bdr:NT6AE032CD114BEEE7 .
     

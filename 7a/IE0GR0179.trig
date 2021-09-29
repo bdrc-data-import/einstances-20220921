@@ -29,6 +29,7 @@ bdg:IE0GR0179 {
         skos:prefLabel      "Pudgalavastu of the Vinayavastvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TT54EA608704F6A7AE ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0179 ;
         :isRoot             true ;
         :note               bdr:NT13F066C6311E7F6C , bdr:NT8794D8A932942F77 .
     

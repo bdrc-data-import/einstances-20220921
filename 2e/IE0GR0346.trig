@@ -29,6 +29,7 @@ bdg:IE0GR0346 {
         skos:prefLabel      "Ksanabhangasiddhi"@en ;
         :hasTitle           bdr:TTE8B8AFE760193827 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0346 ;
         :isRoot             true ;
         :note               bdr:NT3DDDA19F9FA37FC9 , bdr:NT8522FBA6D8A12D8E .
     

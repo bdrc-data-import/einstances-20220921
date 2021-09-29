@@ -29,6 +29,7 @@ bdg:IE0GR0525 {
         skos:prefLabel      "Apadana"@en ;
         :hasTitle           bdr:TTFE6E041FC98AF098 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0525 ;
         :isRoot             true ;
         :note               bdr:NT79B68489460039EB , bdr:NTA88D95FC9462135B .
     

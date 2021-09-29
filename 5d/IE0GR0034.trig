@@ -29,7 +29,7 @@ bdg:IE0GR0034 {
         skos:prefLabel      "Ayuhparyantasutra"@en ;
         :hasTitle           bdr:TTD2E51DE491104834 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0307 ;
+        :instanceOf         bdr:WA0RKI0307 ;
         :isRoot             true ;
         :note               bdr:NT8ABA704057F5A591 , bdr:NTB05A3CF7E51DF3DD .
     

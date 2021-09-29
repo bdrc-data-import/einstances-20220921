@@ -29,6 +29,7 @@ bdg:IE0GR0591 {
         skos:prefLabel      "Buddhaghosa: Visuddhimagga, annotated version"@en ;
         :hasTitle           bdr:TTF17BF7F4A8A3DA9D ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0591 ;
         :isRoot             true ;
         :note               bdr:NT2A50D3C2A69B44D8 , bdr:NTE23910CF865206EB .
     

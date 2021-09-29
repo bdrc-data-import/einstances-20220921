@@ -29,7 +29,7 @@ bdg:IE0GR0091 {
         skos:prefLabel      "Kasyapaparivartasutra"@en ;
         :hasTitle           bdr:TT1B3F27FEE81CC6E1 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0087 ;
+        :instanceOf         bdr:WA0RKI0087 ;
         :isRoot             true ;
         :note               bdr:NTF2D7C48EF0F3BA4C , bdr:NTF72468A066ADE4A9 .
     

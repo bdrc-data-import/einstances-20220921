@@ -29,6 +29,7 @@ bdg:IE0GR0575 {
         skos:prefLabel      "Dhatuvamsa"@en ;
         :hasTitle           bdr:TT16BDFFD8E4294323 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0575 ;
         :isRoot             true ;
         :note               bdr:NT6AE68E28ABE85459 , bdr:NT9BC9FD23C8B2E4AE .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0189 {
         skos:prefLabel      "Ratnamālāvadāna"@en ;
         :hasTitle           bdr:TT910E287DD72D35A9 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0189 ;
         :isRoot             true ;
         :note               bdr:NT36820644463D7974 , bdr:NTDDA38DDDF9083DDD .
     

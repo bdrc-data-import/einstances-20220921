@@ -29,7 +29,7 @@ bdg:IE0GR0194 {
         skos:prefLabel      "Salistambasutra"@en ;
         :hasTitle           bdr:TTD36911791D776FC7 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0210 ;
+        :instanceOf         bdr:WA0RKI0210 ;
         :isRoot             true ;
         :note               bdr:NT1CF27D825DC07CA4 , bdr:NT76F4DCF4D55C7FB2 .
     

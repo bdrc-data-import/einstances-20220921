@@ -29,7 +29,7 @@ bdg:IE0GR0032 {
         skos:prefLabel      "Astasahasrika Prajnaparamita"@en ;
         :hasTitle           bdr:TTC57CE7CFF4654F5B ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0012 ;
+        :instanceOf         bdr:WA0RKI0012 ;
         :isRoot             true ;
         :note               bdr:NT8AE0E082FB5BDC92 , bdr:NTE5051A310B034D48 .
     

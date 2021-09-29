@@ -29,7 +29,7 @@ bdg:IE0GR0339 {
         skos:prefLabel      "Naropa: Sekoddesa"@en ;
         :hasTitle           bdr:TT5F6FAA2A39DB9D35 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT0070 ;
+        :instanceOf         bdr:WA0RTI0070 ;
         :isRoot             true ;
         :note               bdr:NT2C4E7339BCF4D997 , bdr:NT2D2DBA5B7EDB526C .
     

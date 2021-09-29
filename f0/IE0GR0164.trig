@@ -29,6 +29,7 @@ bdg:IE0GR0164 {
         skos:prefLabel      "Posadhavastu"@en ;
         :hasTitle           bdr:TT210FF6046CFA1DCA ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0164 ;
         :isRoot             true ;
         :note               bdr:NT10226C7FCBD32082 , bdr:NTED6188C59F175A57 .
     

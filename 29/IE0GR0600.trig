@@ -29,6 +29,7 @@ bdg:IE0GR0600 {
         skos:prefLabel      "Dhatupathavilasini"@en ;
         :hasTitle           bdr:TT11CA8B596C879613 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0600 ;
         :isRoot             true ;
         :note               bdr:NT1B797B61BEB44D79 , bdr:NT98EBCB5703E2673D .
     

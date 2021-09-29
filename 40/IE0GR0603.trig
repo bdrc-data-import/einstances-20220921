@@ -29,6 +29,7 @@ bdg:IE0GR0603 {
         skos:prefLabel      "Maharupasiddhi"@en ;
         :hasTitle           bdr:TT6870D09AC94A7108 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0603 ;
         :isRoot             true ;
         :note               bdr:NT0EBDE356471E1C9A , bdr:NTE3038181E30185AF .
     

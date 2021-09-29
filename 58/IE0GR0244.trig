@@ -29,7 +29,7 @@ bdg:IE0GR0244 {
         skos:prefLabel      "Vasudharadharani"@en ;
         :hasTitle           bdr:TTB68E5D81CE84E6AA ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0656 ;
+        :instanceOf         bdr:WA0RKI0656 ;
         :isRoot             true ;
         :note               bdr:NTA1BF053D146EAD49 , bdr:NTECA21FED284E470F .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0396 {
         skos:prefLabel      "Vidyakarasanti: Tarkasopana"@en ;
         :hasTitle           bdr:TT23AFE3CEEF3410FE ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0396 ;
         :isRoot             true ;
         :note               bdr:NTBCAB0E9D29AA01C9 , bdr:NTC360B60E3B77F7C3 .
     

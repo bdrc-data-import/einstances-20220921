@@ -29,7 +29,7 @@ bdg:IE0GR0148 {
         skos:prefLabel      "Nairatmyapariprcchamahayanasutra"@en ;
         :hasTitle           bdr:TT4B2F2438CB0E920D ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0173 ;
+        :instanceOf         bdr:WA0RKI0173 ;
         :isRoot             true ;
         :note               bdr:NTB0FC19845F65E92D , bdr:NTB3B962A91D314BEA .
     

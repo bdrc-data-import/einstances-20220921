@@ -29,7 +29,7 @@ bdg:IE0GR0126 {
         skos:prefLabel      "Maitreyavyakarana"@en ;
         :hasTitle           bdr:TT7D481EF6A167FBCE ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0895 ;
+        :instanceOf         bdr:WA0RKI0895 ;
         :isRoot             true ;
         :note               bdr:NTEC7E22792DB3E933 , bdr:NTF4CCE5AC5A899D66 .
     

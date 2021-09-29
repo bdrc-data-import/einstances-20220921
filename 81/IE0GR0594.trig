@@ -29,6 +29,7 @@ bdg:IE0GR0594 {
         skos:prefLabel      "Lokappadipakasara"@en ;
         :hasTitle           bdr:TTD9B5079352803283 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0594 ;
         :isRoot             true ;
         :note               bdr:NT2E2C3DCA9C34BD8E , bdr:NT30C075E625B736D6 .
     

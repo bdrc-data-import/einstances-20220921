@@ -29,6 +29,7 @@ bdg:IE0GR0096 {
         skos:prefLabel      "Kosambakavastu of the Vinayavastvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TT49DF870F900A4F58 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0096 ;
         :isRoot             true ;
         :note               bdr:NT203B14E4C26DA2E6 , bdr:NT7B7F6553B15E0ADE .
     

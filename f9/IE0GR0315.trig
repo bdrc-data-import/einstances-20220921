@@ -29,7 +29,7 @@ bdg:IE0GR0315 {
         skos:prefLabel      "Nagarjuna: Dharmadhatugarbhavivarana"@en ;
         :hasTitle           bdr:TTFB7C0258AE5021CE ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3439 ;
+        :instanceOf         bdr:WA0RTI3439 ;
         :isRoot             true ;
         :note               bdr:NT43A042EA3FD0A9CE , bdr:NTB06FF3B97E374ADE .
     

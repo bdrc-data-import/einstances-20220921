@@ -29,7 +29,7 @@ bdg:IE0GR0327 {
         skos:prefLabel      "Nagarjuna: Ratnavali, 1"@en ;
         :hasTitle           bdr:TT860D23B9CC081B33 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3496 ;
+        :instanceOf         bdr:WA0RTI3496 ;
         :isRoot             true ;
         :note               bdr:NT89E0C1B8BF3651CC , bdr:NTC2780D44C1BC3385 .
     

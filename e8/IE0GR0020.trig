@@ -29,7 +29,7 @@ bdg:IE0GR0020 {
         skos:prefLabel      "Aryanityatasutra"@en ;
         :hasTitle           bdr:TTB43F7A96D5AE99F1 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0309 ;
+        :instanceOf         bdr:WA0RKI0309 ;
         :isRoot             true ;
         :note               bdr:NT01F0E13E23F9A74A , bdr:NTE89EF291DBC1A804 .
     

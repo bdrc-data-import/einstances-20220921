@@ -29,7 +29,7 @@ bdg:IE0GR0100 {
         skos:prefLabel      "Pratityasamutpadavadana"@en ;
         :hasTitle           bdr:TT206757AD1AB7E4A4 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3493 ;
+        :instanceOf         bdr:WA0RTI3493 ;
         :isRoot             true ;
         :note               bdr:NTD1D612E229627F25 , bdr:NTFC240471922BE89D .
     

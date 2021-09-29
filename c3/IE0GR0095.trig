@@ -29,7 +29,7 @@ bdg:IE0GR0095 {
         skos:prefLabel      "Khasarpanasadhana"@en ;
         :hasTitle           bdr:TT8E4EF1255A6A2854 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT2151 ;
+        :instanceOf         bdr:WA0RTI2151 ;
         :isRoot             true ;
         :note               bdr:NTB96A4AAA57F7620A , bdr:NTEFA36B462B659B97 .
     

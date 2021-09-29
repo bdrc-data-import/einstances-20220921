@@ -29,6 +29,7 @@ bdg:IE0GR0036 {
         skos:prefLabel      "Bhaisajyavastu of the Vinayavastvagama [Vastu 6]"@en ;
         :hasTitle           bdr:TT85521383B9941A69 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0036 ;
         :isRoot             true ;
         :note               bdr:NT19C3C44523AC1A7A , bdr:NT642A19100BD7A628 .
     

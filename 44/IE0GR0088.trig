@@ -29,7 +29,7 @@ bdg:IE0GR0088 {
         skos:prefLabel      "Karmavibhangopadesa"@en ;
         :hasTitle           bdr:TTD237BD234B844121 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3300 ;
+        :instanceOf         bdr:WA0RTI3300 ;
         :isRoot             true ;
         :note               bdr:NT15C66FE04679F182 , bdr:NT40C1DC70A0386A40 .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0216 {
         skos:prefLabel      "Srimahadevivyakaranam"@en ;
         :hasTitle           bdr:TT62E056FC9700C596 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0216 ;
         :isRoot             true ;
         :note               bdr:NT425147407C80D407 , bdr:NTEB3ED2B041324C3B .
     

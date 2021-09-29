@@ -29,7 +29,7 @@ bdg:IE0GR0313 {
         skos:prefLabel      "Nagarjuna: Bhavasamkrantiparikatha"@en ;
         :hasTitle           bdr:TT6FDC5E86178D65DF ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3500 ;
+        :instanceOf         bdr:WA0RTI3500 ;
         :isRoot             true ;
         :note               bdr:NT3CF83DC2CE00B255 , bdr:NT5A94C578BF32058F .
     

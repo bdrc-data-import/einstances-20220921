@@ -29,6 +29,7 @@ bdg:IE0GR0008 {
         skos:prefLabel      "Ahoratravratacaityasevanusamsavadana"@en ;
         :hasTitle           bdr:TT80945BA7EB6AB739 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0008 ;
         :isRoot             true ;
         :note               bdr:NT065E338EB148F2DA , bdr:NT77D1DF377431E3CD .
     

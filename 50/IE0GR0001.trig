@@ -29,7 +29,7 @@ bdg:IE0GR0001 {
         skos:prefLabel      "Abhayakaragupta: Nispannayogavali, chapter 1"@en ;
         :hasTitle           bdr:TTFDD5AB6556F5F9F8 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT1961 ;
+        :instanceOf         bdr:WA0RTI1961 ;
         :isRoot             true ;
         :note               bdr:NT4FA903F4925E71A1 , bdr:NT4FED036864251590 .
     

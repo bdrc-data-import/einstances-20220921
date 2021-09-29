@@ -29,6 +29,7 @@ bdg:IE0GR0300 {
         skos:prefLabel      "Garbhasamgraha"@en ;
         :hasTitle           bdr:TT9D728CDC83264472 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0300 ;
         :isRoot             true ;
         :note               bdr:NT491E7AB1B94DFB52 , bdr:NTD62CC28C794DC53A .
     

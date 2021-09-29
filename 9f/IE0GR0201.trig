@@ -29,6 +29,7 @@ bdg:IE0GR0201 {
         skos:prefLabel      "Sanghabhedavastu"@en ;
         :hasTitle           bdr:TTEDA5FDCA046C8798 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0201 ;
         :isRoot             true ;
         :note               bdr:NT3C540A5409B6F9FF , bdr:NTE5DCE509A6FD10BF .
     

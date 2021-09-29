@@ -29,7 +29,7 @@ bdg:IE0GR0401 {
         skos:prefLabel      "Vimsikavrtti"@en ;
         :hasTitle           bdr:TT16F2F4BFAA54A4D6 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3595 ;
+        :instanceOf         bdr:WA0RTI3595 ;
         :isRoot             true ;
         :note               bdr:NTB7EF8CC481E83085 , bdr:NTC44DCB9995305F70 .
     

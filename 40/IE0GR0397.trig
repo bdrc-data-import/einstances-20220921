@@ -29,6 +29,7 @@ bdg:IE0GR0397 {
         skos:prefLabel      "Vimalamitra(?): Abhidharmadipa, with auto(?)-commentary Vibhasaprabhavrtti"@en ;
         :hasTitle           bdr:TT8B10792594E9A25C ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0397 ;
         :isRoot             true ;
         :note               bdr:NT5E915B4C5B8CFD9C , bdr:NTCC9C3E5DCC6FCE43 .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0011 {
         skos:prefLabel      "Ajitasenavyakarana"@en ;
         :hasTitle           bdr:TTE47B3828B5253103 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0011 ;
         :isRoot             true ;
         :note               bdr:NT348C8F17EC876417 , bdr:NTCF28ACA04FE2D5B4 .
     

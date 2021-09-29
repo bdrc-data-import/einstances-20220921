@@ -29,6 +29,7 @@ bdg:IE0GR0284 {
         skos:prefLabel      "Dharmasamuccaya"@en ;
         :hasTitle           bdr:TTB92AA0EB089B8326 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0284 ;
         :isRoot             true ;
         :note               bdr:NT86AF68E0259CCE06 , bdr:NTF46F7CDF9F683841 .
     

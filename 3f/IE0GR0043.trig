@@ -29,6 +29,7 @@ bdg:IE0GR0043 {
         skos:prefLabel      "BUDDHIST STOTRAS, I"@en ;
         :hasTitle           bdr:TTE644CD7921BA1D85 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0043 ;
         :isRoot             true ;
         :note               bdr:NT62F527065DE2745C , bdr:NTFFCE1BE7515B31C0 .
     

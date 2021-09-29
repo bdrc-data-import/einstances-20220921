@@ -29,7 +29,7 @@ bdg:IE0GR0224 {
         skos:prefLabel      "Suvarnaprabhasasutra"@en ;
         :hasTitle           bdr:TTADF1F969DBC47A41 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0551 ;
+        :instanceOf         bdr:WA0RKI0551 ;
         :isRoot             true ;
         :note               bdr:NT02680F14F158DE84 , bdr:NT944DE380F061A8DE .
     

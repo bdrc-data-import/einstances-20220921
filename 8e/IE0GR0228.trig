@@ -29,6 +29,7 @@ bdg:IE0GR0228 {
         skos:prefLabel      "Svayambhupurana"@en ;
         :hasTitle           bdr:TT9E5DBD9DD93E1B8B ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0228 ;
         :isRoot             true ;
         :note               bdr:NTF58EEEEE6B57B783 , bdr:NTF6F213D88C6806A9 .
     

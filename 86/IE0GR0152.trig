@@ -29,6 +29,7 @@ bdg:IE0GR0152 {
         skos:prefLabel      "Pamsupradana-Avadana"@en ;
         :hasTitle           bdr:TT75E7903E28F1B7C4 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0152 ;
         :isRoot             true ;
         :note               bdr:NT64769C20EA70680B , bdr:NTFC310F2AEAE182CD .
     

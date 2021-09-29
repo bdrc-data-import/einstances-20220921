@@ -29,6 +29,7 @@ bdg:IE0GR0162 {
         skos:prefLabel      "Parivasikavastu of the Vinayavastvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TTB8202C3E7F5FD8CE ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0162 ;
         :isRoot             true ;
         :note               bdr:NTA5AE944382EECC8A , bdr:NTC02599C47B1E4CC3 .
     

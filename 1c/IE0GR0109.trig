@@ -29,7 +29,7 @@ bdg:IE0GR0109 {
         skos:prefLabel      "Mahamanivipulavimanavisvasupratisthitaguhyaparamarahasyakalparaja-Dharani"@en ;
         :hasTitle           bdr:TT08AA52003F4542B7 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0505 ;
+        :instanceOf         bdr:WA0RKI0505 ;
         :isRoot             true ;
         :note               bdr:NTE7A8E493AAD35EE1 , bdr:NTEFD68F1171C3665F .
     

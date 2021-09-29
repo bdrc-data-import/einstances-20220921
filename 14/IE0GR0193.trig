@@ -29,7 +29,7 @@ bdg:IE0GR0193 {
         skos:prefLabel      "Sagaranagarajapariprccha nama Mahayanasutra"@en ;
         :hasTitle           bdr:TTB8D5F1BC32669936 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0153 ;
+        :instanceOf         bdr:WA0RKI0153 ;
         :isRoot             true ;
         :note               bdr:NT65CA9A92445951F9 , bdr:NTF107E55C1515543C .
     

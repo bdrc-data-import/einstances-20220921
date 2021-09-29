@@ -29,6 +29,7 @@ bdg:IE0GR0177 {
         skos:prefLabel      "Pravaranavastu"@en ;
         :hasTitle           bdr:TTA19FDCB677F34099 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0177 ;
         :isRoot             true ;
         :note               bdr:NT3A8371BD6211652A , bdr:NTE3AD4BC0D11AAFD9 .
     

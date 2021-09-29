@@ -29,7 +29,7 @@ bdg:IE0GR0094 {
         skos:prefLabel      "Kausikaprajnaparamitasutra"@en ;
         :hasTitle           bdr:TTBBEF70BCBA208B5A ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0019 ;
+        :instanceOf         bdr:WA0RKI0019 ;
         :isRoot             true ;
         :note               bdr:NT565838A3303834CC , bdr:NT6C52931377D181B1 .
     

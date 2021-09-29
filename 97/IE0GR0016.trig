@@ -29,7 +29,7 @@ bdg:IE0GR0016 {
         skos:prefLabel      "Anityatasutra"@en ;
         :hasTitle           bdr:TT5045281F051E9DBC ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0309 ;
+        :instanceOf         bdr:WA0RKI0309 ;
         :isRoot             true ;
         :note               bdr:NT29846A1CB638FD41 , bdr:NT87F1A4C41876ECEF .
     

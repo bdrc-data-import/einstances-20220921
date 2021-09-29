@@ -29,7 +29,7 @@ bdg:IE0GR0037 {
         skos:prefLabel      "Bhavasankrantisutra"@en ;
         :hasTitle           bdr:TTE3BB08A17E7EFA52 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0226 ;
+        :instanceOf         bdr:WA0RKI0226 ;
         :isRoot             true ;
         :note               bdr:NT0BB75F0068E7789C , bdr:NT2BF15286838EFEC0 .
     

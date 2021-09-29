@@ -29,7 +29,7 @@ bdg:IE0GR0286 {
         skos:prefLabel      "Dignaga: Yogavatara"@en ;
         :hasTitle           bdr:TT3492B0D01CB1673D ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3412 ;
+        :instanceOf         bdr:WA0RTI3412 ;
         :isRoot             true ;
         :note               bdr:NT2A0E16C021AB40B8 , bdr:NTB56999649DACCD5A .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0243 {
         skos:prefLabel      "Varsavastu of the Vinayavastvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TTE342C7C5E3097092 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0243 ;
         :isRoot             true ;
         :note               bdr:NT6D06805BB5644A1C , bdr:NT8975940AF0EDE81B .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0306 {
         skos:prefLabel      "Kamalasila: Bhavanakrama"@en ;
         :hasTitle           bdr:TT1430E6E202BFEB19 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3253 ;
+        :instanceOf         bdr:WA0RTI3253 ;
         :isRoot             true ;
         :note               bdr:NT94CAEEEC8E2EDA6C , bdr:NT9AA058C0D9BCD2AE .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0613 {
         skos:prefLabel      "Yasa Mahathera: Kaccayanasara"@en ;
         :hasTitle           bdr:TT6BA0BBFF2F2B1255 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0613 ;
         :isRoot             true ;
         :note               bdr:NT3F9BD19474CB3A1B , bdr:NTDE414A969735247B .
     

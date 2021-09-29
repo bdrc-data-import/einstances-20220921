@@ -29,6 +29,7 @@ bdg:IE0GR0048 {
         skos:prefLabel      "Civaravastu of the Vinayavastvagama of the Mulasarvastivadin"@en ;
         :hasTitle           bdr:TTAD5FCBFDA8C8AB90 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0048 ;
         :isRoot             true ;
         :note               bdr:NT2CFED19534B112C3 , bdr:NTCDD223092045B6DF .
     

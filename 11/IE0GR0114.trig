@@ -29,7 +29,7 @@ bdg:IE0GR0114 {
         skos:prefLabel      "Mahapratisara vidyarajni"@en ;
         :hasTitle           bdr:TT2FDFC68C3919451C ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0556 ;
+        :instanceOf         bdr:WA0RKI0556 ;
         :isRoot             true ;
         :note               bdr:NT048FBA1EC9B5CAB7 , bdr:NT0A1A3A8713C3CC55 .
     

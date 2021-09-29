@@ -29,6 +29,7 @@ bdg:IE0GR0124 {
         skos:prefLabel      "Mahavastu-Avadana"@en ;
         :hasTitle           bdr:TT0431B9068566E938 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0124 ;
         :isRoot             true ;
         :note               bdr:NT79330CF910BA0976 , bdr:NTBA9B0EC081BA0309 .
     

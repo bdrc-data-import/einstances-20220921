@@ -29,6 +29,7 @@ bdg:IE0GR0064 {
         skos:prefLabel      "Ekottaragama"@en ;
         :hasTitle           bdr:TT5E080E622344038E ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0064 ;
         :isRoot             true ;
         :note               bdr:NT07F0BF64D4695D6E , bdr:NTEAF6DA5A8020C772 .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0419 {
         skos:prefLabel      "Digha-Nikaya 1, annotated version"@en ;
         :hasTitle           bdr:TTCF6FE796D0CFEF6A ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0419 ;
         :isRoot             true ;
         :note               bdr:NT4B68E228186B4533 , bdr:NTA0ABC34A311849B5 .
     

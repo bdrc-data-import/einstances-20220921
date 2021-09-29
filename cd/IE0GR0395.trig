@@ -29,7 +29,7 @@ bdg:IE0GR0395 {
         skos:prefLabel      "Vasubandhu: Vimsatika vijnaptimatratasiddhi"@en ;
         :hasTitle           bdr:TTC0E7161320D0F671 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3396 ;
+        :instanceOf         bdr:WA0RTI3396 ;
         :isRoot             true ;
         :note               bdr:NTA8AB98B01A4DFEE6 , bdr:NTEF0C448FCAF0F95F .
     

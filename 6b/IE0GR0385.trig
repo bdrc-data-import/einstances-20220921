@@ -29,6 +29,7 @@ bdg:IE0GR0385 {
         skos:prefLabel      "Upayahrdaya"@en ;
         :hasTitle           bdr:TT69A5EE26761A6839 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0385 ;
         :isRoot             true ;
         :note               bdr:NT05B4484998DA34CC , bdr:NTEE3831DB728A1224 .
     

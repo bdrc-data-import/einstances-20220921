@@ -29,6 +29,7 @@ bdg:IE0GR0003 {
         skos:prefLabel      "Adbhutadharmaparyaya"@en ;
         :hasTitle           bdr:TT0624B1073F96B0B7 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0003 ;
         :isRoot             true ;
         :note               bdr:NT4C76B06F659D2B5F , bdr:NTAA559EC473829952 .
     

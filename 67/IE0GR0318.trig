@@ -29,7 +29,7 @@ bdg:IE0GR0318 {
         skos:prefLabel      "Nagarjuna: Lokatitastava"@en ;
         :hasTitle           bdr:TTE0E338F94B837A93 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT0012 ;
+        :instanceOf         bdr:WA0RTI0012 ;
         :isRoot             true ;
         :note               bdr:NT29CA0AFE3D9BA3F0 , bdr:NT907EDE1EC0B9A960 .
     

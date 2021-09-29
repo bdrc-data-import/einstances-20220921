@@ -29,7 +29,7 @@ bdg:IE0GR0245 {
         skos:prefLabel      "Vasudharadharani (Gilgit)"@en ;
         :hasTitle           bdr:TT978776ECB83B3458 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0656 ;
+        :instanceOf         bdr:WA0RKI0656 ;
         :isRoot             true ;
         :note               bdr:NT0BF386D6933C0DD5 , bdr:NTDAA8DB00A5E39329 .
     

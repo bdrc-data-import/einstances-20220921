@@ -29,6 +29,7 @@ bdg:IE0GR0174 {
         skos:prefLabel      "Pratisarakalpadharani"@en ;
         :hasTitle           bdr:TTF0048E54725F053E ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0174 ;
         :isRoot             true ;
         :note               bdr:NT187524B8CBC730F2 , bdr:NTDEFDBEFF2896B29A .
     

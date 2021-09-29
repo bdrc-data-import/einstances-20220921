@@ -29,7 +29,7 @@ bdg:IE0GR0052 {
         skos:prefLabel      "Devatasutra"@en ;
         :hasTitle           bdr:TT77A4F46F63289FA6 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0329 ;
+        :instanceOf         bdr:WA0RKI0329 ;
         :isRoot             true ;
         :note               bdr:NTCA4125F6516B4366 , bdr:NTEA3F6C01020B04C8 .
     

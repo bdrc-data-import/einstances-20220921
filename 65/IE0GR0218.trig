@@ -29,7 +29,7 @@ bdg:IE0GR0218 {
         skos:prefLabel      "Subhasitaratnakarandakatha"@en ;
         :hasTitle           bdr:TTB094153988F47E7F ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3506 ;
+        :instanceOf         bdr:WA0RTI3506 ;
         :isRoot             true ;
         :note               bdr:NTB5EED4E49FE3FE1A , bdr:NTED9540E8E9141813 .
     

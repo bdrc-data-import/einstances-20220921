@@ -29,7 +29,7 @@ bdg:IE0GR0310 {
         skos:prefLabel      "Maitreyanatha: Bhavasamkrantitika"@en ;
         :hasTitle           bdr:TTC582F132AB27543A ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3186 ;
+        :instanceOf         bdr:WA0RTI3186 ;
         :isRoot             true ;
         :note               bdr:NT9B7637017AE5447F , bdr:NTAE9F2C0547B12388 .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0078 {
         skos:prefLabel      "Jnanayasas: Jatakastava, plain text version"@en ;
         :hasTitle           bdr:TT0BE43534BE1C2DAA ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0078 ;
         :isRoot             true ;
         :note               bdr:NT01B20AB978CCEA3B , bdr:NTA322504971DF80EC .
     

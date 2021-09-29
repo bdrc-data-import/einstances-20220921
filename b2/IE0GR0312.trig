@@ -29,7 +29,7 @@ bdg:IE0GR0312 {
         skos:prefLabel      "Nagarjuna: Acintyastava"@en ;
         :hasTitle           bdr:TT1DAFE891B0EE5853 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT0019 ;
+        :instanceOf         bdr:WA0RTI0019 ;
         :isRoot             true ;
         :note               bdr:NTBF5ECEF2765D73A0 , bdr:NTE15EA06F78114DF8 .
     

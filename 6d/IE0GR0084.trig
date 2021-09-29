@@ -29,7 +29,7 @@ bdg:IE0GR0084 {
         skos:prefLabel      "Kamalasila: Vajracchedikatika"@en ;
         :hasTitle           bdr:TTD8BCA0E26526B13E ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3162 ;
+        :instanceOf         bdr:WA0RTI3162 ;
         :isRoot             true ;
         :note               bdr:NT1C4900EBA339B7B1 , bdr:NTA1B235E8F5E9FA64 .
     

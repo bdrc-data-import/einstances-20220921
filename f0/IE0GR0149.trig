@@ -29,7 +29,7 @@ bdg:IE0GR0149 {
         skos:prefLabel      "Namaskaraikavimsatistotra"@en ;
         :hasTitle           bdr:TT7FBFDD51D8BBCB76 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0438 ;
+        :instanceOf         bdr:WA0RKI0438 ;
         :isRoot             true ;
         :note               bdr:NTA0575590704C5377 , bdr:NTCC262E4C39161569 .
     

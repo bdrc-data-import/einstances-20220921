@@ -29,7 +29,7 @@ bdg:IE0GR0176 {
         skos:prefLabel      "Pratityasamutpadamahayanasutra"@en ;
         :hasTitle           bdr:TTA36608787CC8FCE3 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0212 ;
+        :instanceOf         bdr:WA0RKI0212 ;
         :isRoot             true ;
         :note               bdr:NT915FD5A0D6993B8B , bdr:NTFEEED34FBB7A27B6 .
     

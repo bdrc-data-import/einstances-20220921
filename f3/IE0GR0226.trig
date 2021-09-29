@@ -29,7 +29,7 @@ bdg:IE0GR0226 {
         skos:prefLabel      "Suvikrantavikramipariprccha"@en ;
         :hasTitle           bdr:TT551B98E4BD59A404 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0014 ;
+        :instanceOf         bdr:WA0RKI0014 ;
         :isRoot             true ;
         :note               bdr:NT1C489637F2E4C759 , bdr:NTFB96CACBC7CC716A .
     

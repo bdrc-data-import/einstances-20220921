@@ -29,6 +29,7 @@ bdg:IE0GR0609 {
         skos:prefLabel      "Dhammasenapati Thera: Karika"@en ;
         :hasTitle           bdr:TTAE81BA6E0221155A ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0609 ;
         :isRoot             true ;
         :note               bdr:NT888957D999C37E68 , bdr:NTA3D93F7CB27A89FD .
     

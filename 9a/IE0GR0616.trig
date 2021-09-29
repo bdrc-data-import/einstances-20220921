@@ -29,6 +29,7 @@ bdg:IE0GR0616 {
         skos:prefLabel      "Bower Manuscript"@en ;
         :hasTitle           bdr:TT8D7E732D9468FAE5 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0616 ;
         :isRoot             true ;
         :note               bdr:NT8D58B8FD475A05A1 , bdr:NTF62510EDF016DF93 .
     

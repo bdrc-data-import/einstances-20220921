@@ -29,6 +29,7 @@ bdg:IE0GR0071 {
         skos:prefLabel      "Vinayasutram, 1: Pravrajyavastu"@en ;
         :hasTitle           bdr:TT20AA8F5C68B58738 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0071 ;
         :isRoot             true ;
         :note               bdr:NT34EFF2F50D74A2BE , bdr:NTDEA7294D7C82D4C5 .
     

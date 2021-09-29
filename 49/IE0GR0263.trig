@@ -29,7 +29,7 @@ bdg:IE0GR0263 {
         skos:prefLabel      "Aryasura: Paramitasamasa"@en ;
         :hasTitle           bdr:TT9B16981274148FEF ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3285 ;
+        :instanceOf         bdr:WA0RTI3285 ;
         :isRoot             true ;
         :note               bdr:NT281B0542D3CED4C6 , bdr:NT380A3047645BC331 .
     

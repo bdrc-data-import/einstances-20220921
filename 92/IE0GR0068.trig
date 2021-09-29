@@ -29,6 +29,7 @@ bdg:IE0GR0068 {
         skos:prefLabel      "Grahamatrkanamadharani"@en ;
         :hasTitle           bdr:TTF8282EB85DB51A37 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0068 ;
         :isRoot             true ;
         :note               bdr:NT3CE711A069342AB7 , bdr:NTBB2DFC3C73B82F6D .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0299 {
         skos:prefLabel      "Durveka Misra: Hetubindutikaloka"@en ;
         :hasTitle           bdr:TTAE8172C6944E1A66 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0299 ;
         :isRoot             true ;
         :note               bdr:NT12B208C0AAF91DD9 , bdr:NT48E8EF54C234C908 .
     

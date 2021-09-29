@@ -29,7 +29,7 @@ bdg:IE0GR0138 {
         skos:prefLabel      "Matrceta: Prasadapratibhodhava (= Satapancasatka)"@en ;
         :hasTitle           bdr:TTD48ED6987AC83096 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT0039 ;
+        :instanceOf         bdr:WA0RTI0039 ;
         :isRoot             true ;
         :note               bdr:NT67FE82B1EF9405F9 , bdr:NT8866EE171E393987 .
     

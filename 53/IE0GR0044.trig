@@ -29,6 +29,7 @@ bdg:IE0GR0044 {
         skos:prefLabel      "108 Buddhist stotras"@en ;
         :hasTitle           bdr:TTE4657E6C50B9F080 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0044 ;
         :isRoot             true ;
         :note               bdr:NT86212EFB724BAEE5 , bdr:NTCCD200D938D636AA .
     

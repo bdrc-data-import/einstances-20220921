@@ -29,6 +29,7 @@ bdg:IE0GR0550 {
         skos:prefLabel      "Yamaka of the Abhidhamma Pitaka, Part I, annotated version"@en ;
         :hasTitle           bdr:TT90C35B006C854890 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0550 ;
         :isRoot             true ;
         :note               bdr:NTEFD3CC4A5DE95034 , bdr:NTF9BAF7A882799A72 .
     

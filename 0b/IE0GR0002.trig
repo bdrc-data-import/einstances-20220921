@@ -29,6 +29,7 @@ bdg:IE0GR0002 {
         skos:prefLabel      "Abhisamacarika-Dharma"@en ;
         :hasTitle           bdr:TT75A83A09D36A29B7 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0002 ;
         :isRoot             true ;
         :note               bdr:NT331AF362BE419D37 , bdr:NT68F9664A61FA8AC3 .
     

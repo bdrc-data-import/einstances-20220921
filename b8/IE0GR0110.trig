@@ -29,6 +29,7 @@ bdg:IE0GR0110 {
         skos:prefLabel      "Mahamantranusarini"@en ;
         :hasTitle           bdr:TTF8BAA7E932C64C06 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0110 ;
         :isRoot             true ;
         :note               bdr:NT7F7386E70B21418E , bdr:NT93A4EF68B7C8FE1F .
     

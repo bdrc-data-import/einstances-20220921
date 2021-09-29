@@ -29,7 +29,7 @@ bdg:IE0GR0379 {
         skos:prefLabel      "Sunyasamadhipada: Tattvajnanasamsiddhi"@en ;
         :hasTitle           bdr:TTFC88A4F48169CF48 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT0259 ;
+        :instanceOf         bdr:WA0RTI0259 ;
         :isRoot             true ;
         :note               bdr:NT16B74C56489CE297 , bdr:NT9996CF3020142518 .
     

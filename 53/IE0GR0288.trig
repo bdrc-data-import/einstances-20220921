@@ -29,7 +29,7 @@ bdg:IE0GR0288 {
         skos:prefLabel      "Dipankarasrijnana: Bodhisattvadikarmikamargavataradesana"@en ;
         :hasTitle           bdr:TT256CFBD789972498 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3293 ;
+        :instanceOf         bdr:WA0RTI3293 ;
         :isRoot             true ;
         :note               bdr:NT10FA2ACE6745C0E9 , bdr:NT740345A7ADC5542D .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0065 {
         skos:prefLabel      "Ganapatihrdaya-Dharani"@en ;
         :hasTitle           bdr:TTF3F123402BE7C0AB ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0659 ;
+        :instanceOf         bdr:WA0RKI0659 ;
         :isRoot             true ;
         :note               bdr:NT744114F4A12E2563 , bdr:NT865FE6D267D2F3B6 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0402 {
         skos:prefLabel      "Vinitadeva: Samtanantarasiddhitika"@en ;
         :hasTitle           bdr:TT6147F5C20D97CD05 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3574 ;
+        :instanceOf         bdr:WA0RTI3574 ;
         :isRoot             true ;
         :note               bdr:NT31B1C7D837C5D454 , bdr:NTF763E3C4B3377226 .
     

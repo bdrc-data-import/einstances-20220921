@@ -29,7 +29,7 @@ bdg:IE0GR0209 {
         skos:prefLabel      "Sitatapatra"@en ;
         :hasTitle           bdr:TT980D4E6A86D75F0F ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0584 ;
+        :instanceOf         bdr:WA0RKI0584 ;
         :isRoot             true ;
         :note               bdr:NT14D45F02AAA3E841 , bdr:NT86D2CB703EA01D97 .
     

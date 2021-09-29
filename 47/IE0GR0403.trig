@@ -29,7 +29,7 @@ bdg:IE0GR0403 {
         skos:prefLabel      "Yasomitra: Sphutartha Abhidharmakosavyakhya"@en ;
         :hasTitle           bdr:TT1E07EC0E61B3D4E3 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3430 ;
+        :instanceOf         bdr:WA0RTI3430 ;
         :isRoot             true ;
         :note               bdr:NTDDE8039BB14C272A , bdr:NTFBD42119D702D024 .
     

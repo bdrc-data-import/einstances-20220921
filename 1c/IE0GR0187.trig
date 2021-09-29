@@ -29,6 +29,7 @@ bdg:IE0GR0187 {
         skos:prefLabel      "Ratnakarasanti: Bhramaharanama Hevajrasadhana"@en ;
         :hasTitle           bdr:TT32B8BE41EAA6BD1F ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0187 ;
         :isRoot             true ;
         :note               bdr:NTDB65E43AAD13AB1B , bdr:NTDC4B01E3BBAF3CE5 .
     

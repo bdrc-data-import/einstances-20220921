@@ -29,7 +29,7 @@ bdg:IE0GR0303 {
         skos:prefLabel      "Hastavalaprakaranavrtti"@en ;
         :hasTitle           bdr:TT7882E16FE57B3FB1 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3190 ;
+        :instanceOf         bdr:WA0RTI3190 ;
         :isRoot             true ;
         :note               bdr:NT4E507848A7ACE52E , bdr:NT98F8E15F455467F8 .
     

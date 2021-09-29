@@ -29,6 +29,7 @@ bdg:IE0GR0598 {
         skos:prefLabel      "Balavatara"@en ;
         :hasTitle           bdr:TTA265ACEBA8F3ED79 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0598 ;
         :isRoot             true ;
         :note               bdr:NT5F15DFC8B3F7985C , bdr:NTFB14CF5614D42FB7 .
     

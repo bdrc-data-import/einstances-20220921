@@ -29,6 +29,7 @@ bdg:IE0GR0615 {
         skos:prefLabel      "Subodhalankara"@en ;
         :hasTitle           bdr:TT1CD062EC7B048906 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0615 ;
         :isRoot             true ;
         :note               bdr:NT0456653F877238E8 , bdr:NTACF813F114A64E01 .
     

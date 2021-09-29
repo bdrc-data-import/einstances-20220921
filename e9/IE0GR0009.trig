@@ -29,6 +29,7 @@ bdg:IE0GR0009 {
         skos:prefLabel      "Ahoratravratakatha"@en ;
         :hasTitle           bdr:TT14C6293CAEE3AD38 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0009 ;
         :isRoot             true ;
         :note               bdr:NT01E87794B3EE31CF , bdr:NTE8D8D13CF9FFCA99 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0107 {
         skos:prefLabel      "Madhyamakasalistambasutra"@en ;
         :hasTitle           bdr:TTD46121472203986A ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0210 ;
+        :instanceOf         bdr:WA0RKI0210 ;
         :isRoot             true ;
         :note               bdr:NT2F10D433568AC3CE , bdr:NTE1731863D88A4453 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0323 {
         skos:prefLabel      "Nagarjuna: Pindikrama"@en ;
         :hasTitle           bdr:TT1F4780D40C39DC76 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT2787 ;
+        :instanceOf         bdr:WA0RTI2787 ;
         :isRoot             true ;
         :note               bdr:NT849E78B5A3784377 , bdr:NTC823903DB226867B .
     

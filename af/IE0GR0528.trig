@@ -29,6 +29,7 @@ bdg:IE0GR0528 {
         skos:prefLabel      "Buddhavamsa, annotated version"@en ;
         :hasTitle           bdr:TT071BDBA8471E91AC ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0528 ;
         :isRoot             true ;
         :note               bdr:NT00A0E575BC8D273B , bdr:NT86B55AAF210E85E9 .
     

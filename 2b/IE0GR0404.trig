@@ -29,6 +29,7 @@ bdg:IE0GR0404 {
         skos:prefLabel      "Vinaya-Pitaka, Suttavibhanga 1, text in PTS layout"@en ;
         :hasTitle           bdr:TTB12C3CFBA68DE18E ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0404 ;
         :isRoot             true ;
         :note               bdr:NT124BE0E6363FE76A , bdr:NTD5C309293B872A38 .
     

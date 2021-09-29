@@ -29,6 +29,7 @@ bdg:IE0GR0053 {
         skos:prefLabel      "Davuldena Jnanesvara Mahasthavira: Yasodharacarita"@en ;
         :hasTitle           bdr:TT6059DD21A6D45AF2 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0053 ;
         :isRoot             true ;
         :note               bdr:NT2FF6A79F3C745EDB , bdr:NT395E470A1933C9D1 .
     

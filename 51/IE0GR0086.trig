@@ -29,7 +29,7 @@ bdg:IE0GR0086 {
         skos:prefLabel      "Karandavyuha"@en ;
         :hasTitle           bdr:TT72F8584173FF446A ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0116 ;
+        :instanceOf         bdr:WA0RKI0116 ;
         :isRoot             true ;
         :note               bdr:NTADF80E02BE87AEE9 , bdr:NTD65D9479F4539336 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0077 {
         skos:prefLabel      "Jnanalokalamkara"@en ;
         :hasTitle           bdr:TTF14D0A6783A7D153 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0100 ;
+        :instanceOf         bdr:WA0RKI0100 ;
         :isRoot             true ;
         :note               bdr:NT1B30536AD112E3C6 , bdr:NTDF9292FD779D016D .
     

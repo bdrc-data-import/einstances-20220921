@@ -29,6 +29,7 @@ bdg:IE0GR0381 {
         skos:prefLabel      "Tarkarahasya"@en ;
         :hasTitle           bdr:TT121E9BB90629F883 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0381 ;
         :isRoot             true ;
         :note               bdr:NT4464D6B90606A279 , bdr:NTEE649C45B4E02CAC .
     

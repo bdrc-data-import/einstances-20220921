@@ -29,7 +29,7 @@ bdg:IE0GR0380 {
         skos:prefLabel      "Tarkabhasa"@en ;
         :hasTitle           bdr:TTE7A24685F5B744AC ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3599 ;
+        :instanceOf         bdr:WA0RTI3599 ;
         :isRoot             true ;
         :note               bdr:NT4E33093EB8C08F7E , bdr:NT5E7A10BA68E139C8 .
     

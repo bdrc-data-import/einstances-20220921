@@ -29,6 +29,7 @@ bdg:IE0GR0017 {
         skos:prefLabel      "Aparimitayuhsutra"@en ;
         :hasTitle           bdr:TT0D9C5E2C4553DF6B ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0017 ;
         :isRoot             true ;
         :note               bdr:NT010F05F75750C5CF , bdr:NT7CC0F5E38DED9388 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0317 {
         skos:prefLabel      "Nagarjuna: Kriyasamgrahakarika"@en ;
         :hasTitle           bdr:TT6A904C8C6305AD61 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT1353 ;
+        :instanceOf         bdr:WA0RTI1353 ;
         :isRoot             true ;
         :note               bdr:NT392144DE0E2003F3 , bdr:NT87912CA5F0684D6C .
     

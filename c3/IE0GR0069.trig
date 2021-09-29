@@ -29,6 +29,7 @@ bdg:IE0GR0069 {
         skos:prefLabel      "Gunakarandavyuhasutra"@en ;
         :hasTitle           bdr:TT3FE833C85D53D71D ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0069 ;
         :isRoot             true ;
         :note               bdr:NT125555AD4380C516 , bdr:NTEC1AB4CBE65380DF .
     

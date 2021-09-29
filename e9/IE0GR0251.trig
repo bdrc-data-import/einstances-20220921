@@ -29,7 +29,7 @@ bdg:IE0GR0251 {
         skos:prefLabel      "Abhidharmasamuccayabhasya"@en ;
         :hasTitle           bdr:TT88CB8CC987C4B779 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3392 ;
+        :instanceOf         bdr:WA0RTI3392 ;
         :isRoot             true ;
         :note               bdr:NT48AF86884EEA2147 , bdr:NT9027F3BCA4F521DD .
     

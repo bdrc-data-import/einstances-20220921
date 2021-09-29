@@ -29,6 +29,7 @@ bdg:IE0GR0105 {
         skos:prefLabel      "Larger Prajnaparamita"@en ;
         :hasTitle           bdr:TT1DAD06806ACDBADB ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0105 ;
         :isRoot             true ;
         :note               bdr:NT16C1708C893968E3 , bdr:NT6670A57C70F90904 .
     

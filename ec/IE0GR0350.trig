@@ -29,6 +29,7 @@ bdg:IE0GR0350 {
         skos:prefLabel      "Ratnakirti (?): Vadarahasya, also known as Udayananirakarana"@en ;
         :hasTitle           bdr:TTF7903D3E63404547 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0350 ;
         :isRoot             true ;
         :note               bdr:NT078AF3F75BB0692E , bdr:NT343B93AD4E437D24 .
     

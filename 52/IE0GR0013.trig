@@ -29,6 +29,7 @@ bdg:IE0GR0013 {
         skos:prefLabel      "Amoghapasahrdayasutra"@en ;
         :hasTitle           bdr:TT2D8640ACD0C4D748 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0013 ;
         :isRoot             true ;
         :note               bdr:NT4B84AB33F1B05EB1 , bdr:NT87F6E417BFBEF247 .
     

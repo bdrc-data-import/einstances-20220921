@@ -29,7 +29,7 @@ bdg:IE0GR0121 {
         skos:prefLabel      "Mahadandadharanisitavati"@en ;
         :hasTitle           bdr:TTCB9CFC9380E62117 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0600 ;
+        :instanceOf         bdr:WA0RKI0600 ;
         :isRoot             true ;
         :note               bdr:NT6B919102E35BD302 , bdr:NTDE5A1F59C2CCF664 .
     

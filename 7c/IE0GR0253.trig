@@ -29,7 +29,7 @@ bdg:IE0GR0253 {
         skos:prefLabel      "Abhisamayalankarantah patinam"@en ;
         :hasTitle           bdr:TTD7DC52251A726E3D ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3138 ;
+        :instanceOf         bdr:WA0RTI3138 ;
         :isRoot             true ;
         :note               bdr:NT32E20242105CEE9D , bdr:NTB4EA1916E561094F .
     

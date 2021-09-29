@@ -29,6 +29,7 @@ bdg:IE0GR0566 {
         skos:prefLabel      "Nettippakarana"@en ;
         :hasTitle           bdr:TT96B058100982F1FE ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0566 ;
         :isRoot             true ;
         :note               bdr:NT30D7FBDC744B05F7 , bdr:NTC099E7AE0DD130B8 .
     

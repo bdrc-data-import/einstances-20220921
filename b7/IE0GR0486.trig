@@ -29,6 +29,7 @@ bdg:IE0GR0486 {
         skos:prefLabel      "Petavatthu, in PTS layout"@en ;
         :hasTitle           bdr:TT969B3789FE152AD5 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0486 ;
         :isRoot             true ;
         :note               bdr:NT050A567EEC0B0AC0 , bdr:NTE2A04F3BF089F325 .
     

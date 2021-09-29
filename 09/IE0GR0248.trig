@@ -29,7 +29,7 @@ bdg:IE0GR0248 {
         skos:prefLabel      "Vimalakirtinirdesa"@en ;
         :hasTitle           bdr:TT96B77BCB9D86A25F ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0176 ;
+        :instanceOf         bdr:WA0RKI0176 ;
         :isRoot             true ;
         :note               bdr:NT70EE924EE07231BC , bdr:NTDB76A7D6CC893E75 .
     

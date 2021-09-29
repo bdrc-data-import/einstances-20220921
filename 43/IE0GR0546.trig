@@ -29,6 +29,7 @@ bdg:IE0GR0546 {
         skos:prefLabel      "Kathavatthu, annotated version in PTS layout"@en ;
         :hasTitle           bdr:TT98D816A6A1BDACB7 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0546 ;
         :isRoot             true ;
         :note               bdr:NT9E6351BE7FDEE358 , bdr:NTD41EF29EDE77E90E .
     

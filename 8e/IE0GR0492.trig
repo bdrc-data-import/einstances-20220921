@@ -29,6 +29,7 @@ bdg:IE0GR0492 {
         skos:prefLabel      "Therigatha, PTS layout, annotated"@en ;
         :hasTitle           bdr:TT8D48AEAA449040C5 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0492 ;
         :isRoot             true ;
         :note               bdr:NT4993622D92A87C60 , bdr:NT620CB1F111CB4089 .
     

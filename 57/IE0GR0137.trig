@@ -29,7 +29,7 @@ bdg:IE0GR0137 {
         skos:prefLabel      "Maricinamadharani"@en ;
         :hasTitle           bdr:TT0FE07A50BA6188B5 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0559 ;
+        :instanceOf         bdr:WA0RKI0559 ;
         :isRoot             true ;
         :note               bdr:NT15EB8AF3433294E7 , bdr:NT52E6EF93E9C4F743 .
     

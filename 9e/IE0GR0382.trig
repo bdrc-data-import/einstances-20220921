@@ -29,6 +29,7 @@ bdg:IE0GR0382 {
         skos:prefLabel      "Pratyaksalaksana text of Tarkarahasya"@en ;
         :hasTitle           bdr:TT548DCBEC8A3BBDB9 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0382 ;
         :isRoot             true ;
         :note               bdr:NT96A2F36EEAB4AE78 , bdr:NTB8946937E73B3AB6 .
     

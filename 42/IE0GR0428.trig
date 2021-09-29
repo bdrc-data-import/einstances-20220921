@@ -29,6 +29,7 @@ bdg:IE0GR0428 {
         skos:prefLabel      "Majjhima-Nikaya, Vol 1, Suttantas 1-76"@en ;
         :hasTitle           bdr:TTACD3BE00D21F4AED ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0428 ;
         :isRoot             true ;
         :note               bdr:NTB4C9BEA34DFE65EB , bdr:NTEC7F855DF2296762 .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0599 {
         skos:prefLabel      "Chapata Saddhammajotipala: Kaccayanasuttaniddesa"@en ;
         :hasTitle           bdr:TT785FA4032FAA6D8A ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0599 ;
         :isRoot             true ;
         :note               bdr:NT32D11151FC4FF711 , bdr:NTE6AD1E7E4D9F7A1A .
     

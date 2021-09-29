@@ -29,7 +29,7 @@ bdg:IE0GR0101 {
         skos:prefLabel      "Ksemendra: Sumagadhavadana"@en ;
         :hasTitle           bdr:TT76F413225921ECF7 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3493 ;
+        :instanceOf         bdr:WA0RTI3493 ;
         :isRoot             true ;
         :note               bdr:NT342EAEBC49354313 , bdr:NTB8FC09DCB43AEFF7 .
     

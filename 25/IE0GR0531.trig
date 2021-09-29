@@ -29,6 +29,7 @@ bdg:IE0GR0531 {
         skos:prefLabel      "Cariyapitaka, PTS layout"@en ;
         :hasTitle           bdr:TT37DBC4563302E672 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0531 ;
         :isRoot             true ;
         :note               bdr:NT2F54CC864F6B4C36 , bdr:NT639089B41CC76D3B .
     

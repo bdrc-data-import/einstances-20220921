@@ -29,6 +29,7 @@ bdg:IE0GR0495 {
         skos:prefLabel      "Jataka: I. Ekanipata, annotated version"@en ;
         :hasTitle           bdr:TT1EB1252FD76660B9 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0495 ;
         :isRoot             true ;
         :note               bdr:NT50758889CCA527BB , bdr:NT7F80DC58DED71E77 .
     

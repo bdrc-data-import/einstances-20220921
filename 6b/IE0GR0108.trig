@@ -29,7 +29,7 @@ bdg:IE0GR0108 {
         skos:prefLabel      "Mahakarmavibhanga"@en ;
         :hasTitle           bdr:TT7506FF76C75D31B4 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3300 ;
+        :instanceOf         bdr:WA0RTI3300 ;
         :isRoot             true ;
         :note               bdr:NT0973D392E5E5F675 , bdr:NT71772218FA21F16A .
     

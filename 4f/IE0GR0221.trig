@@ -29,7 +29,7 @@ bdg:IE0GR0221 {
         skos:prefLabel      "Sukhavativyuha, Samksiptamatrka [smaller version]"@en ;
         :hasTitle           bdr:TT8C6D0C7101F4F6B3 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0115 ;
+        :instanceOf         bdr:WA0RKI0115 ;
         :isRoot             true ;
         :note               bdr:NT5C3678EE725452BA , bdr:NTFE4A750BBC3B37A2 .
     

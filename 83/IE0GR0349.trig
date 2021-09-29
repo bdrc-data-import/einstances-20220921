@@ -29,6 +29,7 @@ bdg:IE0GR0349 {
         skos:prefLabel      "Ratnakirti: Nibandhavali"@en ;
         :hasTitle           bdr:TT59432BCFF511333C ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0349 ;
         :isRoot             true ;
         :note               bdr:NTA3C5478EF4FCBB73 , bdr:NTF5CABF2BBEEF9994 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0210 {
         skos:prefLabel      "Satasahasrika Prajnaparamita II-1"@en ;
         :hasTitle           bdr:TT40FF19977D5790EC ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0008 ;
+        :instanceOf         bdr:WA0RKI0008 ;
         :isRoot             true ;
         :note               bdr:NT61B6CD9C741BC9F0 , bdr:NTBDAA9F1D14B7A15E .
     

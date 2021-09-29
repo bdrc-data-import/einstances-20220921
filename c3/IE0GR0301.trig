@@ -29,6 +29,7 @@ bdg:IE0GR0301 {
         skos:prefLabel      "Haribhadrasuri: Nyayapravesapravrtti"@en ;
         :hasTitle           bdr:TTEBBF43394AF57136 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0301 ;
         :isRoot             true ;
         :note               bdr:NT146CCC0E0E8FA6BC , bdr:NTC6652A305B0B3626 .
     

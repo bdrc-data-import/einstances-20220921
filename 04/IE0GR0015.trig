@@ -29,6 +29,7 @@ bdg:IE0GR0015 {
         skos:prefLabel      "Amrtakara: Catuhstavasamasartha"@en ;
         :hasTitle           bdr:TTC94A9D400F0752DA ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0015 ;
         :isRoot             true ;
         :note               bdr:NT3219A14A730D906F , bdr:NTF7B1C1F005D90070 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0196 {
         skos:prefLabel      "Samadhirajasutra (transliteration of Gilgit ms.)"@en ;
         :hasTitle           bdr:TT6D86E17FB04C3B2A ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0127 ;
+        :instanceOf         bdr:WA0RKI0127 ;
         :isRoot             true ;
         :note               bdr:NT3D19E736DBEBB41A , bdr:NTB1D7C82204ED30C8 .
     

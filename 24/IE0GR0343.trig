@@ -29,7 +29,7 @@ bdg:IE0GR0343 {
         skos:prefLabel      "Pramanavartika"@en ;
         :hasTitle           bdr:TTD354C5C2805A9F0C ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3547 ;
+        :instanceOf         bdr:WA0RTI3547 ;
         :isRoot             true ;
         :note               bdr:NTCBD08833C7E9BDD8 , bdr:NTD65F8F0893EBBE74 .
     

@@ -29,7 +29,7 @@ bdg:IE0GR0229 {
         skos:prefLabel      "Tarabhattarikanamastottarasatakastotra"@en ;
         :hasTitle           bdr:TTE56A458D3B4FD394 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RK0721 ;
+        :instanceOf         bdr:WA0RKI0721 ;
         :isRoot             true ;
         :note               bdr:NT6C4DBD8107D89D3F , bdr:NTD79D8EAAE5E9427E .
     

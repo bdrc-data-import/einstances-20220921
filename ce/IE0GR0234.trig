@@ -29,6 +29,7 @@ bdg:IE0GR0234 {
         skos:prefLabel      "Upasampadajnapti"@en ;
         :hasTitle           bdr:TT16108D05AB17A994 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0234 ;
         :isRoot             true ;
         :note               bdr:NTA9B0CFB1ACE65C00 , bdr:NTBD4CB5C6E0936FC4 .
     

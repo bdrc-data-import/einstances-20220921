@@ -29,6 +29,7 @@ bdg:IE0GR0347 {
         skos:prefLabel      "Ratnakirti: Ksanabhangasiddhir Vyatirekatmika"@en ;
         :hasTitle           bdr:TT003E8CFDD126048B ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0347 ;
         :isRoot             true ;
         :note               bdr:NT169B940F29C29454 , bdr:NT58855746CC5BF362 .
     

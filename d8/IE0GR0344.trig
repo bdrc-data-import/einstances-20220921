@@ -29,7 +29,7 @@ bdg:IE0GR0344 {
         skos:prefLabel      "Ratnagotravibhaga"@en ;
         :hasTitle           bdr:TT2D1F3108C5FDF8EE ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3364 ;
+        :instanceOf         bdr:WA0RTI3364 ;
         :isRoot             true ;
         :note               bdr:NT53063904FC5A323E , bdr:NT9DA7BB347CC36D27 .
     

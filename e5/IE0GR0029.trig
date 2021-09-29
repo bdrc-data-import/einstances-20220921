@@ -29,6 +29,7 @@ bdg:IE0GR0029 {
         skos:prefLabel      "Asokavadana [= Avadana 29 of the Divyavadana]"@en ;
         :hasTitle           bdr:TT9C8967678DCA66D7 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0029 ;
         :isRoot             true ;
         :note               bdr:NT1B21B0ADBE7DE491 , bdr:NTA86BDAA3B24C076B .
     

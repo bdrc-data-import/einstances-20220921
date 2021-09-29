@@ -29,6 +29,7 @@ bdg:IE0GR0389 {
         skos:prefLabel      "Vasubandhu: Bodhicittotpadasutrasastra"@en ;
         :hasTitle           bdr:TT2232524EC520C547 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0389 ;
         :isRoot             true ;
         :note               bdr:NT1FD63234F9588443 , bdr:NT44EC58A1A5802C41 .
     

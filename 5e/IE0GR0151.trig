@@ -29,6 +29,7 @@ bdg:IE0GR0151 {
         skos:prefLabel      "Nityakarmapujavidhi"@en ;
         :hasTitle           bdr:TT8DF7153C264BFC00 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0151 ;
         :isRoot             true ;
         :note               bdr:NT93D2BFDE561BE6AF , bdr:NTDFA4389A92BDE00C .
     

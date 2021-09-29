@@ -29,6 +29,7 @@ bdg:IE0GR0477 {
         skos:prefLabel      "Itivuttaka, annotated text in PTS layout"@en ;
         :hasTitle           bdr:TT44407FE73C5BDAF3 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0477 ;
         :isRoot             true ;
         :note               bdr:NT2AC336F3F904E25C , bdr:NTA1CB6156F0C1B2AF .
     

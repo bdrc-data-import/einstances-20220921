@@ -29,6 +29,7 @@ bdg:IE0GR0618 {
         skos:prefLabel      "Upasakajanalankara"@en ;
         :hasTitle           bdr:TT8316B3EFB6B665B0 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0618 ;
         :isRoot             true ;
         :note               bdr:NT6A60296943836ECD , bdr:NT8D080B74DEEE49C1 .
     

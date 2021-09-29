@@ -29,6 +29,7 @@ bdg:IE0GR0568 {
         skos:prefLabel      "Milindapanho, annotated version"@en ;
         :hasTitle           bdr:TT3FBBBFB9F75AEAAC ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0568 ;
         :isRoot             true ;
         :note               bdr:NT4A27E7A2F2242ABC , bdr:NTEDB5CCFDB749387E .
     

@@ -29,6 +29,7 @@ bdg:IE0GR0060 {
         skos:prefLabel      "Dvavimsatyavadanakatha, transliteration"@en ;
         :hasTitle           bdr:TT7D871BC21D3A1EA6 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0060 ;
         :isRoot             true ;
         :note               bdr:NT9B1F6FBA6677878C , bdr:NTF5DDBBCAF25EC185 .
     

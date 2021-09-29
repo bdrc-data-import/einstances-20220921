@@ -29,7 +29,7 @@ bdg:IE0GR0116 {
         skos:prefLabel      "Mahapratisaravidyavidhi"@en ;
         :hasTitle           bdr:TTDA78DF86052D550B ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT1945 ;
+        :instanceOf         bdr:WA0RTI1945 ;
         :isRoot             true ;
         :note               bdr:NT4BF848D02F886E44 , bdr:NTDD0F01D0A0593CCF .
     

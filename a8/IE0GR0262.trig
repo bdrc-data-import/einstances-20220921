@@ -29,7 +29,7 @@ bdg:IE0GR0262 {
         skos:prefLabel      "Aryadeva: Cittavisuddhiprakarana"@en ;
         :hasTitle           bdr:TT0E52287A639730D8 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT0668 ;
+        :instanceOf         bdr:WA0RTI0668 ;
         :isRoot             true ;
         :note               bdr:NT6A86A70C06FD0A9E , bdr:NT8AA53B9D4C14F2F0 .
     

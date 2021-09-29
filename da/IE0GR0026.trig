@@ -29,7 +29,7 @@ bdg:IE0GR0026 {
         skos:prefLabel      "Asanga: Sravakabhumi (Shukla ed.)"@en ;
         :hasTitle           bdr:TTC072E050059A1448 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3375 ;
+        :instanceOf         bdr:WA0RTI3375 ;
         :isRoot             true ;
         :note               bdr:NT9224103D309ECE75 , bdr:NTB4C5594EC4031275 .
     

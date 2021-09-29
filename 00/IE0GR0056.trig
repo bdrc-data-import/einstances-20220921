@@ -29,6 +29,7 @@ bdg:IE0GR0056 {
         skos:prefLabel      "Dhvajagrakeyura-Dharani"@en ;
         :hasTitle           bdr:TT4399513F0F658B77 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0056 ;
         :isRoot             true ;
         :note               bdr:NT873F27427FF1B61F , bdr:NTF5624A8A0DDAAEAF .
     

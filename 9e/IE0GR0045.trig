@@ -29,6 +29,7 @@ bdg:IE0GR0045 {
         skos:prefLabel      "Buddhist Yoga manual"@en ;
         :hasTitle           bdr:TTE49E159350CFE3F0 ;
         :inCollection       bdr:PR0GR01 ;
+        :instanceOf         bdr:WA0GR0045 ;
         :isRoot             true ;
         :note               bdr:NT795F67FC2BFEF1CA , bdr:NTCFDF190B00180D02 .
     

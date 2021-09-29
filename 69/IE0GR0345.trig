@@ -29,7 +29,7 @@ bdg:IE0GR0345 {
         skos:prefLabel      "Apohasiddhi"@en ;
         :hasTitle           bdr:TT5AEA86DAEA5DB6C1 ;
         :inCollection       bdr:PR0GR01 ;
-        :instanceOf         bdr:WA0RT3591 ;
+        :instanceOf         bdr:WA0RTI3591 ;
         :isRoot             true ;
         :note               bdr:NT0729258542EEE012 , bdr:NT32A6BAA3163C8FC9 .
     
