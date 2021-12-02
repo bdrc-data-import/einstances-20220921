@@ -22,6 +22,7 @@ bdg:IE00KG08457 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE00KG08457 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusReleased .
     
     bdr:ER583A742A7AE84008

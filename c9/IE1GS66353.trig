@@ -22,6 +22,7 @@ bdg:IE1GS66353 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE1GS66353 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusReleased .
     
     bdr:ERE693A6D186A1CAC7

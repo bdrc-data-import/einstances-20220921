@@ -22,6 +22,7 @@ bdg:IE3JT13360 {
         adm:graphId         bdg:IE3JT13360 ;
         adm:logEntry        bda:LG4FA08572E27AEA09 , bda:LGABC66EC9544325E6 , bda:LGF442DEFE07584AA7 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusWithdrawn .
     
     bda:LG4FA08572E27AEA09

@@ -22,6 +22,7 @@ bdg:IE18122 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE18122 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusReleased .
     
     bdr:ERE06AB70DAACAD592

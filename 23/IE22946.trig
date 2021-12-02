@@ -22,6 +22,7 @@ bdg:IE22946 {
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE22946 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:restrictedInChina  true ;
         adm:status          bda:StatusReleased .
     
     bdr:ER001F7FD6DCC60F0A
