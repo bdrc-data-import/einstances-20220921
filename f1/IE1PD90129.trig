@@ -2367,7 +2367,7 @@ bdg:IE1PD90129 {
     
     bdr:IE1PD90129  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET005 ;
+        :inCollection       bdr:PR0ET005 ;
         :instanceHasVolume  bdr:VL1FA6AABA9F651F53 , bdr:VL3D74D4E55BA51926 , bdr:VL3DD253F940425362 , bdr:VL410CA88DBE79C759 , bdr:VL502A7FC0EC048835 , bdr:VL5E0CF19992922085 , bdr:VL6486C91393B165B3 , bdr:VL75DDF909061B0520 , bdr:VLAE3F2403C0858906 , bdr:VLB0C246078C21B279 , bdr:VLB1C773B4298939F3 , bdr:VLBF9888E7ED57ACF8 , bdr:VLC116986270944974 , bdr:VLC47062EFC76803CF , bdr:VLC7580A1EB9709C2C , bdr:VLDC42DDB9354731CA , bdr:VLEBC0C36786094B2E , bdr:VLF431780672FFFFE0 ;
         :instanceOf         bdr:WA1GS152242 ;
         :instanceReproductionOf  bdr:MW1PD90129 , bdr:W1PD90129 ;

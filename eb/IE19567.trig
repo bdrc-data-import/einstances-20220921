@@ -32,7 +32,7 @@ bdg:IE19567 {
     
     bdr:IE19567  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLEFBEBC3BCC8FA345 ;
         :instanceOf         bdr:WA19567 ;
         :instanceReproductionOf  bdr:MW19567 , bdr:W19567 ;

@@ -82,7 +82,7 @@ bdg:IE23637 {
     
     bdr:IE23637  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET004 ;
+        :inCollection       bdr:PR0ET004 ;
         :instanceHasVolume  bdr:VL08CE8AB089D199CB , bdr:VL12932E44355484F7 , bdr:VL2799F1B4FE3E3A81 , bdr:VL3B4D9D6A7CA71CF0 , bdr:VL80312F45DA8B396F , bdr:VL977C5AE1F0F8DBE2 , bdr:VLACD5A6B80A49781E , bdr:VLC43184D1CA83B9CA , bdr:VLDBABCAD66FDC194F , bdr:VLE6B530A9061B1708 , bdr:VLEA3C2E0DF1A56DED ;
         :instanceOf         bdr:WA23637 ;
         :instanceReproductionOf  bdr:MW23637 , bdr:W23637 ;

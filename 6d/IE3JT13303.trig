@@ -100,7 +100,7 @@ bdg:IE3JT13303 {
         skos:prefLabel      "chos mngon pa'i skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT0CA4571266D83C05 , bdr:TT2CC8E1C68EF2D338 ;
-        :inCollection       bda:PR0ET004 ;
+        :inCollection       bdr:PR0ET004 ;
         :instanceHasVolume  bdr:VL8D19C4102993CC30 ;
         :instanceOf         bdr:WA3JT13303 ;
         :isRoot             true .

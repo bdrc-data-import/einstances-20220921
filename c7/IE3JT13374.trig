@@ -39,7 +39,7 @@ bdg:IE3JT13374 {
         skos:prefLabel      "sdom gsum nyer mkho'i bum bzang /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT937F222E32EC8AD6 , bdr:TTA1075094F76280DE ;
-        :inCollection       bda:PR0ET010 ;
+        :inCollection       bdr:PR0ET010 ;
         :instanceHasVolume  bdr:VLE76BFE2B5916129F ;
         :instanceOf         bdr:WA3JT13374 ;
         :isRoot             true .

@@ -56,7 +56,7 @@ bdg:IE1PD108254 {
     
     bdr:IE1PD108254  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL2549B91841735186 , bdr:VL56F31BC970F26F3F , bdr:VL7238051D1E90952D , bdr:VLABB206F932FEE348 , bdr:VLBA00AF2C837178BB , bdr:VLED4396A456E243FB ;
         :instanceOf         bdr:WA1PD108254 ;
         :instanceReproductionOf  bdr:MW1PD108254 , bdr:W1PD108254 ;

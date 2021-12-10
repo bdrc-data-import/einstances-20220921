@@ -1167,7 +1167,7 @@ bdg:IE22946 {
     
     bdr:IE22946  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET006 ;
+        :inCollection       bdr:PR0ET006 ;
         :instanceHasVolume  bdr:VL013D1486D615D936 , bdr:VL03724B401941DCE6 , bdr:VL1A02D4E56B1A75AE , bdr:VL40760535474B9C78 , bdr:VL58C299B0CA6A576A , bdr:VL6936E717A0B9E969 , bdr:VL8222F23F3DD6CB4E , bdr:VLC7EFF1D4DC9687DA , bdr:VLD32B52486EDE93ED , bdr:VLFE042DE2E9AD74BA ;
         :instanceOf         bdr:WA22946 ;
         :instanceReproductionOf  bdr:MW22946 , bdr:W22946 ;

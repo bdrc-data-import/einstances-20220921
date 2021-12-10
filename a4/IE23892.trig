@@ -381,7 +381,7 @@ bdg:IE23892 {
     
     bdr:IE23892  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET002 ;
+        :inCollection       bdr:PR0ET002 ;
         :instanceHasVolume  bdr:VL1A77E41DDBD72EBF , bdr:VL5E85F2C802EC314B , bdr:VL6F3EA464B61108E5 , bdr:VL8645612BCBF12E6A , bdr:VLABEE36C969275961 , bdr:VLC04021ADE858DE5B ;
         :instanceOf         bdr:WA23892 ;
         :instanceReproductionOf  bdr:MW23892 , bdr:W23892 ;

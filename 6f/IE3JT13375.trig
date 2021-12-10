@@ -44,7 +44,7 @@ bdg:IE3JT13375 {
         skos:prefLabel      "mi pham mkhas 'jug dang de'i sdom byang /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT0D0A5E8B3945F08D , bdr:TTDE96BEA9BA94B2E2 ;
-        :inCollection       bda:PR0ET010 ;
+        :inCollection       bdr:PR0ET010 ;
         :instanceHasVolume  bdr:VL9EF579FD09AE789C ;
         :instanceOf         bdr:WA3JT13375 ;
         :isRoot             true .

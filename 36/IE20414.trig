@@ -31,7 +31,7 @@ bdg:IE20414 {
     
     bdr:IE20414  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL7B41A2BF108A1CB4 ;
         :instanceOf         bdr:WA20414 ;
         :instanceReproductionOf  bdr:MW20414 , bdr:W20414 ;

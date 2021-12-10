@@ -62,7 +62,7 @@ bdg:IE25007 {
     
     bdr:IE25007  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL1B0D5F7A48DD35DC , bdr:VL408D9D874D2341D7 , bdr:VL4A3A9C35CC94CDE1 , bdr:VL9301CB1BF96EDC22 , bdr:VL9CEFA36E6B685F73 , bdr:VLA31DF1B846AD770F , bdr:VLC7972A020E6C2203 ;
         :instanceOf         bdr:WA23627 ;
         :instanceReproductionOf  bdr:MW25007 , bdr:W25007 ;

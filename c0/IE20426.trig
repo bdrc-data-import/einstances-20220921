@@ -37,7 +37,7 @@ bdg:IE20426 {
     
     bdr:IE20426  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLE4BD402BAEF3C1F8 , bdr:VLEB10F9BB0EEBE612 ;
         :instanceOf         bdr:WA20426 ;
         :instanceReproductionOf  bdr:MW20426 , bdr:W20426 ;

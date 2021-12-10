@@ -60,7 +60,7 @@ bdg:IE3JT13320 {
         skos:prefLabel      "phyag chen sngon 'gro'i skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT7B7E03C306734F3C , bdr:TTB2E067606546709A ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL381D6B87C9FDA034 , bdr:VL52697D439F4ADCB7 , bdr:VL7B7E03C306734F3C , bdr:VL7F713EA9116C8F05 , bdr:VLCD474596CF898B81 ;
         :instanceOf         bdr:WA3JT13320 ;
         :isRoot             true .

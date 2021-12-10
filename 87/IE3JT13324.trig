@@ -114,7 +114,7 @@ bdg:IE3JT13324 {
         skos:prefLabel      "gnam chos thugs kyi gter kha las/ bde chen zhing sgrub kyi skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTE76C2E5A1262EB64 ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL02199208AEABDCFB , bdr:VL23F46C8FE7EB070F , bdr:VL2FDA29B41C5CC966 , bdr:VL44C6D305B89041FB , bdr:VL58F90CC8B5BBB8C0 , bdr:VL63515251D16DFA47 , bdr:VL6FB22997112A304D , bdr:VL740FC305FB15DD5B , bdr:VL743631B58B19DA85 , bdr:VL762B955D08AD4CB5 , bdr:VL7C28F06294D16CE9 , bdr:VLBE4F85055289EA32 , bdr:VLBFD03B6DCCC30566 , bdr:VLEE18C6B97BBFC79F , bdr:VLF08B452896C9C195 , bdr:VLFD4A7F65F720FD08 ;
         :instanceOf         bdr:WA3JT13324 ;
         :isRoot             true .

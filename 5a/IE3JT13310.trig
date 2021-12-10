@@ -44,7 +44,7 @@ bdg:IE3JT13310 {
         skos:prefLabel      "shes rab kyi pha rol tu phyin pa'i lung chos mtha' dag gi bdud rtsi'i snying por gyur pa gang la ldan pa'i gzhi rje btsun mchog tu dgyes par ngal gso ba'i yongs 'du sa brtol gyi ljon pa rgyas pa/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT158B3D9762A6F26D ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL0CDB680D59F8EDE3 , bdr:VLD992FFC6C7DD6209 ;
         :instanceOf         bdr:WA3JT13310 ;
         :isRoot             true .

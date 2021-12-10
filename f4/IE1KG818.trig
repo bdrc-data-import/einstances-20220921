@@ -32,7 +32,7 @@ bdg:IE1KG818 {
     
     bdr:IE1KG818  a         :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLBC83BF009119DDDD ;
         :instanceOf         bdr:WA1KG818 ;
         :instanceReproductionOf  bdr:MW1KG818 , bdr:W1KG818 ;

@@ -39,7 +39,7 @@ bdg:IE3JT13321 {
         skos:prefLabel      "nges don phyag rgya chen po'i smon lam gyi 'grel chung bdud rtsi'i bum bzang /"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT0E7ED739DDDDB206 , bdr:TTFEC23418F0D9C099 ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VLABD0C550C0178CFD ;
         :instanceOf         bdr:WA3JT13321 ;
         :isRoot             true .

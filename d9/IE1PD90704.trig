@@ -57,7 +57,7 @@ bdg:IE1PD90704 {
     
     bdr:IE1PD90704  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL3A793FEEA1D5E675 , bdr:VL57720B195582BE62 , bdr:VL81D15CB5AC682520 , bdr:VLAC60CD896E3EC841 , bdr:VLC3B37FA0A4858C94 , bdr:VLF7AA671CA8A55AAB ;
         :instanceOf         bdr:WA1PD90704 ;
         :instanceReproductionOf  bdr:MW1PD90704 , bdr:W1PD90704 ;

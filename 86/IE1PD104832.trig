@@ -106,7 +106,7 @@ bdg:IE1PD104832 {
     
     bdr:IE1PD104832  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET005 ;
+        :inCollection       bdr:PR0ET005 ;
         :instanceHasVolume  bdr:VLB332D680F30DF7D3 ;
         :instanceOf         bdr:WA1PD104832 ;
         :instanceReproductionOf  bdr:MW1PD104832 , bdr:W1PD104832 ;

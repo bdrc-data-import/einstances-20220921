@@ -32,7 +32,7 @@ bdg:IE1KG5624 {
     
     bdr:IE1KG5624  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLF0F0BFD6F5A4534C ;
         :instanceOf         bdr:WA1KG5624 ;
         :instanceReproductionOf  bdr:MW1KG5624 , bdr:W1KG5624 ;

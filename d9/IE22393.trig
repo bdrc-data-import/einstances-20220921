@@ -222,7 +222,7 @@ bdg:IE22393 {
     
     bdr:IE22393  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL669DB6AB10F3BCB0 ;
         :instanceOf         bdr:WA22393 ;
         :instanceReproductionOf  bdr:MW22393 , bdr:W22393 ;

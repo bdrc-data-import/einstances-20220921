@@ -54,7 +54,7 @@ bdg:IE3JT13328 {
         skos:prefLabel      "gsung thor bu/ o rgyan 'phrin las rdo rje/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT8CB3201BBA01D0BD , bdr:TTA9CC5A4D20C402B9 ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL3D9DD9C192A0AB7E , bdr:VL90B1F9D4081DE3B2 , bdr:VLB1A1401D39141A08 , bdr:VLD2EADB9B34EE85C2 ;
         :instanceOf         bdr:WA3JT13328 ;
         :isRoot             true .

@@ -46,7 +46,7 @@ bdg:IE2DB4570 {
     
     bdr:IE2DB4570  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL1A784AD2704F9D51 , bdr:VL3A6A6BE692393332 , bdr:VL55D35F5EBE9251D9 , bdr:VLDD91BCBB6B92AC71 ;
         :instanceOf         bdr:WA2DB4570 ;
         :instanceReproductionOf  bdr:MW2DB4570 , bdr:W2DB4570 ;

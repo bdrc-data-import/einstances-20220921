@@ -439,7 +439,7 @@ bdg:IE3JT13348 {
         skos:prefLabel      "'jig rten mgon po'i gsung skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT55BAC955AB756061 , bdr:TTFBBC1B845817C741 ;
-        :inCollection       bda:PR0ET002 ;
+        :inCollection       bdr:PR0ET002 ;
         :instanceHasVolume  bdr:VL17928684AFE073DD , bdr:VL234EF033531E12D2 , bdr:VL285095AF2E2592EA , bdr:VL2AB709050B918A88 , bdr:VL49E0627BC1377504 , bdr:VL4A7B2A4B7327A0E0 , bdr:VL5623744D94A4E92F , bdr:VL56AAB2046C8C41C1 , bdr:VL8827CB9CEA3FA631 , bdr:VLB077D87B568AD8E8 , bdr:VLBFDFFAC1E5C55773 , bdr:VLDFD41C81EDEC0A4F , bdr:VLE9D722C8F9C49EC0 , bdr:VLF489074D9EA490D4 , bdr:VLFAD10F965194B779 ;
         :instanceOf         bdr:WA3JT13348 ;
         :isRoot             true .

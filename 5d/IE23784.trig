@@ -46,7 +46,7 @@ bdg:IE23784 {
     
     bdr:IE23784  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET002 ;
+        :inCollection       bdr:PR0ET002 ;
         :instanceHasVolume  bdr:VL3EA43971EA001211 ;
         :instanceOf         bdr:WA23784 ;
         :instanceReproductionOf  bdr:MW23784 , bdr:W23784 ;

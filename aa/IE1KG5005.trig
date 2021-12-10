@@ -42,7 +42,7 @@ bdg:IE1KG5005 {
     
     bdr:IE1KG5005  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLAF2E8535D84897AB , bdr:VLD04438F82BFEFEF5 , bdr:VLD89A5EF9FEAB59C0 ;
         :instanceOf         bdr:WA1KG5005 ;
         :instanceReproductionOf  bdr:MW1KG5005 , bdr:W1KG5005 ;

@@ -96,7 +96,7 @@ bdg:IE1PD105884 {
     
     bdr:IE1PD105884  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET005 ;
+        :inCollection       bdr:PR0ET005 ;
         :instanceHasVolume  bdr:VL01C344D1B5846C85 , bdr:VL027124562929E4B2 , bdr:VL0A1B9F04AD1F1E2D , bdr:VL348397AE328667EA , bdr:VL3809D8C83A143013 , bdr:VL484A4D8AF9426489 , bdr:VL5ABD5EAD02F45F65 , bdr:VL839431FA08EDCB44 , bdr:VL86ACA3E03E9F1FDA , bdr:VL8F5C475A7EF572CF , bdr:VLA725CC14FE5BBFAE , bdr:VLC27D499C3AB4FDCF , bdr:VLFB0184E60ADB8006 , bdr:VLFBF2525289053478 ;
         :instanceOf         bdr:WA1PD105884 ;
         :instanceReproductionOf  bdr:MW1PD105884 , bdr:W1PD105884 ;

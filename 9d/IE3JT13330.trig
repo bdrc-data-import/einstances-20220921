@@ -59,7 +59,7 @@ bdg:IE3JT13330 {
         skos:prefLabel      "mchod rten gyi skor dang / sAts+tsha gdab chog/ 'od zer dri med kyi bzlas pa/ gtsug tor dri med kyi gzungs bcas/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT3BD22910EF0C3C1C , bdr:TTA869DA303CBB2209 ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL47F5360DB59317EA , bdr:VLA38D1534218F9502 , bdr:VLB33FE7EAA2C3B4CD , bdr:VLB8B382FC0B5E03E9 , bdr:VLE477C35A35558974 ;
         :instanceOf         bdr:WA3JT13330 ;
         :isRoot             true .

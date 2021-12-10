@@ -32,7 +32,7 @@ bdg:IE1CZ2514 {
     
     bdr:IE1CZ2514  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL8EDFB8FD353664B6 ;
         :instanceOf         bdr:WA1CZ2514 ;
         :instanceReproductionOf  bdr:MW1CZ2514 , bdr:W1CZ2514 ;

@@ -104,7 +104,7 @@ bdg:IE3JT13307 {
         skos:prefLabel      "bcom ldan rig pa'i ral gri'i gsung skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT3CCF30FD0FDF8662 ;
-        :inCollection       bda:PR0ET004 ;
+        :inCollection       bdr:PR0ET004 ;
         :instanceHasVolume  bdr:VL1375903DD75245E4 , bdr:VL1C5AEC467F71A7FB , bdr:VL38EDC343653E93C7 , bdr:VL3E1875C445F94F8E , bdr:VL4766815707A76732 , bdr:VL50B600ED66C7D311 , bdr:VL575DAD8C3CF49A7F , bdr:VL67DDFC9527F217E6 , bdr:VL8DC2E46840253FFA , bdr:VL9C3E2F587D77ED68 , bdr:VLBBB3F9036D4CFC6C , bdr:VLD8CB9AD06F61744D , bdr:VLDE819226D0E8308C , bdr:VLEBBF140CA8C8EA1D ;
         :instanceOf         bdr:WA3JT13307 ;
         :isRoot             true .

@@ -84,7 +84,7 @@ bdg:IE3JT13325 {
         skos:prefLabel      "gsung thor bu/_bsod nams rin chen/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT15E47FDA60607D0F , bdr:TT994F3B31EA8C9A6D ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL0692C197D1EAF5DD , bdr:VL168EF7B136C0BEC3 , bdr:VL16E940178109FBA7 , bdr:VL2DE3E7AFA23F980D , bdr:VL373A5A7A7DEAB11E , bdr:VL53D89D8A392A48AC , bdr:VL7793039005EAA303 , bdr:VLAB1E8F337DC96452 , bdr:VLB587632CAAF0B662 , bdr:VLED525DA558170712 ;
         :instanceOf         bdr:WA3JT13325 ;
         :isRoot             true ;

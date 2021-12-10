@@ -3474,7 +3474,7 @@ bdg:IE3JT13384 {
         skos:prefLabel      "'jam dbyangs mkhyen brtse'i dbang po sogs bla ma kha shas kyi gsung phyogs bsgrigs/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT4AD1DB3D501F365F , bdr:TT652539F0BDE360DF ;
-        :inCollection       bda:PR0ET011 ;
+        :inCollection       bdr:PR0ET011 ;
         :instanceHasVolume  bdr:VL05B9CE1A940D2F74 , bdr:VL102DC0889252D197 , bdr:VL2F196BAE2D54E263 , bdr:VL3A256DBBDAC15EBD , bdr:VL3BFA822B7103381C , bdr:VL78F0334B6276317A , bdr:VL82F128B12955AB3E , bdr:VL92935A7DA02AFB79 , bdr:VLBC423D9820690513 , bdr:VLC5A48A675D194F50 , bdr:VLC8E9EA4B69A11332 , bdr:VLCB6DD91369B39D57 , bdr:VLD1AB518F104A6FB5 , bdr:VLD8003EEB4E543A83 , bdr:VLDA142DAD0448B697 , bdr:VLDEA7F55274A5577B , bdr:VLE9037A258D39FD26 , bdr:VLFCAAF9B62A42EA46 ;
         :instanceOf         bdr:WA3JT13384 ;
         :isRoot             true .

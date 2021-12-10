@@ -32,7 +32,7 @@ bdg:IE1GS44028 {
     
     bdr:IE1GS44028  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLB7E11A1BFA2D5005 ;
         :instanceOf         bdr:WA1GS44028 ;
         :instanceReproductionOf  bdr:MW1GS44028 , bdr:W1GS44028 ;

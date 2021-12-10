@@ -37,7 +37,7 @@ bdg:IE8027 {
     
     bdr:IE8027  a           :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL45876CDCE4080D6E , bdr:VL7A2EBA0CD7617E64 ;
         :instanceOf         bdr:WA1KG10161 ;
         :instanceReproductionOf  bdr:MW8027 , bdr:W8027 ;

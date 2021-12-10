@@ -46,7 +46,7 @@ bdg:IE1KG2778 {
     
     bdr:IE1KG2778  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL5704E758CF324207 , bdr:VL5F9EC393136CC613 , bdr:VL97E991C76145C1DC , bdr:VLC5DDC36B0701CF72 ;
         :instanceOf         bdr:WA10431 ;
         :instanceReproductionOf  bdr:MW1KG2778 , bdr:W1KG2778 ;

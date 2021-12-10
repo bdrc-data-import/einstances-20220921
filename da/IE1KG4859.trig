@@ -31,7 +31,7 @@ bdg:IE1KG4859 {
     
     bdr:IE1KG4859  a        :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLC77DEC66890E1C3D ;
         :instanceOf         bdr:WA1KG4859 ;
         :instanceReproductionOf  bdr:MW1KG4859 , bdr:W1KG4859 ;

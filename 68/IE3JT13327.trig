@@ -69,7 +69,7 @@ bdg:IE3JT13327 {
         skos:prefLabel      "zhabs brtan gsol 'debs sogs chos tshan 'ga'"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT2AFCA6C1D2F60DFA ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL22DF745DF9AF6D16 , bdr:VL672D722B121D384D , bdr:VL9375CBD247CDA14A , bdr:VLBBF22AC6BD37349C , bdr:VLBEDB99C78E2B4019 , bdr:VLC8A02CC876CF3EAD , bdr:VLE87C74F107528DBA ;
         :instanceOf         bdr:WA3JT13327 ;
         :isRoot             true .

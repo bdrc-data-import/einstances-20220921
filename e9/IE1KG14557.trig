@@ -92,7 +92,7 @@ bdg:IE1KG14557 {
     
     bdr:IE1KG14557  a       :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL17DC5484E5C5E116 , bdr:VL310402CA30D9A599 , bdr:VL31BD5929B90265F3 , bdr:VL4F5E097798EA3B86 , bdr:VL5C736F04F013A721 , bdr:VL8CFF1D46F08C5E15 , bdr:VL8E9A37D36E7948B8 , bdr:VL9A165602431BD8DD , bdr:VL9D30B1D00A329699 , bdr:VLA6538CCC048871B9 , bdr:VLD2E5E61299F3C2FC , bdr:VLF841CF3EA4055946 , bdr:VLF98ACABA98B1742E ;
         :instanceOf         bdr:WA1KG14557 ;
         :instanceReproductionOf  bdr:MW1KG14557 , bdr:W1KG14557 ;

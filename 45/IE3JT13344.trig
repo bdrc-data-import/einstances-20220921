@@ -110,7 +110,7 @@ bdg:IE3JT13344 {
         skos:prefLabel      "bka' rnying gi cho ga sna tshogs/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT745292F92A9B6B2C ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL03E2E10127986DC1 , bdr:VL1A69733368187616 , bdr:VL1C9FF808F5AC5B97 , bdr:VL2742C81D0BFCF12D , bdr:VL2D0F15327D8C889F , bdr:VL3B28E90C7FBB80DC , bdr:VL745292F92A9B6B2C , bdr:VL7713B7EE0A89BCFA , bdr:VL8C6502A33F88228D , bdr:VLA6AC2E4BC0650BA7 , bdr:VLDD69DC50746D8620 , bdr:VLE0814FB8D1EC3708 , bdr:VLE769B34135E7F5F3 , bdr:VLF8C7B533E2532A3E , bdr:VLF8F54536CB4257B3 ;
         :instanceOf         bdr:WA3JT13344 ;
         :isRoot             true .

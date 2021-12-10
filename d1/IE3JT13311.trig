@@ -39,7 +39,7 @@ bdg:IE3JT13311 {
         skos:prefLabel      "so so thar pa'i mdo'i 'grel pa rin chen 'byung gnas/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT11672A1D4902EA0E ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL5B209E3B493ACC0C ;
         :instanceOf         bdr:WA3JT13311 ;
         :isRoot             true .

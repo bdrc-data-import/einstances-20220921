@@ -31,7 +31,7 @@ bdg:IE27500 {
     
     bdr:IE27500  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VLBF273CF2C9F67746 ;
         :instanceOf         bdr:WA27500 ;
         :instanceReproductionOf  bdr:MW27500 , bdr:W27500 ;

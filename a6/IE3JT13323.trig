@@ -39,7 +39,7 @@ bdg:IE3JT13323 {
         skos:prefLabel      "kun dga' tshe dbang gi rnam thar mdor bsdus dang nad sman sprod pa'i nyams yig"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT0CA353B803E1BB38 , bdr:TT6E2AC51DE26ACF28 ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL57D0E0347048DF50 ;
         :instanceOf         bdr:WA3JT13323 ;
         :isRoot             true .

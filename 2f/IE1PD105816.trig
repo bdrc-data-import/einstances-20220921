@@ -32,7 +32,7 @@ bdg:IE1PD105816 {
     
     bdr:IE1PD105816  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL99BA9B6D2FBBB592 ;
         :instanceOf         bdr:WA1PD105816 ;
         :instanceReproductionOf  bdr:MW1PD105816 , bdr:W1PD105816 ;

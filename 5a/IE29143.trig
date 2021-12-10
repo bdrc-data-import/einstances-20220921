@@ -31,7 +31,7 @@ bdg:IE29143 {
     
     bdr:IE29143  a          :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL2A2266DCEC2FE321 ;
         :instanceOf         bdr:WA29143 ;
         :instanceReproductionOf  bdr:MW29143 , bdr:W29143 ;

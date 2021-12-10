@@ -40,7 +40,7 @@ bdg:IE3JT13313 {
         skos:prefLabel      "yi dam drag po'i mngon rtogs rdo rje'i 'phreng ba'i dbang bshad/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT17F866755DB12D11 ;
-        :inCollection       bda:PR0ET001 ;
+        :inCollection       bdr:PR0ET001 ;
         :instanceHasVolume  bdr:VL17F866755DB12D11 ;
         :instanceOf         bdr:WA3JT13313 ;
         :isRoot             true .

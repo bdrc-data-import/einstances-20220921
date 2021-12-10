@@ -46,7 +46,7 @@ bdg:IE3JT13322 {
         skos:prefLabel      "gsung 'bum/ bstan 'dzin chos kyi rgyal mtshan/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT7199A273C5B61D8F , bdr:TT9C323CA5BAB6D6DD ;
-        :inCollection       bda:PR0ET002 ;
+        :inCollection       bdr:PR0ET002 ;
         :instanceHasVolume  bdr:VL7199A273C5B61D8F ;
         :instanceOf         bdr:WA3JT13322 ;
         :isRoot             true .

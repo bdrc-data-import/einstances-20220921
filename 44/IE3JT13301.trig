@@ -120,7 +120,7 @@ bdg:IE3JT13301 {
         skos:prefLabel      "'dul ba'i skor/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT3F82953166C40913 ;
-        :inCollection       bda:PR0ET004 ;
+        :inCollection       bdr:PR0ET004 ;
         :instanceHasVolume  bdr:VL546AA402F8B1DBDF ;
         :instanceOf         bdr:WA3JT13301 ;
         :isRoot             true .

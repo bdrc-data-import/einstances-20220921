@@ -57,7 +57,7 @@ bdg:IE00KG08362 {
     
     bdr:IE00KG08362  a      :EtextInstance ;
         :contentMethod      bdr:ContentMethod_OCR ;
-        :inCollection       bda:PR0ET009 ;
+        :inCollection       bdr:PR0ET009 ;
         :instanceHasVolume  bdr:VL0A789D97EEC16E7E , bdr:VL2D04073261A71F28 , bdr:VL3B28526AF56CB9E8 , bdr:VL4F387F270E5B7BEF , bdr:VL5D1457322DF3D852 , bdr:VLE3C538B3EAD9230A ;
         :instanceOf         bdr:WA00KG08362 ;
         :instanceReproductionOf  bdr:MW00KG08362 , bdr:W00KG08362 ;
