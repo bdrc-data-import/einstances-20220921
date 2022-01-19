@@ -40,7 +40,7 @@ bdg:IE4CZ46036 {
     
     bdr:IE4CZ46036  a       :EtextInstance ;
         skos:prefLabel      "sa skya'i lam 'bras/"@bo-x-ewts ;
-        :biblioNote         "TBRC also have similer version scanned from computer set output. W1KG13617" ;
+        :biblioNote         "TBRC also have similer version scanned from computer set output. W1KG13617"@en ;
         :creator            bdr:CR16843482EA0A4808 , bdr:CR4A84699A7BF323C7 ;
         :hasTitle           bdr:TTA1928A9D7097409B , bdr:TTA6DDC9351302544A ;
         :instanceOf         bdr:WA4CZ46036 ;

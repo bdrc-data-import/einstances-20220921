@@ -35,7 +35,7 @@ bdg:IE4CZ46035 {
     
     bdr:IE4CZ46035  a       :EtextInstance ;
         skos:prefLabel      "rgyud sde kun btus/"@bo-x-ewts ;
-        :biblioNote         "TBRC also have similer version scanned from computer set output. W27883" ;
+        :biblioNote         "TBRC also have similer version scanned from computer set output. W27883"@en ;
         :creator            bdr:CR20BBA0B8B73B9B61 ;
         :hasTitle           bdr:TT30A9DD1443683236 , bdr:TT3B7D450512289450 ;
         :instanceOf         bdr:WA4CZ46035 ;
