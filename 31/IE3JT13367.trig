@@ -48,6 +48,7 @@ bdg:IE3JT13367 {
     bdr:IE3JT13367  a       :EtextInstance ;
         skos:prefLabel      "sa skya bka' 'bum zhu bsdur skor nyung ngu/"@bo-x-ewts ;
         :contentMethod      bdr:ContentMethod_ComputerInput ;
+        :copyrightStatus    bdr:CopyrightClaimed ;
         :hasTitle           bdr:TTE8470EF4165CACDC ;
         :inCollection       bdr:PR0ET005 ;
         :instanceHasVolume  bdr:VLF58182967BAF11B4 ;
