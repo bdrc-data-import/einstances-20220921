@@ -14,7 +14,7 @@
 bdg:IE1PD107937 {
     bda:IE1PD107937  a      adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE1PD107937 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      57 ;

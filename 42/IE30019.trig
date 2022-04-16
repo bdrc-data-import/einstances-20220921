@@ -14,7 +14,7 @@
 bdg:IE30019 {
     bda:IE30019  a          adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE30019 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      5 ;

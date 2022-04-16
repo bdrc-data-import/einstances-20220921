@@ -14,7 +14,7 @@
 bdg:IE2CZ6618 {
     bda:IE2CZ6618  a        adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE2CZ6618 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;

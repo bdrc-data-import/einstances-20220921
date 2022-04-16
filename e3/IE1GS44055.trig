@@ -14,7 +14,7 @@
 bdg:IE1GS44055 {
     bda:IE1GS44055  a       adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE1GS44055 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      3 ;

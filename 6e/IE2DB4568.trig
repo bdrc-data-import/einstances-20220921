@@ -14,7 +14,7 @@
 bdg:IE2DB4568 {
     bda:IE2DB4568  a        adm:AdminData ;
         :isRoot             true ;
-        adm:access          bda:AccessOpen ;
+        adm:access          bda:AccessFairUse ;
         adm:adminAbout      bdr:IE2DB4568 ;
         adm:contentProvider  bda:CP009 ;
         adm:facetIndex      9 ;
