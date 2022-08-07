@@ -17,6 +17,7 @@ bdg:IE3JT13303 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13303 ;
         adm:contentProvider  bda:CP004 ;
+        adm:facetIndex      17 ;
         adm:gitPath         "6d/IE3JT13303.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13303 ;
@@ -27,7 +28,6 @@ bdg:IE3JT13303 {
     bda:W3JT13303  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13303 ;
-        adm:facetIndex      17 ;
         adm:replaceWith     bdr:IE3JT13303 ;
         adm:status          bda:StatusWithdrawn .
     

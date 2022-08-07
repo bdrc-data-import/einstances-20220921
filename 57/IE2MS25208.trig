@@ -15,6 +15,7 @@ bdg:IE2MS25208 {
     bda:IE2MS25208  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE2MS25208 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "57/IE2MS25208.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE2MS25208 ;
@@ -43,7 +44,6 @@ bdg:IE2MS25208 {
     bda:W2MS25208  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W2MS25208 ;
-        adm:facetIndex      5 ;
         adm:replaceWith     bdr:IE2MS25208 ;
         adm:status          bda:StatusWithdrawn .
     

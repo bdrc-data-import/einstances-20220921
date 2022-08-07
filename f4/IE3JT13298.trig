@@ -17,7 +17,7 @@ bdg:IE3JT13298 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13298 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      2 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "f4/IE3JT13298.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13298 ;
@@ -27,11 +27,10 @@ bdg:IE3JT13298 {
     bda:W3JT13298  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13298 ;
-        adm:facetIndex      3 ;
         adm:replaceWith     bdr:IE3JT13298 ;
         adm:status          bda:StatusWithdrawn .
     
-    bdr:ERB1ECD2020E69F613
+    bdr:ER5FD84172175D4232
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13298_001_0001 ;
         :seqNum             1 .
@@ -41,7 +40,7 @@ bdg:IE3JT13298 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTE650AC89E81E88F7 ;
         :inCollection       bdr:PR0ET001 ;
-        :instanceHasVolume  bdr:VLE650AC89E81E88F7 ;
+        :instanceHasVolume  bdr:VLB1ECD2020E69F613 ;
         :instanceOf         bdr:WA3JT13298 ;
         :isRoot             true .
     
@@ -49,9 +48,9 @@ bdg:IE3JT13298 {
         a                   :Title ;
         rdfs:label          "bde ba can du bgrod pa'i smon lam/"@bo-x-ewts .
     
-    bdr:VLE650AC89E81E88F7
+    bdr:VLB1ECD2020E69F613
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERB1ECD2020E69F613 ;
+        :volumeHasEtext     bdr:ER5FD84172175D4232 ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13298 .
 }

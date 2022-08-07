@@ -17,7 +17,7 @@ bdg:IE3JT13317 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13317 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      2 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "b7/IE3JT13317.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13317 ;
@@ -27,11 +27,10 @@ bdg:IE3JT13317 {
     bda:W3JT13317  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13317 ;
-        adm:facetIndex      3 ;
         adm:replaceWith     bdr:IE3JT13317 ;
         adm:status          bda:StatusWithdrawn .
     
-    bdr:ER69F55C1EB249396F
+    bdr:ER3379D6F08AFFB76F
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13317_001_0001 ;
         :seqNum             1 .
@@ -41,7 +40,7 @@ bdg:IE3JT13317 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TTFF249108A9AAFA91 ;
         :inCollection       bdr:PR0ET001 ;
-        :instanceHasVolume  bdr:VLFF249108A9AAFA91 ;
+        :instanceHasVolume  bdr:VL69F55C1EB249396F ;
         :instanceOf         bdr:WA3JT13317 ;
         :isRoot             true .
     
@@ -49,9 +48,9 @@ bdg:IE3JT13317 {
         a                   :Title ;
         rdfs:label          "gcod kyi tshogs las yon tan kun 'byung gsungs rgyun 'khrul med ltar bkod pa/"@bo-x-ewts .
     
-    bdr:VLFF249108A9AAFA91
+    bdr:VL69F55C1EB249396F
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER69F55C1EB249396F ;
+        :volumeHasEtext     bdr:ER3379D6F08AFFB76F ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13317 .
 }

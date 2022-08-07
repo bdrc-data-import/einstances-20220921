@@ -15,6 +15,7 @@ bdg:IE2MS24739 {
     bda:IE2MS24739  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE2MS24739 ;
+        adm:facetIndex      2 ;
         adm:gitPath         "64/IE2MS24739.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE2MS24739 ;
@@ -24,7 +25,6 @@ bdg:IE2MS24739 {
     bda:W2MS24739  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W2MS24739 ;
-        adm:facetIndex      2 ;
         adm:replaceWith     bdr:IE2MS24739 ;
         adm:status          bda:StatusWithdrawn .
     

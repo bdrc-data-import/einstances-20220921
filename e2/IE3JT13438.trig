@@ -15,6 +15,7 @@ bdg:IE3JT13438 {
     bda:IE3JT13438  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE3JT13438 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "e2/IE3JT13438.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13438 ;
@@ -24,7 +25,6 @@ bdg:IE3JT13438 {
     bda:W3JT13438  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13438 ;
-        adm:facetIndex      3 ;
         adm:replaceWith     bdr:IE3JT13438 ;
         adm:status          bda:StatusWithdrawn .
     

@@ -17,6 +17,7 @@ bdg:IE4CZ42297 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE4CZ42297 ;
         adm:contentProvider  bda:CP008 ;
+        adm:facetIndex      64 ;
         adm:gitPath         "f5/IE4CZ42297.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE4CZ42297 ;
@@ -27,7 +28,6 @@ bdg:IE4CZ42297 {
     bda:W4CZ42297  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W4CZ42297 ;
-        adm:facetIndex      64 ;
         adm:replaceWith     bdr:IE4CZ42297 ;
         adm:status          bda:StatusWithdrawn .
     

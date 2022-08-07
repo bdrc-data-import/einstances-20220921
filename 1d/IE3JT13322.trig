@@ -17,7 +17,7 @@ bdg:IE3JT13322 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13322 ;
         adm:contentProvider  bda:CP002 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      6 ;
         adm:gitPath         "1d/IE3JT13322.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13322 ;
@@ -28,16 +28,15 @@ bdg:IE3JT13322 {
     bda:W3JT13322  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13322 ;
-        adm:facetIndex      4 ;
         adm:replaceWith     bdr:IE3JT13322 ;
         adm:status          bda:StatusWithdrawn .
     
-    bdr:ER9C323CA5BAB6D6DD
+    bdr:ER7CEA047B79EF7DCC
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13322_001_0001 ;
         :seqNum             1 .
     
-    bdr:ERE8A8E745B287CE68
+    bdr:ERA8B45FFEC148A1FC
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13322_001_0002 ;
         :seqNum             2 .
@@ -47,7 +46,7 @@ bdg:IE3JT13322 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT7199A273C5B61D8F , bdr:TT9C323CA5BAB6D6DD ;
         :inCollection       bdr:PR0ET002 ;
-        :instanceHasVolume  bdr:VL7199A273C5B61D8F ;
+        :instanceHasVolume  bdr:VLE8A8E745B287CE68 ;
         :instanceOf         bdr:WA3JT13322 ;
         :isRoot             true .
     
@@ -59,9 +58,9 @@ bdg:IE3JT13322 {
         a                   :TitlePageTitle ;
         rdfs:label          "bstan 'dzin chos kyi rgyal mtshan gyi gsung 'bum/"@bo-x-ewts .
     
-    bdr:VL7199A273C5B61D8F
+    bdr:VLE8A8E745B287CE68
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER9C323CA5BAB6D6DD , bdr:ERE8A8E745B287CE68 ;
+        :volumeHasEtext     bdr:ER7CEA047B79EF7DCC , bdr:ERA8B45FFEC148A1FC ;
         :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13322 .
 }

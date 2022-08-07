@@ -15,6 +15,7 @@ bdg:IE06CT1 {
     bda:IE06CT1  a          adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE06CT1 ;
+        adm:facetIndex      5 ;
         adm:gitPath         "97/IE06CT1.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE06CT1 ;
@@ -43,7 +44,6 @@ bdg:IE06CT1 {
     bda:W06CT1  a           adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W06CT1 ;
-        adm:facetIndex      5 ;
         adm:replaceWith     bdr:IE06CT1 ;
         adm:status          bda:StatusWithdrawn .
     

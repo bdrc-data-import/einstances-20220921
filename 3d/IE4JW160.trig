@@ -15,6 +15,7 @@ bdg:IE4JW160 {
     bda:IE4JW160  a         adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:IE4JW160 ;
+        adm:facetIndex      11 ;
         adm:gitPath         "3d/IE4JW160.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE4JW160 ;
@@ -74,7 +75,6 @@ bdg:IE4JW160 {
     bda:W4JW160  a          adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W4JW160 ;
-        adm:facetIndex      11 ;
         adm:replaceWith     bdr:IE4JW160 ;
         adm:status          bda:StatusWithdrawn .
     

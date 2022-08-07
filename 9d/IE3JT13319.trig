@@ -17,7 +17,7 @@ bdg:IE3JT13319 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13319 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      4 ;
+        adm:facetIndex      10 ;
         adm:gitPath         "9d/IE3JT13319.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13319 ;
@@ -27,23 +27,22 @@ bdg:IE3JT13319 {
     bda:W3JT13319  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13319 ;
-        adm:facetIndex      7 ;
         adm:replaceWith     bdr:IE3JT13319 ;
         adm:status          bda:StatusWithdrawn .
     
-    bdr:ER8FAFD1EDE78140E4
+    bdr:ER620C7066C53EE116
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13319_001_0000 ;
+        :eTextResource      bdr:UT3JT13319_002_0000 ;
         :seqNum             1 .
     
-    bdr:ER963E707053CF9B53
+    bdr:ERDBA9039AB0FE0E30
         a                   :EtextRef ;
         :eTextResource      bdr:UT3JT13319_003_0000 ;
         :seqNum             1 .
     
-    bdr:ERAC4B08E4185C3719
+    bdr:EREE4D1A90600E5FFC
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13319_002_0000 ;
+        :eTextResource      bdr:UT3JT13319_001_0000 ;
         :seqNum             1 .
     
     bdr:IE3JT13319  a       :EtextInstance ;
@@ -51,7 +50,7 @@ bdg:IE3JT13319 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT8FAFD1EDE78140E4 , bdr:TT923FE827F1E34E85 ;
         :inCollection       bdr:PR0ET001 ;
-        :instanceHasVolume  bdr:VL00843993C0207528 , bdr:VL923FE827F1E34E85 , bdr:VLEE4D1A90600E5FFC ;
+        :instanceHasVolume  bdr:VL963E707053CF9B53 , bdr:VLAC4B08E4185C3719 , bdr:VLEDA81B9B3DC5018A ;
         :instanceOf         bdr:WA3JT13319 ;
         :isRoot             true ;
         :note               bdr:NT00843993C0207528 .
@@ -68,21 +67,21 @@ bdg:IE3JT13319 {
         a                   :TitlePageTitle ;
         rdfs:label          "phyag rgya chen po'i rgya gzhung /"@bo-x-ewts .
     
-    bdr:VL00843993C0207528
+    bdr:VL963E707053CF9B53
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER8FAFD1EDE78140E4 ;
-        :volumeNumber       1 ;
-        :volumeOf           bdr:IE3JT13319 .
-    
-    bdr:VL923FE827F1E34E85
-        a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERAC4B08E4185C3719 ;
+        :volumeHasEtext     bdr:ER620C7066C53EE116 ;
         :volumeNumber       2 ;
         :volumeOf           bdr:IE3JT13319 .
     
-    bdr:VLEE4D1A90600E5FFC
+    bdr:VLAC4B08E4185C3719
         a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ER963E707053CF9B53 ;
+        :volumeHasEtext     bdr:EREE4D1A90600E5FFC ;
+        :volumeNumber       1 ;
+        :volumeOf           bdr:IE3JT13319 .
+    
+    bdr:VLEDA81B9B3DC5018A
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERDBA9039AB0FE0E30 ;
         :volumeNumber       3 ;
         :volumeOf           bdr:IE3JT13319 .
 }

@@ -17,7 +17,7 @@ bdg:IE3JT13320 {
         adm:access          bda:AccessOpen ;
         adm:adminAbout      bdr:IE3JT13320 ;
         adm:contentProvider  bda:CP001 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      13 ;
         adm:gitPath         "87/IE3JT13320.trig" ;
         adm:gitRepo         bda:GR0013 ;
         adm:graphId         bdg:IE3JT13320 ;
@@ -27,33 +27,32 @@ bdg:IE3JT13320 {
     bda:W3JT13320  a        adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:W3JT13320 ;
-        adm:facetIndex      11 ;
         adm:replaceWith     bdr:IE3JT13320 ;
         adm:status          bda:StatusWithdrawn .
     
     bdr:ER333EC7D429D1BFD1
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13320_004_0000 ;
+        :eTextResource      bdr:UT3JT13320_005_0000 ;
         :seqNum             1 .
     
     bdr:ER59E4D10D9B9F562A
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13320_001_0000 ;
+        :eTextResource      bdr:UT3JT13320_003_0000 ;
         :seqNum             1 .
     
     bdr:ER767891FDB8D157FE
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13320_005_0000 ;
+        :eTextResource      bdr:UT3JT13320_001_0000 ;
         :seqNum             1 .
     
-    bdr:ERB2E067606546709A
+    bdr:ERDB6BFC0B48BEAE79
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13320_002_0000 ;
+        :eTextResource      bdr:UT3JT13320_004_0000 ;
         :seqNum             1 .
     
     bdr:ERE1CA4B17532EBCDF
         a                   :EtextRef ;
-        :eTextResource      bdr:UT3JT13320_003_0000 ;
+        :eTextResource      bdr:UT3JT13320_002_0000 ;
         :seqNum             1 .
     
     bdr:IE3JT13320  a       :EtextInstance ;
@@ -61,7 +60,7 @@ bdg:IE3JT13320 {
         :contentMethod      bdr:ContentMethod_ComputerInput ;
         :hasTitle           bdr:TT7B7E03C306734F3C , bdr:TTB2E067606546709A ;
         :inCollection       bdr:PR0ET001 ;
-        :instanceHasVolume  bdr:VL381D6B87C9FDA034 , bdr:VL52697D439F4ADCB7 , bdr:VL7B7E03C306734F3C , bdr:VL7F713EA9116C8F05 , bdr:VLCD474596CF898B81 ;
+        :instanceHasVolume  bdr:VL381D6B87C9FDA034 , bdr:VL52697D439F4ADCB7 , bdr:VL7F713EA9116C8F05 , bdr:VLCD474596CF898B81 , bdr:VLE3B5846904E59BF5 ;
         :instanceOf         bdr:WA3JT13320 ;
         :isRoot             true .
     
@@ -76,30 +75,30 @@ bdg:IE3JT13320 {
     bdr:VL381D6B87C9FDA034
         a                   :VolumeEtextAsset ;
         :volumeHasEtext     bdr:ER59E4D10D9B9F562A ;
-        :volumeNumber       1 ;
+        :volumeNumber       3 ;
         :volumeOf           bdr:IE3JT13320 .
     
     bdr:VL52697D439F4ADCB7
         a                   :VolumeEtextAsset ;
         :volumeHasEtext     bdr:ER767891FDB8D157FE ;
-        :volumeNumber       5 ;
-        :volumeOf           bdr:IE3JT13320 .
-    
-    bdr:VL7B7E03C306734F3C
-        a                   :VolumeEtextAsset ;
-        :volumeHasEtext     bdr:ERB2E067606546709A ;
-        :volumeNumber       2 ;
+        :volumeNumber       1 ;
         :volumeOf           bdr:IE3JT13320 .
     
     bdr:VL7F713EA9116C8F05
         a                   :VolumeEtextAsset ;
         :volumeHasEtext     bdr:ERE1CA4B17532EBCDF ;
-        :volumeNumber       3 ;
+        :volumeNumber       2 ;
         :volumeOf           bdr:IE3JT13320 .
     
     bdr:VLCD474596CF898B81
         a                   :VolumeEtextAsset ;
         :volumeHasEtext     bdr:ER333EC7D429D1BFD1 ;
+        :volumeNumber       5 ;
+        :volumeOf           bdr:IE3JT13320 .
+    
+    bdr:VLE3B5846904E59BF5
+        a                   :VolumeEtextAsset ;
+        :volumeHasEtext     bdr:ERDB6BFC0B48BEAE79 ;
         :volumeNumber       4 ;
         :volumeOf           bdr:IE3JT13320 .
 }
